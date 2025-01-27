@@ -1,16 +1,15 @@
 import { smokeLightest } from "@databiosphere/findable-ui/lib/theme/common/palette";
 import { GetStaticProps } from "next";
 import { StyledMain } from "../app/components/Layout/components/Main/main.styles";
-import { HomeView } from "../app/views/HomeView/homeView";
 
 export const Home = (): JSX.Element => {
-  return <HomeView />;
+  return <></>;
 };
 
 export const getStaticProps: GetStaticProps = async () => {
   return {
     props: {
-      pageTitle: "BRC Analytics",
+      pageTitle: "Genome Ark 2",
       themeOptions: {
         palette: {
           background: { default: smokeLightest },

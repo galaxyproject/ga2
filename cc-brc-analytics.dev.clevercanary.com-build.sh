@@ -13,7 +13,7 @@ export NEXT_PUBLIC_BASE_PATH=""
 # Build catalog
 npm run build:local
 
-export BUCKET=s3://tik-brc-analytics.dev/
+export BUCKET=TODO
 export SRCDIR=out/
 
 aws s3 sync  $SRCDIR $BUCKET --delete --profile excira

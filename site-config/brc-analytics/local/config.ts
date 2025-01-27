@@ -1,4 +1,3 @@
-import { ANCHOR_TARGET } from "@databiosphere/findable-ui/lib/components/Links/common/entities";
 import { SiteConfig } from "@databiosphere/findable-ui/lib/config/entities";
 import { EntityConfig } from "@databiosphere/findable-ui/src/config/entities";
 import {
@@ -13,9 +12,9 @@ import { organismEntityConfig } from "./index/organismEntityConfig";
 import { socialMedia } from "./socialMedia";
 
 const LOCALHOST = "http://localhost:3000";
-const APP_TITLE = "BRC Analytics";
+const APP_TITLE = "Genome Ark 2";
 const BROWSER_URL = LOCALHOST;
-const GIT_HUB_REPO_URL = "https://github.com/galaxyproject/brc-analytics";
+const GIT_HUB_REPO_URL = "https://github.com/galaxyproject/ga2";
 
 /**
  * Make site config object.
@@ -49,18 +48,6 @@ export function makeConfig(browserUrl: string, gitHubUrl: string): SiteConfig {
       floating,
       footer: {
         Branding: C.Branding(),
-        navLinks: [
-          {
-            label: "BV-BRC",
-            target: ANCHOR_TARGET.BLANK,
-            url: "https://www.bv-brc.org/",
-          },
-          {
-            label: "Pathogen Data Network",
-            target: ANCHOR_TARGET.BLANK,
-            url: "https://pathogendatanetwork.org/",
-          },
-        ],
         socials: socialMedia.socials,
         versionInfo: true,
       },
@@ -69,15 +56,13 @@ export function makeConfig(browserUrl: string, gitHubUrl: string): SiteConfig {
           alt: APP_TITLE,
           height: 26,
           link: "/",
-          src: "/logo/brc.svg",
+          src: "TODO",
         }),
         navigation: [
           undefined,
           [
-            { label: "About", url: ROUTES.ABOUT },
             { label: "Organisms", url: ROUTES.ORGANISMS },
             { label: "Assemblies", url: ROUTES.GENOMES },
-            { label: "Roadmap", url: ROUTES.ROADMAP },
           ],
           undefined,
         ],

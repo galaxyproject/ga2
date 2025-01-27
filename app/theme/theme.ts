@@ -5,7 +5,7 @@ import * as C from "./common/components";
 import { primary } from "./common/palette";
 
 /**
- * Returns BRC customized theme.
+ * Returns GA2 customized theme.
  * @param baseThemeOptions - Base theme options.
  * @param themeOptions - Custom theme option overrides.
  * @returns theme with custom theme overrides.

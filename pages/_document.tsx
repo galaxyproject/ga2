@@ -14,7 +14,7 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
           <script
-            data-domain="brc-analytics.org"
+            data-domain="TODO"
             defer
             src="https://plausible.galaxyproject.eu/js/script.js"
           />

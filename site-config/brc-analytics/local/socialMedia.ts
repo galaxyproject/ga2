@@ -4,11 +4,11 @@ import * as C from "../../../app/components";
 export const SOCIALS = {
   DISCOURSE: {
     label: "Discourse",
-    url: "https://help.brc-analytics.org/",
+    url: "TODO",
   },
   GITHUB: {
     label: "GitHub",
-    url: "https://github.com/galaxyproject/brc-analytics",
+    url: "https://github.com/galaxyproject/ga2",
   },
 };
 
