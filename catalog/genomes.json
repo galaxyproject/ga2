@@ -16,6 +16,7 @@
     "species": "Phascolarctos cinereus",
     "speciesTaxonomyId": "38626",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -35,6 +36,7 @@
     "species": "Monodon monoceros",
     "speciesTaxonomyId": "40151",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -54,6 +56,7 @@
     "species": "Alca torda",
     "speciesTaxonomyId": "28689",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -73,6 +76,7 @@
     "species": "Geothlypis trichas",
     "speciesTaxonomyId": "135433",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -92,6 +96,7 @@
     "species": "Tauraco erythrolophus",
     "speciesTaxonomyId": "121530",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -111,6 +116,7 @@
     "species": "Pterocles gutturalis",
     "speciesTaxonomyId": "240206",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -130,6 +136,7 @@
     "species": "Bucorvus abyssinicus",
     "speciesTaxonomyId": "153643",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -149,6 +156,7 @@
     "species": "Merops nubicus",
     "speciesTaxonomyId": "57421",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -168,6 +176,7 @@
     "species": "Sterna hirundo",
     "speciesTaxonomyId": "108405",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -187,6 +196,7 @@
     "species": "Phoenicopterus ruber",
     "speciesTaxonomyId": "9217",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -206,6 +216,7 @@
     "species": "Cariama cristata",
     "speciesTaxonomyId": "54380",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -225,25 +236,7 @@
     "species": "Balearica regulorum",
     "speciesTaxonomyId": "925459",
     "strain": null,
-    "ucscBrowserUrl": null
-  },
-  {
-    "accession": "GCA_011762505.2",
-    "annotationStatus": null,
-    "chromosomes": 23,
-    "coverage": "61.0x",
-    "gcPercent": 41.5,
-    "geneModelUrl": "https://hgdownload.soe.ucsc.edu/hubs/GCA/011/762/505/GCA_011762505.2/genes/GCA_011762505.2_mArvNil1.pat.X.augustus.gtf.gz",
-    "isRef": "Yes",
-    "length": 2496761438,
-    "level": "Chromosome",
-    "ncbiTaxonomyId": "61156",
-    "scaffoldCount": 1595,
-    "scaffoldL50": 11,
-    "scaffoldN50": 82689117,
-    "species": "Arvicanthis niloticus",
-    "speciesTaxonomyId": "61156",
-    "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -263,6 +256,7 @@
     "species": "Antennarius maculatus",
     "speciesTaxonomyId": "882753",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -282,6 +276,7 @@
     "species": "Rhinolophus ferrumequinum",
     "speciesTaxonomyId": "59479",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -301,6 +296,7 @@
     "species": "Lycocorax pyrrhopterus",
     "speciesTaxonomyId": "681192",
     "strain": "lycPyr6",
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -320,6 +316,7 @@
     "species": "Anableps anableps",
     "speciesTaxonomyId": "195821",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -339,6 +336,7 @@
     "species": "Sylvia borin",
     "speciesTaxonomyId": "73324",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -358,6 +356,7 @@
     "species": "Xenentodon cancila",
     "speciesTaxonomyId": "129108",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -377,6 +376,7 @@
     "species": "Branchiostoma floridae x Branchiostoma japonicum",
     "speciesTaxonomyId": "2700039",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -396,6 +396,7 @@
     "species": "Dromaius novaehollandiae",
     "speciesTaxonomyId": "8790",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -415,6 +416,7 @@
     "species": "Acanthisitta chloris",
     "speciesTaxonomyId": "57068",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -434,6 +436,7 @@
     "species": "Pluvialis apricaria",
     "speciesTaxonomyId": "670352",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -453,6 +456,7 @@
     "species": "Ciconia maguari",
     "speciesTaxonomyId": "52777",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -472,6 +476,7 @@
     "species": "Aplochiton taeniatus",
     "speciesTaxonomyId": "946358",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -491,6 +496,7 @@
     "species": "Branchiostoma floridae x Branchiostoma belcheri",
     "speciesTaxonomyId": "2700040",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -510,6 +516,7 @@
     "species": "Micropterus salmoides",
     "speciesTaxonomyId": "27706",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -529,6 +536,7 @@
     "species": "Pholidichthys leucotaenia",
     "speciesTaxonomyId": "390368",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -548,6 +556,7 @@
     "species": "Tautogolabrus adspersus",
     "speciesTaxonomyId": "34787",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -567,6 +576,7 @@
     "species": "Hemiprocne comata",
     "speciesTaxonomyId": "243314",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -586,6 +596,7 @@
     "species": "Theristicus caerulescens",
     "speciesTaxonomyId": "1118847",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -605,6 +616,7 @@
     "species": "Trogon surrucura",
     "speciesTaxonomyId": "297711",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -624,6 +636,7 @@
     "species": "Porphyrio hochstetteri",
     "speciesTaxonomyId": "439704",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -643,6 +656,7 @@
     "species": "Desmodus rotundus",
     "speciesTaxonomyId": "9430",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -662,6 +676,7 @@
     "species": "Aspidoscelis tigris",
     "speciesTaxonomyId": "52180",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -681,6 +696,7 @@
     "species": "Phaethornis superciliosus",
     "speciesTaxonomyId": "46513",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -700,6 +716,7 @@
     "species": "Tamandua tetradactyla",
     "speciesTaxonomyId": "48850",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -719,6 +736,7 @@
     "species": "Vipera latastei",
     "speciesTaxonomyId": "246179",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -738,6 +756,7 @@
     "species": "Tupaia tana",
     "speciesTaxonomyId": "70687",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -757,6 +776,7 @@
     "species": "Peromyscus maniculatus",
     "speciesTaxonomyId": "10042",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -776,6 +796,7 @@
     "species": "Corynorhinus townsendii",
     "speciesTaxonomyId": "124745",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -795,6 +816,7 @@
     "species": "Pleurodeles waltl",
     "speciesTaxonomyId": "8319",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -814,6 +836,7 @@
     "species": "Molossus nigricans",
     "speciesTaxonomyId": "2997257",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -833,6 +856,7 @@
     "species": "Vidua chalybeata",
     "speciesTaxonomyId": "81927",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -852,6 +876,7 @@
     "species": "Discoglossus pictus",
     "speciesTaxonomyId": "8351",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -871,6 +896,7 @@
     "species": "Spheniscus humboldti",
     "speciesTaxonomyId": "9240",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -890,6 +916,7 @@
     "species": "Acridotheres tristis",
     "speciesTaxonomyId": "279927",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -909,6 +936,7 @@
     "species": "Antrozous pallidus",
     "speciesTaxonomyId": "9440",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -928,6 +956,7 @@
     "species": "Rhynochetos jubatus",
     "speciesTaxonomyId": "54386",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -947,6 +976,7 @@
     "species": "Gastrophryne carolinensis",
     "speciesTaxonomyId": "8429",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -966,6 +996,7 @@
     "species": "Odontesthes bonariensis",
     "speciesTaxonomyId": "219752",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -985,6 +1016,7 @@
     "species": "Odontesthes bonariensis",
     "speciesTaxonomyId": "219752",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1004,6 +1036,7 @@
     "species": "Podargus strigoides",
     "speciesTaxonomyId": "8905",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1023,6 +1056,7 @@
     "species": "Lycodopsis pacificus",
     "speciesTaxonomyId": "1772091",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1042,6 +1076,7 @@
     "species": "Gypaetus barbatus",
     "speciesTaxonomyId": "33610",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1061,6 +1096,7 @@
     "species": "Notamacropus eugenii",
     "speciesTaxonomyId": "9315",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1080,6 +1116,7 @@
     "species": "Erethizon dorsatum",
     "speciesTaxonomyId": "34844",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1099,6 +1136,7 @@
     "species": "Heterohyrax brucei",
     "speciesTaxonomyId": "77598",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1118,6 +1156,7 @@
     "species": "Ara ararauna",
     "speciesTaxonomyId": "9226",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1137,6 +1176,7 @@
     "species": "Anniella stebbinsi",
     "speciesTaxonomyId": "2202111",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1156,6 +1196,7 @@
     "species": "Gorilla gorilla",
     "speciesTaxonomyId": "9593",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1175,6 +1216,7 @@
     "species": "Hoplias malabaricus",
     "speciesTaxonomyId": "27720",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1194,6 +1236,7 @@
     "species": "Gavialis gangeticus",
     "speciesTaxonomyId": "94835",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1213,6 +1256,7 @@
     "species": "Mobula birostris",
     "speciesTaxonomyId": "1983395",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1232,6 +1276,7 @@
     "species": "Dugong dugon",
     "speciesTaxonomyId": "29137",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1251,6 +1296,7 @@
     "species": "Cyclura pinguis",
     "speciesTaxonomyId": "118683",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1270,6 +1316,7 @@
     "species": "Furcifer pardalis",
     "speciesTaxonomyId": "187939",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1289,6 +1336,7 @@
     "species": "Salminus brasiliensis",
     "speciesTaxonomyId": "930266",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1308,6 +1356,7 @@
     "species": "Pelecanus crispus",
     "speciesTaxonomyId": "36300",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1327,6 +1376,7 @@
     "species": "Sus scrofa",
     "speciesTaxonomyId": "9823",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1346,6 +1396,7 @@
     "species": "Tadarida brasiliensis",
     "speciesTaxonomyId": "9438",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1365,6 +1416,7 @@
     "species": "Liasis olivaceus",
     "speciesTaxonomyId": "283338",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1384,6 +1436,7 @@
     "species": "Opisthocomus hoazin",
     "speciesTaxonomyId": "30419",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1403,6 +1456,7 @@
     "species": "Molossus alvarezi",
     "speciesTaxonomyId": "1552295",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1422,6 +1476,7 @@
     "species": "Erythrolamprus reginae",
     "speciesTaxonomyId": "121349",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1441,6 +1496,7 @@
     "species": "Morus bassanus",
     "speciesTaxonomyId": "37578",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1460,6 +1516,7 @@
     "species": "Hipposideros larvatus",
     "speciesTaxonomyId": "175524",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1479,6 +1536,7 @@
     "species": "Strix aluco",
     "speciesTaxonomyId": "111821",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1498,6 +1556,7 @@
     "species": "Thomomys bottae",
     "speciesTaxonomyId": "10013",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1517,6 +1576,7 @@
     "species": "Tapirus indicus",
     "speciesTaxonomyId": "9802",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1536,6 +1596,7 @@
     "species": "Passerculus sandwichensis",
     "speciesTaxonomyId": "161624",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1555,6 +1616,7 @@
     "species": "Leptodactylus fuscus",
     "speciesTaxonomyId": "238119",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1574,6 +1636,7 @@
     "species": "Sternotherus odoratus",
     "speciesTaxonomyId": "142480",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1593,6 +1656,7 @@
     "species": "Macrochelys suwanniensis",
     "speciesTaxonomyId": "3026461",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1612,6 +1676,7 @@
     "species": "Carettochelys insculpta",
     "speciesTaxonomyId": "44489",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1631,6 +1696,7 @@
     "species": "Leptosomus discolor",
     "speciesTaxonomyId": "188344",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1650,6 +1716,7 @@
     "species": "Tiliqua scincoides",
     "speciesTaxonomyId": "71010",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1669,6 +1736,7 @@
     "species": "Bradypodion pumilum",
     "speciesTaxonomyId": "179887",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1688,6 +1756,7 @@
     "species": "Bradypodion ventrale",
     "speciesTaxonomyId": "179890",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1707,6 +1776,7 @@
     "species": "Branchiostoma lanceolatum",
     "speciesTaxonomyId": "7740",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1726,6 +1796,7 @@
     "species": "Heptranchias perlo",
     "speciesTaxonomyId": "212740",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1745,6 +1816,7 @@
     "species": "Hydrolagus colliei",
     "speciesTaxonomyId": "7873",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1764,6 +1836,7 @@
     "species": "Eleutherodactylus coqui",
     "speciesTaxonomyId": "57060",
     "strain": "aEleCoq1",
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1783,6 +1856,7 @@
     "species": "Ammospiza maritima",
     "speciesTaxonomyId": "2707177",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1802,6 +1876,7 @@
     "species": "Heliangelus exortis",
     "speciesTaxonomyId": "472823",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1821,6 +1896,7 @@
     "species": "Pelodytes ibericus",
     "speciesTaxonomyId": "233781",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1840,6 +1916,7 @@
     "species": "Heterodontus francisci",
     "speciesTaxonomyId": "7792",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1859,6 +1936,7 @@
     "species": "Inia geoffrensis",
     "speciesTaxonomyId": "9725",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1878,6 +1956,7 @@
     "species": "Chlamydotis macqueenii",
     "speciesTaxonomyId": "187382",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1897,6 +1976,7 @@
     "species": "Equus caballus",
     "speciesTaxonomyId": "9796",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1916,6 +1996,7 @@
     "species": "Salvelinus alpinus",
     "speciesTaxonomyId": "8036",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1935,6 +2016,7 @@
     "species": "Mergus octosetaceus",
     "speciesTaxonomyId": "1570318",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1954,6 +2036,7 @@
     "species": "Narcine bancroftii",
     "speciesTaxonomyId": "1343680",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1973,6 +2056,7 @@
     "species": "Microtus pennsylvanicus",
     "speciesTaxonomyId": "10058",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -1992,6 +2076,7 @@
     "species": "Rhynchonycteris naso",
     "speciesTaxonomyId": "249017",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2011,6 +2096,7 @@
     "species": "Fundulus diaphanus",
     "speciesTaxonomyId": "54267",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2030,6 +2116,7 @@
     "species": "Molossus alvarezi",
     "speciesTaxonomyId": "1552295",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2049,6 +2136,7 @@
     "species": "Rhinophrynus dorsalis",
     "speciesTaxonomyId": "43566",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2068,6 +2156,7 @@
     "species": "Macrotis lagotis",
     "speciesTaxonomyId": "92651",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2087,6 +2176,7 @@
     "species": "Sarcoramphus papa",
     "speciesTaxonomyId": "43583",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2106,6 +2196,7 @@
     "species": "Cyprinella venusta",
     "speciesTaxonomyId": "28792",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2125,6 +2216,7 @@
     "species": "Mixophyes fleayi",
     "speciesTaxonomyId": "3061075",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2144,6 +2236,7 @@
     "species": "Osmerus mordax",
     "speciesTaxonomyId": "8014",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2163,6 +2256,7 @@
     "species": "Artibeus lituratus",
     "speciesTaxonomyId": "27634",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2182,6 +2276,7 @@
     "species": "Artibeus intermedius",
     "speciesTaxonomyId": "51014",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2201,6 +2296,7 @@
     "species": "Xenopus petersii",
     "speciesTaxonomyId": "288555",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2220,6 +2316,7 @@
     "species": "Glossophaga mutica",
     "speciesTaxonomyId": "2994998",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2239,6 +2336,7 @@
     "species": "Amazona ochrocephala",
     "speciesTaxonomyId": "151761",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2258,6 +2356,7 @@
     "species": "Chaetodon trifascialis",
     "speciesTaxonomyId": "109706",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2277,6 +2376,7 @@
     "species": "Excalfactoria chinensis",
     "speciesTaxonomyId": "46218",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2296,6 +2396,7 @@
     "species": "Molossus nigricans",
     "speciesTaxonomyId": "2997257",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2315,6 +2416,7 @@
     "species": "Aegotheles albertisi",
     "speciesTaxonomyId": "48277",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2334,6 +2436,7 @@
     "species": "Ascaphus truei",
     "speciesTaxonomyId": "8439",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2353,6 +2456,7 @@
     "species": "Engystomops pustulosus",
     "speciesTaxonomyId": "76066",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2372,6 +2476,7 @@
     "species": "Myuchelys georgesi",
     "speciesTaxonomyId": "1041117",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2391,6 +2496,7 @@
     "species": "Protopterus annectens",
     "speciesTaxonomyId": "7888",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2410,6 +2516,7 @@
     "species": "Saccoglossus sp. HW-2024a",
     "speciesTaxonomyId": "3154068",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2429,6 +2536,7 @@
     "species": "Lycaon pictus",
     "speciesTaxonomyId": "9622",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2448,6 +2556,7 @@
     "species": "Megaptera novaeangliae",
     "speciesTaxonomyId": "9773",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2467,6 +2576,7 @@
     "species": "Pempheris klunzingeri",
     "speciesTaxonomyId": "3127111",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2486,6 +2596,7 @@
     "species": "Macaca nemestrina",
     "speciesTaxonomyId": "9545",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2495,7 +2606,7 @@
     "coverage": "48.4x",
     "gcPercent": 41,
     "geneModelUrl": "https://hgdownload.soe.ucsc.edu/hubs/GCA/043/250/625/GCA_043250625.1/genes/GCA_043250625.1_fSebFas1.pri.augustus.gtf.gz",
-    "isRef": "Yes",
+    "isRef": "No",
     "length": 833835073,
     "level": "Chromosome",
     "ncbiTaxonomyId": "394691",
@@ -2505,6 +2616,7 @@
     "species": "Sebastes fasciatus",
     "speciesTaxonomyId": "394691",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2524,6 +2636,7 @@
     "species": "Rhynchocyon petersi",
     "speciesTaxonomyId": "320637",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2543,6 +2656,7 @@
     "species": "Pristiophorus japonicus",
     "speciesTaxonomyId": "55135",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2562,6 +2676,7 @@
     "species": "Astatotilapia calliptera",
     "speciesTaxonomyId": "8154",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2581,6 +2696,7 @@
     "species": "Anabas testudineus",
     "speciesTaxonomyId": "64144",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2600,6 +2716,7 @@
     "species": "Mastacembelus armatus",
     "speciesTaxonomyId": "205130",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2619,6 +2736,7 @@
     "species": "Parambassis ranga",
     "speciesTaxonomyId": "210632",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2638,6 +2756,7 @@
     "species": "Gouania willdenowi",
     "speciesTaxonomyId": "441366",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2657,6 +2776,7 @@
     "species": "Denticeps clupeoides",
     "speciesTaxonomyId": "299321",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2676,6 +2796,7 @@
     "species": "Sparus aurata",
     "speciesTaxonomyId": "8175",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2695,6 +2816,7 @@
     "species": "Echeneis naucrates",
     "speciesTaxonomyId": "173247",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2714,6 +2836,7 @@
     "species": "Takifugu rubripes",
     "speciesTaxonomyId": "31033",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2733,6 +2856,7 @@
     "species": "Rhinatrema bivittatum",
     "speciesTaxonomyId": "194408",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2752,6 +2876,7 @@
     "species": "Salmo trutta",
     "speciesTaxonomyId": "8032",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2771,6 +2896,7 @@
     "species": "Streptopelia turtur",
     "speciesTaxonomyId": "177155",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2790,6 +2916,7 @@
     "species": "Microcaecilia unicolor",
     "speciesTaxonomyId": "1415580",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2809,6 +2936,7 @@
     "species": "Geotrypetes seraphini",
     "speciesTaxonomyId": "260995",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2828,6 +2956,7 @@
     "species": "Sciurus vulgaris",
     "speciesTaxonomyId": "55149",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2847,6 +2976,7 @@
     "species": "Scyliorhinus canicula",
     "speciesTaxonomyId": "7830",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2866,6 +2996,7 @@
     "species": "Erithacus rubecula",
     "speciesTaxonomyId": "37610",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2885,6 +3016,7 @@
     "species": "Pipistrellus pipistrellus",
     "speciesTaxonomyId": "59474",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2904,6 +3036,7 @@
     "species": "Trachurus trachurus",
     "speciesTaxonomyId": "36212",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2923,6 +3056,7 @@
     "species": "Canis lupus",
     "speciesTaxonomyId": "9612",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2942,6 +3076,7 @@
     "species": "Caprimulgus europaeus",
     "speciesTaxonomyId": "111811",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2961,6 +3096,7 @@
     "species": "Taurulus bubalis",
     "speciesTaxonomyId": "61643",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2980,6 +3116,7 @@
     "species": "Pholis gunnellus",
     "speciesTaxonomyId": "56726",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -2999,6 +3136,7 @@
     "species": "Aplidium turbinatum",
     "speciesTaxonomyId": "2771288",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3018,6 +3156,7 @@
     "species": "Accipiter gentilis",
     "speciesTaxonomyId": "8957",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3037,6 +3176,7 @@
     "species": "Telmatherina bonti",
     "speciesTaxonomyId": "446457",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3056,6 +3196,7 @@
     "species": "Barbus barbus",
     "speciesTaxonomyId": "40830",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3075,6 +3216,7 @@
     "species": "Danio rerio",
     "speciesTaxonomyId": "7955",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3094,6 +3236,7 @@
     "species": "Silurus aristotelis",
     "speciesTaxonomyId": "933932",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3113,6 +3256,7 @@
     "species": "Barbatula barbatula",
     "speciesTaxonomyId": "135647",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3132,6 +3276,7 @@
     "species": "Vipera ursinii",
     "speciesTaxonomyId": "103942",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3151,6 +3296,7 @@
     "species": "Ascidia mentula",
     "speciesTaxonomyId": "38561",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3170,6 +3316,7 @@
     "species": "Clavelina lepadiformis",
     "speciesTaxonomyId": "159417",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3189,6 +3336,7 @@
     "species": "Symphodus melops",
     "speciesTaxonomyId": "171736",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3208,6 +3356,7 @@
     "species": "Phoxinus phoxinus",
     "speciesTaxonomyId": "58324",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3227,6 +3376,7 @@
     "species": "Mus musculus",
     "speciesTaxonomyId": "10090",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3246,6 +3396,7 @@
     "species": "Squalius cephalus",
     "speciesTaxonomyId": "8284",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3265,6 +3416,7 @@
     "species": "Gobio gobio",
     "speciesTaxonomyId": "27704",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3284,6 +3436,7 @@
     "species": "Hyperoplus immaculatus",
     "speciesTaxonomyId": "1484357",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3303,6 +3456,7 @@
     "species": "Notothenia rossii",
     "speciesTaxonomyId": "101497",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3322,6 +3476,7 @@
     "species": "Phalacrocorax aristotelis",
     "speciesTaxonomyId": "126867",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3341,6 +3496,7 @@
     "species": "Melanostigma gelatinosum",
     "speciesTaxonomyId": "1091424",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3360,6 +3516,7 @@
     "species": "Hyperoodon ampullatus",
     "speciesTaxonomyId": "48744",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3379,6 +3536,7 @@
     "species": "Sylvilagus floridanus",
     "speciesTaxonomyId": "9988",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3398,6 +3556,7 @@
     "species": "Borostomias antarcticus",
     "speciesTaxonomyId": "473354",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3417,6 +3576,7 @@
     "species": "Pipistrellus pygmaeus",
     "speciesTaxonomyId": "246814",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3436,6 +3596,7 @@
     "species": "Pollachius pollachius",
     "speciesTaxonomyId": "185739",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3455,6 +3616,7 @@
     "species": "Ammodytes marinus",
     "speciesTaxonomyId": "146480",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3474,6 +3636,7 @@
     "species": "Electrona antarctica",
     "speciesTaxonomyId": "206093",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3493,6 +3656,7 @@
     "species": "Tetrao urogallus",
     "speciesTaxonomyId": "100830",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3512,6 +3676,7 @@
     "species": "Stenella coeruleoalba",
     "speciesTaxonomyId": "9737",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3531,6 +3696,7 @@
     "species": "Cnephaeus nilssonii",
     "speciesTaxonomyId": "3371016",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3550,6 +3716,7 @@
     "species": "Argentina silus",
     "speciesTaxonomyId": "446415",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3569,6 +3736,7 @@
     "species": "Gobius niger",
     "speciesTaxonomyId": "85417",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3588,6 +3756,7 @@
     "species": "Rutilus rutilus",
     "speciesTaxonomyId": "48668",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3607,6 +3776,7 @@
     "species": "Podarcis cretensis",
     "speciesTaxonomyId": "1330250",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3626,6 +3796,7 @@
     "species": "Zeus faber",
     "speciesTaxonomyId": "64108",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3645,6 +3816,7 @@
     "species": "Nesoenas mayeri",
     "speciesTaxonomyId": "187126",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3664,6 +3836,7 @@
     "species": "Corella eumyota",
     "speciesTaxonomyId": "431183",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3683,6 +3856,7 @@
     "species": "Falco punctatus",
     "speciesTaxonomyId": "148596",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3702,6 +3876,7 @@
     "species": "Psittacula echo",
     "speciesTaxonomyId": "232653",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3721,6 +3896,7 @@
     "species": "Gymnoscopelus braueri",
     "speciesTaxonomyId": "948025",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3740,6 +3916,7 @@
     "species": "Lipophrys pholis",
     "speciesTaxonomyId": "56720",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3759,6 +3936,7 @@
     "species": "Muscardinus avellanarius",
     "speciesTaxonomyId": "39082",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3778,6 +3956,7 @@
     "species": "Blennius ocellaris",
     "speciesTaxonomyId": "195075",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3797,6 +3976,7 @@
     "species": "Gymnoscopelus microlampas",
     "speciesTaxonomyId": "1090481",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3816,6 +3996,7 @@
     "species": "Plecotus auritus",
     "speciesTaxonomyId": "61862",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3835,6 +4016,7 @@
     "species": "Globicephala melas",
     "speciesTaxonomyId": "9731",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3854,6 +4036,7 @@
     "species": "Martes martes",
     "speciesTaxonomyId": "29065",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3873,6 +4056,7 @@
     "species": "Microchirus variegatus",
     "speciesTaxonomyId": "90074",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3892,6 +4076,7 @@
     "species": "Sprattus sprattus",
     "speciesTaxonomyId": "196075",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3911,6 +4096,7 @@
     "species": "Fringilla coelebs",
     "speciesTaxonomyId": "37598",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3930,6 +4116,7 @@
     "species": "Raja brachyura",
     "speciesTaxonomyId": "223862",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3949,6 +4136,7 @@
     "species": "Chelon labrosus",
     "speciesTaxonomyId": "48171",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3968,6 +4156,7 @@
     "species": "Eutrigla gurnardus",
     "speciesTaxonomyId": "426098",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -3987,6 +4176,7 @@
     "species": "Echiichthys vipera",
     "speciesTaxonomyId": "94984",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4006,6 +4196,7 @@
     "species": "Scophthalmus maximus",
     "speciesTaxonomyId": "52904",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4025,6 +4216,7 @@
     "species": "Nannobrachium achirus",
     "speciesTaxonomyId": "473322",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4044,6 +4236,7 @@
     "species": "Protomyctophum bolini",
     "speciesTaxonomyId": "443714",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4063,6 +4256,7 @@
     "species": "Vespertilio murinus",
     "speciesTaxonomyId": "59485",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4082,6 +4276,7 @@
     "species": "Ascidiella aspersa",
     "speciesTaxonomyId": "201961",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4101,6 +4296,7 @@
     "species": "Micromys minutus",
     "speciesTaxonomyId": "13151",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4120,6 +4316,7 @@
     "species": "Muntiacus reevesi",
     "speciesTaxonomyId": "9886",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4139,6 +4336,7 @@
     "species": "Larus fuscus",
     "speciesTaxonomyId": "8915",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4158,6 +4356,7 @@
     "species": "Rhamphochromis sp. 'chilingali'",
     "speciesTaxonomyId": "454631",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4177,6 +4376,7 @@
     "species": "Notolepis coatsorum",
     "speciesTaxonomyId": "948063",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4196,6 +4396,7 @@
     "species": "Nansenia antarctica",
     "speciesTaxonomyId": "443705",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4215,6 +4416,7 @@
     "species": "Clangula hyemalis",
     "speciesTaxonomyId": "197941",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4234,6 +4436,7 @@
     "species": "Abramis brama",
     "speciesTaxonomyId": "38527",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4253,6 +4456,7 @@
     "species": "Micromesistius poutassou",
     "speciesTaxonomyId": "81636",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4272,6 +4476,7 @@
     "species": "Anser brachyrhynchus",
     "speciesTaxonomyId": "132585",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4291,6 +4496,7 @@
     "species": "Netta rufina",
     "speciesTaxonomyId": "30387",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4310,6 +4516,7 @@
     "species": "Bucephala clangula",
     "speciesTaxonomyId": "107022",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4329,6 +4536,7 @@
     "species": "Myotis mystacinus",
     "speciesTaxonomyId": "109479",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4348,6 +4556,7 @@
     "species": "Neogale vison",
     "speciesTaxonomyId": "452646",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4367,6 +4576,7 @@
     "species": "Podarcis pityusensis",
     "speciesTaxonomyId": "74359",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4386,6 +4596,7 @@
     "species": "Vulpes vulpes",
     "speciesTaxonomyId": "9627",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4405,6 +4616,7 @@
     "species": "Grus grus",
     "speciesTaxonomyId": "40816",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4424,6 +4636,7 @@
     "species": "Numenius arquata",
     "speciesTaxonomyId": "31919",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4443,6 +4656,7 @@
     "species": "Podarcis gaigeae",
     "speciesTaxonomyId": "90521",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4462,6 +4676,7 @@
     "species": "Miniopterus schreibersii",
     "speciesTaxonomyId": "9433",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4481,6 +4696,7 @@
     "species": "Mesoplodon bidens",
     "speciesTaxonomyId": "48745",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4500,6 +4716,7 @@
     "species": "Myxine glutinosa",
     "speciesTaxonomyId": "7769",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4519,6 +4736,7 @@
     "species": "Podarcis siculus",
     "speciesTaxonomyId": "65484",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4538,6 +4756,7 @@
     "species": "Podarcis bocagei",
     "speciesTaxonomyId": "90520",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4557,6 +4776,7 @@
     "species": "Podarcis muralis",
     "speciesTaxonomyId": "64176",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4576,6 +4796,7 @@
     "species": "Anas platyrhynchos",
     "speciesTaxonomyId": "8839",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4595,6 +4816,7 @@
     "species": "Buteo buteo",
     "speciesTaxonomyId": "30397",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4614,6 +4836,7 @@
     "species": "Protomyctophum parallelum",
     "speciesTaxonomyId": "1091426",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4633,6 +4856,7 @@
     "species": "Spermophilus citellus",
     "speciesTaxonomyId": "9997",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4652,6 +4876,7 @@
     "species": "Talpa europaea",
     "speciesTaxonomyId": "9375",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4671,6 +4896,7 @@
     "species": "Cetorhinus maximus",
     "speciesTaxonomyId": "57982",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4690,6 +4916,7 @@
     "species": "Rhinolophus hipposideros",
     "speciesTaxonomyId": "77218",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4709,6 +4936,7 @@
     "species": "Vipera berus",
     "speciesTaxonomyId": "31155",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4728,6 +4956,7 @@
     "species": "Scardinius erythrophthalmus",
     "speciesTaxonomyId": "58319",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4747,6 +4976,7 @@
     "species": "Lampetra fluviatilis",
     "speciesTaxonomyId": "7748",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4766,6 +4996,7 @@
     "species": "Larus michahellis",
     "speciesTaxonomyId": "119627",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4785,6 +5016,7 @@
     "species": "Styela clava",
     "speciesTaxonomyId": "7725",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4804,6 +5036,7 @@
     "species": "Bombina variegata",
     "speciesTaxonomyId": "8348",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4823,6 +5056,7 @@
     "species": "Aythya ferina",
     "speciesTaxonomyId": "219593",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4842,6 +5076,7 @@
     "species": "Anser anser",
     "speciesTaxonomyId": "8843",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4861,6 +5096,7 @@
     "species": "Myotis nattereri",
     "speciesTaxonomyId": "109481",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4880,6 +5116,7 @@
     "species": "Mustelus asterias",
     "speciesTaxonomyId": "112232",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4899,6 +5136,7 @@
     "species": "Podarcis melisellensis",
     "speciesTaxonomyId": "65482",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4918,6 +5156,7 @@
     "species": "Oryctolagus cuniculus",
     "speciesTaxonomyId": "9986",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4937,6 +5176,7 @@
     "species": "Gallinula chloropus",
     "speciesTaxonomyId": "9123",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4956,6 +5196,7 @@
     "species": "Podarcis erhardii",
     "speciesTaxonomyId": "140042",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4975,6 +5216,7 @@
     "species": "Lissotriton helveticus",
     "speciesTaxonomyId": "256425",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -4994,6 +5236,7 @@
     "species": "Lissotriton vulgaris",
     "speciesTaxonomyId": "8324",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5003,7 +5246,7 @@
     "coverage": "45.0x",
     "gcPercent": 44,
     "geneModelUrl": "https://hgdownload.soe.ucsc.edu/hubs/GCA/964/263/955/GCA_964263955.1/genes/GCA_964263955.1_fCorLav1.hap1.1.augustus.gtf.gz",
-    "isRef": "Yes",
+    "isRef": "No",
     "length": 2842845857,
     "level": "Chromosome",
     "ncbiTaxonomyId": "59291",
@@ -5013,6 +5256,7 @@
     "species": "Coregonus lavaretus",
     "speciesTaxonomyId": "59291",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5032,6 +5276,7 @@
     "species": "Nyctalus leisleri",
     "speciesTaxonomyId": "59465",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5051,6 +5296,7 @@
     "species": "Microstomus kitt",
     "speciesTaxonomyId": "106175",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5070,6 +5316,7 @@
     "species": "Podarcis filfolensis",
     "speciesTaxonomyId": "65481",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5089,6 +5336,7 @@
     "species": "Leucopleurus acutus",
     "speciesTaxonomyId": "3371109",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5108,6 +5356,7 @@
     "species": "Streptopelia decaocto",
     "speciesTaxonomyId": "177147",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5127,6 +5376,7 @@
     "species": "Natrix helvetica",
     "speciesTaxonomyId": "2025560",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5146,6 +5396,7 @@
     "species": "Gasterosteus aculeatus",
     "speciesTaxonomyId": "69293",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5165,6 +5416,7 @@
     "species": "Phaethon aethereus",
     "speciesTaxonomyId": "37045",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5184,6 +5436,7 @@
     "species": "Bos indicus x Bos taurus",
     "speciesTaxonomyId": "30522",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5203,6 +5456,7 @@
     "species": "Calypte anna",
     "speciesTaxonomyId": "9244",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5222,6 +5476,7 @@
     "species": "Taeniopygia guttata",
     "speciesTaxonomyId": "59729",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5241,6 +5496,7 @@
     "species": "Strigops habroptila",
     "speciesTaxonomyId": "2489341",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5260,6 +5516,7 @@
     "species": "Ornithorhynchus anatinus",
     "speciesTaxonomyId": "9258",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5279,6 +5536,7 @@
     "species": "Rhinolophus ferrumequinum",
     "speciesTaxonomyId": "59479",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5298,6 +5556,7 @@
     "species": "Phyllostomus discolor",
     "speciesTaxonomyId": "89673",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5317,6 +5576,7 @@
     "species": "Archocentrus centrarchus",
     "speciesTaxonomyId": "63155",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5336,6 +5596,7 @@
     "species": "Gopherus evgoodei",
     "speciesTaxonomyId": "1825980",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5355,6 +5616,7 @@
     "species": "Lynx canadensis",
     "speciesTaxonomyId": "61383",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5374,6 +5636,7 @@
     "species": "Phocoena sinus",
     "speciesTaxonomyId": "42100",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5393,6 +5656,7 @@
     "species": "Corvus moneduloides",
     "speciesTaxonomyId": "1196302",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5412,6 +5676,7 @@
     "species": "Zalophus californianus",
     "speciesTaxonomyId": "9704",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5431,6 +5696,7 @@
     "species": "Notolabrus celidotus",
     "speciesTaxonomyId": "1203425",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5450,6 +5716,7 @@
     "species": "Pristis pectinata",
     "speciesTaxonomyId": "685728",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5469,6 +5736,7 @@
     "species": "Dermochelys coriacea",
     "speciesTaxonomyId": "27794",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5488,6 +5756,7 @@
     "species": "Thamnophis elegans",
     "speciesTaxonomyId": "35005",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5507,6 +5776,7 @@
     "species": "Cyclopterus lumpus",
     "speciesTaxonomyId": "8103",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5526,6 +5796,7 @@
     "species": "Cygnus olor",
     "speciesTaxonomyId": "8869",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5545,6 +5816,7 @@
     "species": "Lacerta agilis",
     "speciesTaxonomyId": "80427",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5564,6 +5836,7 @@
     "species": "Sylvia atricapilla",
     "speciesTaxonomyId": "48155",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5583,6 +5856,7 @@
     "species": "Hippoglossus hippoglossus",
     "speciesTaxonomyId": "8267",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5602,6 +5876,7 @@
     "species": "Aythya fuligula",
     "speciesTaxonomyId": "219594",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5621,6 +5896,7 @@
     "species": "Catharus ustulatus",
     "speciesTaxonomyId": "91951",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5640,6 +5916,7 @@
     "species": "Periophthalmus magnuspinnatus",
     "speciesTaxonomyId": "409849",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5659,6 +5936,7 @@
     "species": "Chiroxiphia lanceolata",
     "speciesTaxonomyId": "296741",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5678,6 +5956,7 @@
     "species": "Mustela erminea",
     "speciesTaxonomyId": "36723",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5697,6 +5976,7 @@
     "species": "Balaenoptera musculus",
     "speciesTaxonomyId": "9771",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5716,6 +5996,7 @@
     "species": "Amblyraja radiata",
     "speciesTaxonomyId": "386614",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5735,6 +6016,7 @@
     "species": "Petromyzon marinus",
     "speciesTaxonomyId": "7757",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5754,6 +6036,7 @@
     "species": "Esox lucius",
     "speciesTaxonomyId": "8010",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5773,6 +6056,7 @@
     "species": "Callithrix jacchus",
     "speciesTaxonomyId": "9483",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5792,6 +6076,7 @@
     "species": "Trichosurus vulpecula",
     "speciesTaxonomyId": "9337",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5811,6 +6096,7 @@
     "species": "Canis lupus",
     "speciesTaxonomyId": "9612",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5830,6 +6116,7 @@
     "species": "Tursiops truncatus",
     "speciesTaxonomyId": "9739",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5849,6 +6136,7 @@
     "species": "Melopsittacus undulatus",
     "speciesTaxonomyId": "13146",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5868,6 +6156,7 @@
     "species": "Anguilla anguilla",
     "speciesTaxonomyId": "7936",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5887,6 +6176,7 @@
     "species": "Electrophorus electricus",
     "speciesTaxonomyId": "8005",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5906,6 +6196,7 @@
     "species": "Megalops cyprinoides",
     "speciesTaxonomyId": "118141",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5925,6 +6216,7 @@
     "species": "Nyctibius grandis",
     "speciesTaxonomyId": "48427",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5944,6 +6236,7 @@
     "species": "Myotis myotis",
     "speciesTaxonomyId": "51298",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": "https://genome.ucsc.edu/h/GCF_014108235.1"
   },
   {
@@ -5963,6 +6256,7 @@
     "species": "Pipistrellus kuhlii",
     "speciesTaxonomyId": "59472",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -5982,6 +6276,7 @@
     "species": "Molossus molossus",
     "speciesTaxonomyId": "27622",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6001,6 +6296,7 @@
     "species": "Rousettus aegyptiacus",
     "speciesTaxonomyId": "9407",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6020,6 +6316,7 @@
     "species": "Dryobates pubescens",
     "speciesTaxonomyId": "118200",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6039,6 +6336,7 @@
     "species": "Falco rusticolus",
     "speciesTaxonomyId": "120794",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6058,6 +6356,7 @@
     "species": "Choloepus didactylus",
     "speciesTaxonomyId": "27675",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6077,6 +6376,7 @@
     "species": "Pygocentrus nattereri",
     "speciesTaxonomyId": "42514",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6096,6 +6396,7 @@
     "species": "Sebastes umbrosus",
     "speciesTaxonomyId": "72105",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6115,6 +6416,7 @@
     "species": "Pogoniulus pusillus",
     "speciesTaxonomyId": "488313",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6134,6 +6436,7 @@
     "species": "Rattus norvegicus",
     "speciesTaxonomyId": "10116",
     "strain": "BN/NHsdMcwi",
+    "taxonomicGroup": [],
     "ucscBrowserUrl": "https://genome.ucsc.edu/h/GCF_015227675.2"
   },
   {
@@ -6153,6 +6456,7 @@
     "species": "Hirundo rustica",
     "speciesTaxonomyId": "43150",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6172,6 +6476,7 @@
     "species": "Chelonia mydas",
     "speciesTaxonomyId": "8469",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6191,6 +6496,7 @@
     "species": "Anas platyrhynchos",
     "speciesTaxonomyId": "8839",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6210,6 +6516,7 @@
     "species": "Tachyglossus aculeatus",
     "speciesTaxonomyId": "9261",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6229,6 +6536,7 @@
     "species": "Gallus gallus",
     "speciesTaxonomyId": "9031",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6248,6 +6556,7 @@
     "species": "Carcharodon carcharias",
     "speciesTaxonomyId": "13397",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6267,6 +6576,7 @@
     "species": "Falco naumanni",
     "speciesTaxonomyId": "148594",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6286,6 +6596,7 @@
     "species": "Melanotaenia boesemani",
     "speciesTaxonomyId": "1250792",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6305,6 +6616,7 @@
     "species": "Chelmon rostratus",
     "speciesTaxonomyId": "109905",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6324,6 +6636,7 @@
     "species": "Cuculus canorus",
     "speciesTaxonomyId": "55661",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6343,6 +6656,7 @@
     "species": "Toxotes jaculatrix",
     "speciesTaxonomyId": "941984",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6362,6 +6676,7 @@
     "species": "Alosa sapidissima",
     "speciesTaxonomyId": "34773",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6381,6 +6696,7 @@
     "species": "Dromiciops gliroides",
     "speciesTaxonomyId": "33562",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6400,6 +6716,7 @@
     "species": "Scatophagus argus",
     "speciesTaxonomyId": "75038",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6419,6 +6736,7 @@
     "species": "Lemur catta",
     "speciesTaxonomyId": "9447",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6438,6 +6756,7 @@
     "species": "Jaculus jaculus",
     "speciesTaxonomyId": "51337",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6457,6 +6776,7 @@
     "species": "Corvus hawaiiensis",
     "speciesTaxonomyId": "134902",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6476,6 +6796,7 @@
     "species": "Apus apus",
     "speciesTaxonomyId": "8895",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6495,6 +6816,7 @@
     "species": "Hemiscyllium ocellatum",
     "speciesTaxonomyId": "170820",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6514,6 +6836,7 @@
     "species": "Agelaius phoeniceus",
     "speciesTaxonomyId": "39638",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6533,6 +6856,7 @@
     "species": "Diceros bicornis",
     "speciesTaxonomyId": "9805",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6552,6 +6876,7 @@
     "species": "Girardinichthys multiradiatus",
     "speciesTaxonomyId": "208333",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6571,6 +6896,7 @@
     "species": "Elgaria multicarinata",
     "speciesTaxonomyId": "71008",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6590,6 +6916,7 @@
     "species": "Lagopus muta",
     "speciesTaxonomyId": "64668",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6609,6 +6936,7 @@
     "species": "Falco cherrug",
     "speciesTaxonomyId": "345164",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6628,6 +6956,7 @@
     "species": "Falco peregrinus",
     "speciesTaxonomyId": "8954",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6647,6 +6976,7 @@
     "species": "Falco biarmicus",
     "speciesTaxonomyId": "345155",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6666,6 +6996,7 @@
     "species": "Suncus etruscus",
     "speciesTaxonomyId": "109475",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6685,6 +7016,7 @@
     "species": "Elephas maximus",
     "speciesTaxonomyId": "9783",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6704,6 +7036,7 @@
     "species": "Gopherus flavomarginatus",
     "speciesTaxonomyId": "286002",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6723,6 +7056,7 @@
     "species": "Mesoplodon densirostris",
     "speciesTaxonomyId": "48708",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6742,6 +7076,7 @@
     "species": "Harpia harpyja",
     "speciesTaxonomyId": "202280",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6761,6 +7096,7 @@
     "species": "Kogia breviceps",
     "speciesTaxonomyId": "27615",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6780,6 +7116,7 @@
     "species": "Vidua chalybeata",
     "speciesTaxonomyId": "81927",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6799,6 +7136,7 @@
     "species": "Podarcis raffonei",
     "speciesTaxonomyId": "65483",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6818,6 +7156,7 @@
     "species": "Pangasianodon hypophthalmus",
     "speciesTaxonomyId": "310915",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6837,6 +7176,7 @@
     "species": "Spea bombifrons",
     "speciesTaxonomyId": "233779",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6856,6 +7196,7 @@
     "species": "Nycticebus coucang",
     "speciesTaxonomyId": "9470",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6875,6 +7216,7 @@
     "species": "Cynocephalus volans",
     "speciesTaxonomyId": "110931",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6894,6 +7236,7 @@
     "species": "Scomber japonicus",
     "speciesTaxonomyId": "13676",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6913,6 +7256,7 @@
     "species": "Haemorhous mexicanus",
     "speciesTaxonomyId": "30427",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6932,6 +7276,7 @@
     "species": "Eptesicus fuscus",
     "speciesTaxonomyId": "29078",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6951,6 +7296,7 @@
     "species": "Ammospiza nelsoni",
     "speciesTaxonomyId": "2857394",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6970,6 +7316,7 @@
     "species": "Neoarius graeffei",
     "speciesTaxonomyId": "443677",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -6989,6 +7336,7 @@
     "species": "Bombina bombina",
     "speciesTaxonomyId": "8345",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7008,6 +7356,7 @@
     "species": "Sorex araneus",
     "speciesTaxonomyId": "42254",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7027,6 +7376,7 @@
     "species": "Dendropsophus ebraccatus",
     "speciesTaxonomyId": "150705",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7046,6 +7396,7 @@
     "species": "Ammospiza caudacuta",
     "speciesTaxonomyId": "2857398",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7065,6 +7416,7 @@
     "species": "Malaclemys terrapin",
     "speciesTaxonomyId": "8485",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7084,6 +7436,7 @@
     "species": "Monodelphis domestica",
     "speciesTaxonomyId": "13616",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7103,6 +7456,7 @@
     "species": "Emys orbicularis",
     "speciesTaxonomyId": "82168",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7122,6 +7476,7 @@
     "species": "Neofelis nebulosa",
     "speciesTaxonomyId": "61452",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7141,6 +7496,7 @@
     "species": "Melospiza georgiana",
     "speciesTaxonomyId": "44398",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7160,6 +7516,7 @@
     "species": "Eschrichtius robustus",
     "speciesTaxonomyId": "9764",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7179,6 +7536,7 @@
     "species": "Balaenoptera ricei",
     "speciesTaxonomyId": "2746895",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7198,6 +7556,7 @@
     "species": "Rhea pennata",
     "speciesTaxonomyId": "8795",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7217,6 +7576,7 @@
     "species": "Pseudophryne corroboree",
     "speciesTaxonomyId": "495146",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7236,6 +7596,7 @@
     "species": "Rissa tridactyla",
     "speciesTaxonomyId": "75485",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7255,6 +7616,7 @@
     "species": "Eubalaena glacialis",
     "speciesTaxonomyId": "27606",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7274,6 +7636,7 @@
     "species": "Grus americana",
     "speciesTaxonomyId": "9117",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7293,6 +7656,7 @@
     "species": "Colius striatus",
     "speciesTaxonomyId": "57412",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7312,6 +7676,7 @@
     "species": "Pan troglodytes",
     "speciesTaxonomyId": "9598",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7331,6 +7696,7 @@
     "species": "Symphalangus syndactylus",
     "speciesTaxonomyId": "9590",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7350,6 +7716,7 @@
     "species": "Pongo pygmaeus",
     "speciesTaxonomyId": "9600",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7369,6 +7736,7 @@
     "species": "Pongo abelii",
     "speciesTaxonomyId": "9601",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7388,6 +7756,7 @@
     "species": "Gorilla gorilla",
     "speciesTaxonomyId": "9593",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7407,6 +7776,7 @@
     "species": "Pan paniscus",
     "speciesTaxonomyId": "9597",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7426,6 +7796,7 @@
     "species": "Hyla sarda",
     "speciesTaxonomyId": "327740",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7445,6 +7816,7 @@
     "species": "Oenanthe melanoleuca",
     "speciesTaxonomyId": "2939378",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7464,6 +7836,7 @@
     "species": "Lampris incognitus",
     "speciesTaxonomyId": "2546036",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7483,6 +7856,7 @@
     "species": "Euleptes europaea",
     "speciesTaxonomyId": "460621",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7502,6 +7876,7 @@
     "species": "Loxodonta africana",
     "speciesTaxonomyId": "9785",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7521,6 +7896,7 @@
     "species": "Trichomycterus rosablanca",
     "speciesTaxonomyId": "2290929",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7540,6 +7916,7 @@
     "species": "Manis pentadactyla",
     "speciesTaxonomyId": "143292",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7559,6 +7936,7 @@
     "species": "Hippopotamus amphibius",
     "speciesTaxonomyId": "9833",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7578,6 +7956,7 @@
     "species": "Rhineura floridana",
     "speciesTaxonomyId": "261503",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7597,6 +7976,7 @@
     "species": "Hypanus sabinus",
     "speciesTaxonomyId": "79690",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7616,6 +7996,7 @@
     "species": "Ochotona princeps",
     "speciesTaxonomyId": "9978",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7635,6 +8016,7 @@
     "species": "Mustela lutreola",
     "speciesTaxonomyId": "9666",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7654,6 +8036,7 @@
     "species": "Dasypus novemcinctus",
     "speciesTaxonomyId": "9361",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7673,6 +8056,7 @@
     "species": "Poecile atricapillus",
     "speciesTaxonomyId": "48891",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7692,6 +8076,7 @@
     "species": "Stegostoma tigrinum",
     "speciesTaxonomyId": "3053191",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7711,6 +8096,7 @@
     "species": "Alligator mississippiensis",
     "speciesTaxonomyId": "8496",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7730,6 +8116,7 @@
     "species": "Gavia stellata",
     "speciesTaxonomyId": "37040",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7749,6 +8136,7 @@
     "species": "Ranitomeya imitator",
     "speciesTaxonomyId": "111125",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7768,6 +8156,7 @@
     "species": "Candoia aspera",
     "speciesTaxonomyId": "51853",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7787,6 +8176,7 @@
     "species": "Melospiza melodia",
     "speciesTaxonomyId": "44397",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7806,6 +8196,7 @@
     "species": "Caloenas nicobarica",
     "speciesTaxonomyId": "187106",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7825,6 +8216,7 @@
     "species": "Columba livia",
     "speciesTaxonomyId": "8932",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7844,6 +8236,7 @@
     "species": "Pelobates fuscus",
     "speciesTaxonomyId": "191477",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7863,6 +8256,7 @@
     "species": "Pseudopipra pipra",
     "speciesTaxonomyId": "415032",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7882,6 +8276,7 @@
     "species": "Camelus dromedarius",
     "speciesTaxonomyId": "9838",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7901,6 +8296,7 @@
     "species": "Heterodontus francisci",
     "speciesTaxonomyId": "7792",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7920,6 +8316,7 @@
     "species": "Dromaius novaehollandiae",
     "speciesTaxonomyId": "8790",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7939,6 +8336,7 @@
     "species": "Amia calva",
     "speciesTaxonomyId": "7924",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7958,6 +8356,7 @@
     "species": "Passer domesticus",
     "speciesTaxonomyId": "48849",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7977,6 +8376,7 @@
     "species": "Apteryx mantelli",
     "speciesTaxonomyId": "2696672",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -7996,6 +8396,7 @@
     "species": "Saccopteryx bilineata",
     "speciesTaxonomyId": "59482",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8015,6 +8416,7 @@
     "species": "Saccopteryx leptura",
     "speciesTaxonomyId": "249018",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8034,6 +8436,7 @@
     "species": "Narcine bancroftii",
     "speciesTaxonomyId": "1343680",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8053,6 +8456,7 @@
     "species": "Patagioenas fasciata",
     "speciesTaxonomyId": "372321",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8072,6 +8476,7 @@
     "species": "Lathamus discolor",
     "speciesTaxonomyId": "678569",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8091,6 +8496,7 @@
     "species": "Anolis sagrei",
     "speciesTaxonomyId": "38937",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8110,6 +8516,7 @@
     "species": "Latimeria chalumnae",
     "speciesTaxonomyId": "7897",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8129,6 +8536,7 @@
     "species": "Pseudorca crassidens",
     "speciesTaxonomyId": "82174",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8148,6 +8556,7 @@
     "species": "Struthio camelus",
     "speciesTaxonomyId": "8801",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8167,6 +8576,7 @@
     "species": "Hyperolius riggenbachi",
     "speciesTaxonomyId": "752182",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8186,6 +8596,7 @@
     "species": "Ambystoma mexicanum",
     "speciesTaxonomyId": "8296",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8205,6 +8616,7 @@
     "species": "Lepisosteus oculatus",
     "speciesTaxonomyId": "7918",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8224,6 +8636,7 @@
     "species": "Aquila chrysaetos",
     "speciesTaxonomyId": "8962",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8243,6 +8656,7 @@
     "species": "Cottoperca gobio",
     "speciesTaxonomyId": "56716",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8262,6 +8676,7 @@
     "species": "Betta splendens",
     "speciesTaxonomyId": "158456",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8281,6 +8696,7 @@
     "species": "Erpetoichthys calabaricus",
     "speciesTaxonomyId": "27687",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8300,6 +8716,7 @@
     "species": "Scleropages formosus",
     "speciesTaxonomyId": "113540",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8319,6 +8736,7 @@
     "species": "Rhinatrema bivittatum",
     "speciesTaxonomyId": "194408",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8338,6 +8756,7 @@
     "species": "Syngnathus acus",
     "speciesTaxonomyId": "161584",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8357,6 +8776,7 @@
     "species": "Microcaecilia unicolor",
     "speciesTaxonomyId": "1415580",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8376,6 +8796,7 @@
     "species": "Salarias fasciatus",
     "speciesTaxonomyId": "181472",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8395,6 +8816,7 @@
     "species": "Sphaeramia orbicularis",
     "speciesTaxonomyId": "375764",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8414,6 +8836,7 @@
     "species": "Myripristis murdjan",
     "speciesTaxonomyId": "586833",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8433,6 +8856,7 @@
     "species": "Gadus morhua",
     "speciesTaxonomyId": "8049",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8452,6 +8876,7 @@
     "species": "Chanos chanos",
     "speciesTaxonomyId": "29144",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8464,13 +8889,14 @@
     "isRef": "Yes",
     "length": 417601740,
     "level": "Chromosome",
-    "ncbiTaxonomyId": "133437",
+    "ncbiTaxonomyId": "7604",
     "scaffoldCount": 150,
     "scaffoldL50": 9,
     "scaffoldN50": 20558067,
-    "species": "Luidia clathrata",
-    "speciesTaxonomyId": "133437",
+    "species": "Asterias rubens",
+    "speciesTaxonomyId": "7604",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8490,6 +8916,7 @@
     "species": "Geotrypetes seraphini",
     "speciesTaxonomyId": "260995",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8509,6 +8936,7 @@
     "species": "Thalassophryne amazonica",
     "speciesTaxonomyId": "390379",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8528,6 +8956,7 @@
     "species": "Sarcophilus harrisii",
     "speciesTaxonomyId": "9305",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8547,6 +8976,7 @@
     "species": "Pecten maximus",
     "speciesTaxonomyId": "6579",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8566,6 +8996,7 @@
     "species": "Lutra lutra",
     "speciesTaxonomyId": "9657",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8585,6 +9016,7 @@
     "species": "Sciurus carolinensis",
     "speciesTaxonomyId": "30640",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8604,6 +9036,7 @@
     "species": "Acipenser ruthenus",
     "speciesTaxonomyId": "7906",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8623,6 +9056,7 @@
     "species": "Scyliorhinus canicula",
     "speciesTaxonomyId": "7830",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8642,6 +9076,7 @@
     "species": "Arvicola amphibius",
     "speciesTaxonomyId": "1047088",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8661,6 +9096,7 @@
     "species": "Onychomys torridus",
     "speciesTaxonomyId": "38674",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8680,6 +9116,7 @@
     "species": "Acomys russatus",
     "speciesTaxonomyId": "60746",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8699,6 +9136,7 @@
     "species": "Acanthopagrus latus",
     "speciesTaxonomyId": "8177",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8718,6 +9156,9 @@
     "species": "Aricia agestis",
     "speciesTaxonomyId": "91739",
     "strain": null,
+    "taxonomicGroup": [
+      "Insecta"
+    ],
     "ucscBrowserUrl": null
   },
   {
@@ -8737,6 +9178,9 @@
     "species": "Pararge aegeria",
     "speciesTaxonomyId": "116150",
     "strain": null,
+    "taxonomicGroup": [
+      "Insecta"
+    ],
     "ucscBrowserUrl": null
   },
   {
@@ -8756,6 +9200,7 @@
     "species": "Bufo bufo",
     "speciesTaxonomyId": "8384",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8775,6 +9220,7 @@
     "species": "Rana temporaria",
     "speciesTaxonomyId": "8407",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8794,6 +9240,7 @@
     "species": "Cervus elaphus",
     "speciesTaxonomyId": "9860",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8813,6 +9260,7 @@
     "species": "Thunnus maccoyii",
     "speciesTaxonomyId": "8240",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8832,6 +9280,7 @@
     "species": "Thunnus albacares",
     "speciesTaxonomyId": "8236",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8851,6 +9300,7 @@
     "species": "Meles meles",
     "speciesTaxonomyId": "9662",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8870,6 +9320,7 @@
     "species": "Accipiter gentilis",
     "speciesTaxonomyId": "8957",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8889,6 +9340,7 @@
     "species": "Orcinus orca",
     "speciesTaxonomyId": "9733",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8908,6 +9360,7 @@
     "species": "Apodemus sylvaticus",
     "speciesTaxonomyId": "10129",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8927,6 +9380,7 @@
     "species": "Pleuronectes platessa",
     "speciesTaxonomyId": "8262",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8946,6 +9400,7 @@
     "species": "Haliaeetus albicilla",
     "speciesTaxonomyId": "8969",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8965,6 +9420,7 @@
     "species": "Platichthys flesus",
     "speciesTaxonomyId": "8260",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -8984,6 +9440,7 @@
     "species": "Pungitius pungitius",
     "speciesTaxonomyId": "134920",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9003,6 +9460,7 @@
     "species": "Lagenorhynchus albirostris",
     "speciesTaxonomyId": "27610",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9022,6 +9480,7 @@
     "species": "Delphinus delphis",
     "speciesTaxonomyId": "9728",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9041,6 +9500,7 @@
     "species": "Balaenoptera acutorostrata",
     "speciesTaxonomyId": "9767",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9060,6 +9520,7 @@
     "species": "Chionomys nivalis",
     "speciesTaxonomyId": "269649",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9079,6 +9540,7 @@
     "species": "Erinaceus europaeus",
     "speciesTaxonomyId": "9365",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9098,6 +9560,7 @@
     "species": "Solea solea",
     "speciesTaxonomyId": "90069",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9117,6 +9580,7 @@
     "species": "Carassius carassius",
     "speciesTaxonomyId": "217509",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9136,6 +9600,7 @@
     "species": "Myotis daubentonii",
     "speciesTaxonomyId": "98922",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9155,6 +9620,7 @@
     "species": "Zootoca vivipara",
     "speciesTaxonomyId": "8524",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9174,6 +9640,7 @@
     "species": "Conger conger",
     "speciesTaxonomyId": "82655",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9193,6 +9660,7 @@
     "species": "Limanda limanda",
     "speciesTaxonomyId": "27771",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9212,6 +9680,7 @@
     "species": "Labrus mixtus",
     "speciesTaxonomyId": "508554",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9231,6 +9700,7 @@
     "species": "Cinclus cinclus",
     "speciesTaxonomyId": "127875",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9250,6 +9720,7 @@
     "species": "Scomber scombrus",
     "speciesTaxonomyId": "13677",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9269,6 +9740,7 @@
     "species": "Osmerus eperlanus",
     "speciesTaxonomyId": "29151",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9288,6 +9760,7 @@
     "species": "Sardina pilchardus",
     "speciesTaxonomyId": "27697",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9307,6 +9780,7 @@
     "species": "Phalacrocorax carbo",
     "speciesTaxonomyId": "9209",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9326,6 +9800,7 @@
     "species": "Chroicocephalus ridibundus",
     "speciesTaxonomyId": "1192867",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9345,6 +9820,7 @@
     "species": "Phocoena phocoena",
     "speciesTaxonomyId": "9742",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9364,6 +9840,7 @@
     "species": "Thunnus thynnus",
     "speciesTaxonomyId": "8237",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9383,6 +9860,7 @@
     "species": "Muntiacus reevesi",
     "speciesTaxonomyId": "9886",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9402,6 +9880,7 @@
     "species": "Labrus bergylta",
     "speciesTaxonomyId": "56723",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   },
   {
@@ -9421,6 +9900,7 @@
     "species": "Anas acuta",
     "speciesTaxonomyId": "28680",
     "strain": null,
+    "taxonomicGroup": [],
     "ucscBrowserUrl": null
   }
 ]
