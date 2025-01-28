@@ -1,0 +1,36 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+
+# env files
+/.env*.local
+/.env.development
+/.env.production
+
+# typescript
+*.tsbuildinfo
+
+# editors
+/.vscode
+.idea
+
+# nvm
+.nvmrc
+
+# favicons
+/public/favicons/*
+
+# Build Dir
+/out
+
+# python
+venv
