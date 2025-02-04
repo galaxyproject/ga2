@@ -329,6 +329,20 @@ export const buildOrganismSpecies = (
 };
 
 /**
+ * Build props for the species cell.
+ * @param organism - Organism entity.
+ * @returns Props to be used for the cell.
+ */
+// export const buildPretextData = (
+//   organism: BRCDataCatalogOrganism
+// ): ComponentProps<typeof C.Link> => {
+//   return {
+//     pretext: 'https://genomeark.s3.amazonaws.com/species/Taeniopygia_guttata/bTaeGut2/assembly_curated/bTaeGut2.hap1.W.cur.20220905.pretext.gz',
+//     img: `'https://genomeark.s3.amazonaws.com/species/Taeniopygia_guttata/bTaeGut2/assembly_curated/bTaeGut2.hap1.W.cur.20220905.pretext.png.gz',
+//   };
+// };
+
+/**
  * Build props for the scaffold count cell.
  * @param genome - Genome entity.
  * @returns Props to be used for the cell.
