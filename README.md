@@ -12,7 +12,7 @@ The app can be run for development using `npm run dev`, and accessed at `http://
 
 Run `npm run build:local` to build. The built app can be run using `npm start`, and accessed at `http://localhost:3000`.
 
-# BRC Analytics Data Catalog
+# Genome Ark 2 Data Catalog
 
 ## Building the data source files
 
