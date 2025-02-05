@@ -13,8 +13,8 @@ export NEXT_PUBLIC_BASE_PATH=""
 # Build catalog
 npm run build:local
 
-export BUCKET=TODO
+export BUCKET=s3://wn0-ga2.dev/
 export SRCDIR=out/
 
 aws s3 sync  $SRCDIR $BUCKET --delete --profile excira
-aws cloudfront create-invalidation --distribution-id E1OF5ESEGD5VAG --paths "/*" --profile excira
+aws cloudfront create-invalidation --distribution-id E2FPRWW4KQ5FCL --paths "/*" --profile excira
