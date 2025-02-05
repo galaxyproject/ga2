@@ -11,12 +11,13 @@ UCSC_ASSEMBLIES_URL = "https://hgdownload.soe.ucsc.edu/hubs/BRC/assemblyList.jso
 GENOMES_OUTPUT_PATH = "catalog-build/source/genomes-from-ncbi.tsv"
 
 TAXONOMIC_GROUPS_BY_TAXONOMY_ID = {
-  2: "Bacteria",
-  10239: "Viruses",
-  4751: "Fungi",
-  50557: "Insecta",
-  5794: "Apicomplexa",
-  5653: "Kinetoplastea",
+  40674: "Mammalia",
+  8782: "Aves",
+  8457: "Sauropsida",
+  8292: "Amphibia",
+  7898: "Fish",
+  7777: "Fish",
+  1476529: "Fish",
 }
 
 def read_assemblies():
