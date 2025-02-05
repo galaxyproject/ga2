@@ -27,6 +27,7 @@ export interface BRCDataCatalogGenome {
   speciesTaxonomyId: string;
   strain: string | null;
   taxonomicGroup: string[];
+  tolId: string | null;
   ucscBrowserUrl: string | null;
 }
 
@@ -37,6 +38,7 @@ export interface BRCDataCatalogOrganism {
   ncbiTaxonomyId: string;
   species: string;
   taxonomicGroup: string[];
+  tolId: string | null;
 }
 
 export interface EntitiesResponse<R> {

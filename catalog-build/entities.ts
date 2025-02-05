@@ -16,5 +16,6 @@ export interface SourceGenome {
   strain: string;
   taxonomicGroup: string;
   taxonomyId: string;
+  tolId: string;
   ucscBrowser: string;
 }

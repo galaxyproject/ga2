@@ -26,6 +26,11 @@ async function buildCatalog(): Promise<void> {
 async function buildGenomes(): Promise<BRCDataCatalogGenome[]> {
   const sourceRows = await readValuesFile<SourceGenome>(SOURCE_PATH_GENOMES);
   const mappedRows = sourceRows.map((row): BRCDataCatalogGenome => {
+    const tolIds = parseList(row.tolId);
+    if (tolIds.length > 1)
+      console.log(
+        `Warning: Multiple ToLIDs found for ${row.accession} (${tolIds.join(", ")})`
+      );
     return {
       accession: row.accession,
       annotationStatus: parseStringOrNull(row.annotationStatus),
@@ -43,7 +48,8 @@ async function buildGenomes(): Promise<BRCDataCatalogGenome[]> {
       species: row.species,
       speciesTaxonomyId: row.speciesTaxonomyId,
       strain: parseStringOrNull(row.strain),
-      taxonomicGroup: row.taxonomicGroup ? row.taxonomicGroup.split(",") : [],
+      taxonomicGroup: parseList(row.taxonomicGroup),
+      tolId: tolIds[0] ?? null,
       ucscBrowserUrl: parseStringOrNull(row.ucscBrowser),
     };
   });
@@ -78,6 +84,7 @@ function buildOrganism(
     ncbiTaxonomyId: genome.speciesTaxonomyId,
     species: genome.species,
     taxonomicGroup: genome.taxonomicGroup,
+    tolId: genome.tolId,
   };
 }
 
@@ -95,6 +102,10 @@ async function readValuesFile<T>(
 
 async function saveJson(filePath: string, data: unknown): Promise<void> {
   await fsp.writeFile(filePath, JSON.stringify(data, undefined, 2) + "\n");
+}
+
+function parseList(value: string): string[] {
+  return value ? value.split(",") : [];
 }
 
 function parseStringOrNull(value: string): string | null {
