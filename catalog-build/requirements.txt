@@ -1,3 +1,4 @@
+-e "git+https://github.com/galaxyproject/brc-analytics.git@fd8e4e12fa3fbc13c77165ef6946fe4f8a1bfbac#egg=catalog_build&subdirectory=catalog-build/package"
 certifi==2024.8.30
 charset-normalizer==3.3.2
 idna==3.8
