@@ -17,7 +17,6 @@ export const BRC_DATA_CATALOG_CATEGORY_KEY = {
   STRAIN: "strain",
   TAXONOMIC_GROUP: "taxonomicGroup",
   TAXONOMY_ID: "ncbiTaxonomyId",
-  TOLID: "tolId",
   UCSC_BROWSER_URL: "ucscBrowserUrl",
 };
 
@@ -40,6 +39,5 @@ export const BRC_DATA_CATALOG_CATEGORY_LABEL = {
   STRAIN: "Strain",
   TAXONOMIC_GROUP: "Taxonomic Group",
   TAXONOMY_ID: "Taxonomy ID",
-  TOLID: "ToLID",
   UCSC_BROWSER_URL: "UCSC Browser",
 };

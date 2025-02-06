@@ -300,19 +300,6 @@ export const buildTaxonomyId = (
 };
 
 /**
- * Build props for the ToLID cell.
- * @param entity - ORganism or genome entity.
- * @returns Props to be used for the cell.
- */
-export const buildTolId = (
-  entity: BRCDataCatalogOrganism | BRCDataCatalogGenome
-): ComponentProps<typeof C.BasicCell> => {
-  return {
-    value: entity.tolId,
-  };
-};
-
-/**
  * Build props for the genome AnalysisMethod component.
  * @param genome - Genome entity.
  * @param analysisMethodProps - Analysis Method properties.
