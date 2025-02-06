@@ -134,7 +134,6 @@
         "speciesTaxonomyId": "100830",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -144,7 +143,6 @@
     "ncbiTaxonomyId": "100830",
     "species": "Tetrao urogallus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -284,7 +282,7 @@
         "speciesTaxonomyId": "101497",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -293,7 +291,7 @@
     "ncbiTaxonomyId": "101497",
     "species": "Notothenia rossii",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -321,7 +319,7 @@
         "speciesTaxonomyId": "103942",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -330,7 +328,7 @@
     "ncbiTaxonomyId": "103942",
     "species": "Vipera ursinii",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -358,7 +356,7 @@
         "speciesTaxonomyId": "1041117",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -367,7 +365,7 @@
     "ncbiTaxonomyId": "1041117",
     "species": "Myuchelys georgesi",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -432,7 +430,7 @@
         "speciesTaxonomyId": "106175",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -441,7 +439,7 @@
     "ncbiTaxonomyId": "106175",
     "species": "Microstomus kitt",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -469,7 +467,6 @@
         "speciesTaxonomyId": "107022",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -479,7 +476,6 @@
     "ncbiTaxonomyId": "107022",
     "species": "Bucephala clangula",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -508,7 +504,6 @@
         "speciesTaxonomyId": "108405",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -518,7 +513,6 @@
     "ncbiTaxonomyId": "108405",
     "species": "Sterna hirundo",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -547,7 +541,7 @@
         "speciesTaxonomyId": "1090481",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -556,7 +550,7 @@
     "ncbiTaxonomyId": "1090481",
     "species": "Gymnoscopelus microlampas",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -584,7 +578,7 @@
         "speciesTaxonomyId": "1091424",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -593,7 +587,7 @@
     "ncbiTaxonomyId": "1091424",
     "species": "Melanostigma gelatinosum",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -621,7 +615,7 @@
         "speciesTaxonomyId": "1091426",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -630,7 +624,7 @@
     "ncbiTaxonomyId": "1091426",
     "species": "Protomyctophum parallelum",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -769,7 +763,7 @@
         "speciesTaxonomyId": "109706",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -778,7 +772,7 @@
     "ncbiTaxonomyId": "109706",
     "species": "Chaetodon trifascialis",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -806,7 +800,7 @@
         "speciesTaxonomyId": "109905",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -815,7 +809,7 @@
     "ncbiTaxonomyId": "109905",
     "species": "Chelmon rostratus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -917,7 +911,6 @@
         "speciesTaxonomyId": "111811",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -927,7 +920,6 @@
     "ncbiTaxonomyId": "111811",
     "species": "Caprimulgus europaeus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -956,7 +948,6 @@
         "speciesTaxonomyId": "111821",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -966,7 +957,6 @@
     "ncbiTaxonomyId": "111821",
     "species": "Strix aluco",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -995,7 +985,6 @@
         "speciesTaxonomyId": "1118847",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1005,7 +994,6 @@
     "ncbiTaxonomyId": "1118847",
     "species": "Theristicus caerulescens",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1034,18 +1022,18 @@
         "speciesTaxonomyId": "112232",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "112232",
     "species": "Mustelus asterias",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -1071,7 +1059,7 @@
         "speciesTaxonomyId": "113540",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -1080,7 +1068,7 @@
     "ncbiTaxonomyId": "113540",
     "species": "Scleropages formosus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -1107,15 +1095,19 @@
         "species": "Pararge aegeria",
         "speciesTaxonomyId": "116150",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Insecta"
+        ],
+        "tolId": "i",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "116150",
     "species": "Pararge aegeria",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Insecta"
+    ],
+    "tolId": "i"
   },
   {
     "assemblyCount": 1,
@@ -1141,7 +1133,7 @@
         "speciesTaxonomyId": "118141",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -1150,7 +1142,7 @@
     "ncbiTaxonomyId": "118141",
     "species": "Megalops cyprinoides",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -1178,7 +1170,6 @@
         "speciesTaxonomyId": "118200",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1188,7 +1179,6 @@
     "ncbiTaxonomyId": "118200",
     "species": "Dryobates pubescens",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1217,7 +1207,7 @@
         "speciesTaxonomyId": "118683",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -1226,7 +1216,7 @@
     "ncbiTaxonomyId": "118683",
     "species": "Cyclura pinguis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -1254,7 +1244,6 @@
         "speciesTaxonomyId": "1192867",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1264,7 +1253,6 @@
     "ncbiTaxonomyId": "1192867",
     "species": "Chroicocephalus ridibundus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1293,7 +1281,6 @@
         "speciesTaxonomyId": "119627",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1303,7 +1290,6 @@
     "ncbiTaxonomyId": "119627",
     "species": "Larus michahellis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1332,7 +1318,6 @@
         "speciesTaxonomyId": "1196302",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1342,7 +1327,6 @@
     "ncbiTaxonomyId": "1196302",
     "species": "Corvus moneduloides",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1371,7 +1355,7 @@
         "speciesTaxonomyId": "1203425",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -1380,7 +1364,7 @@
     "ncbiTaxonomyId": "1203425",
     "species": "Notolabrus celidotus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -1408,7 +1392,6 @@
         "speciesTaxonomyId": "120794",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1418,7 +1401,6 @@
     "ncbiTaxonomyId": "120794",
     "species": "Falco rusticolus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1447,7 +1429,7 @@
         "speciesTaxonomyId": "121349",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -1456,7 +1438,7 @@
     "ncbiTaxonomyId": "121349",
     "species": "Erythrolamprus reginae",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -1484,7 +1466,6 @@
         "speciesTaxonomyId": "121530",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1494,7 +1475,6 @@
     "ncbiTaxonomyId": "121530",
     "species": "Tauraco erythrolophus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1560,7 +1540,7 @@
         "speciesTaxonomyId": "1250792",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -1569,7 +1549,7 @@
     "ncbiTaxonomyId": "1250792",
     "species": "Melanotaenia boesemani",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -1597,7 +1577,6 @@
         "speciesTaxonomyId": "126867",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1607,7 +1586,6 @@
     "ncbiTaxonomyId": "126867",
     "species": "Phalacrocorax aristotelis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1636,7 +1614,6 @@
         "speciesTaxonomyId": "127875",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1646,7 +1623,6 @@
     "ncbiTaxonomyId": "127875",
     "species": "Cinclus cinclus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1675,7 +1651,7 @@
         "speciesTaxonomyId": "129108",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -1684,7 +1660,7 @@
     "ncbiTaxonomyId": "129108",
     "species": "Xenentodon cancila",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -1712,7 +1688,6 @@
         "speciesTaxonomyId": "13146",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1722,7 +1697,6 @@
     "ncbiTaxonomyId": "13146",
     "species": "Melopsittacus undulatus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1788,7 +1762,6 @@
         "speciesTaxonomyId": "132585",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1798,7 +1771,6 @@
     "ncbiTaxonomyId": "132585",
     "species": "Anser brachyrhynchus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -1827,7 +1799,7 @@
         "speciesTaxonomyId": "1330250",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -1836,7 +1808,7 @@
     "ncbiTaxonomyId": "1330250",
     "species": "Podarcis cretensis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -1864,18 +1836,18 @@
         "speciesTaxonomyId": "13397",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "13397",
     "species": "Carcharodon carcharias",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 2,
@@ -1901,9 +1873,9 @@
         "speciesTaxonomyId": "1343680",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       },
       {
@@ -1924,18 +1896,18 @@
         "speciesTaxonomyId": "1343680",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "1343680",
     "species": "Narcine bancroftii",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -1961,7 +1933,6 @@
         "speciesTaxonomyId": "134902",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -1971,7 +1942,6 @@
     "ncbiTaxonomyId": "134902",
     "species": "Corvus hawaiiensis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -2000,7 +1970,7 @@
         "speciesTaxonomyId": "134920",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2009,7 +1979,7 @@
     "ncbiTaxonomyId": "134920",
     "species": "Pungitius pungitius",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2037,7 +2007,6 @@
         "speciesTaxonomyId": "135433",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -2047,7 +2016,6 @@
     "ncbiTaxonomyId": "135433",
     "species": "Geothlypis trichas",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -2076,7 +2044,7 @@
         "speciesTaxonomyId": "135647",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2085,7 +2053,7 @@
     "ncbiTaxonomyId": "135647",
     "species": "Barbatula barbatula",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2150,7 +2118,7 @@
         "speciesTaxonomyId": "13676",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2159,7 +2127,7 @@
     "ncbiTaxonomyId": "13676",
     "species": "Scomber japonicus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2187,7 +2155,7 @@
         "speciesTaxonomyId": "13677",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2196,7 +2164,7 @@
     "ncbiTaxonomyId": "13677",
     "species": "Scomber scombrus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2224,7 +2192,7 @@
         "speciesTaxonomyId": "140042",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -2233,7 +2201,7 @@
     "ncbiTaxonomyId": "140042",
     "species": "Podarcis erhardii",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -2321,7 +2289,7 @@
         "speciesTaxonomyId": "142480",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -2330,7 +2298,7 @@
     "ncbiTaxonomyId": "142480",
     "species": "Sternotherus odoratus",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -2395,7 +2363,7 @@
         "speciesTaxonomyId": "146480",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2404,7 +2372,7 @@
     "ncbiTaxonomyId": "146480",
     "species": "Ammodytes marinus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2432,7 +2400,7 @@
         "speciesTaxonomyId": "1484357",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2441,7 +2409,7 @@
     "ncbiTaxonomyId": "1484357",
     "species": "Hyperoplus immaculatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2469,7 +2437,6 @@
         "speciesTaxonomyId": "148594",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -2479,7 +2446,6 @@
     "ncbiTaxonomyId": "148594",
     "species": "Falco naumanni",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -2508,7 +2474,6 @@
         "speciesTaxonomyId": "148596",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -2518,7 +2483,6 @@
     "ncbiTaxonomyId": "148596",
     "species": "Falco punctatus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -2584,7 +2548,6 @@
         "speciesTaxonomyId": "151761",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -2594,7 +2557,6 @@
     "ncbiTaxonomyId": "151761",
     "species": "Amazona ochrocephala",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -2623,7 +2585,6 @@
         "speciesTaxonomyId": "153643",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -2633,7 +2594,6 @@
     "ncbiTaxonomyId": "153643",
     "species": "Bucorvus abyssinicus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -2722,7 +2682,6 @@
         "speciesTaxonomyId": "1570318",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -2732,7 +2691,6 @@
     "ncbiTaxonomyId": "1570318",
     "species": "Mergus octosetaceus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -2761,7 +2719,7 @@
         "speciesTaxonomyId": "158456",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2770,7 +2728,7 @@
     "ncbiTaxonomyId": "158456",
     "species": "Betta splendens",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2797,15 +2755,19 @@
         "species": "Clavelina lepadiformis",
         "speciesTaxonomyId": "159417",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Tunicata"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "159417",
     "species": "Clavelina lepadiformis",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Tunicata"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -2831,7 +2793,7 @@
         "speciesTaxonomyId": "161584",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2840,7 +2802,7 @@
     "ncbiTaxonomyId": "161584",
     "species": "Syngnathus acus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2868,7 +2830,6 @@
         "speciesTaxonomyId": "161624",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -2878,7 +2839,6 @@
     "ncbiTaxonomyId": "161624",
     "species": "Passerculus sandwichensis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -2907,18 +2867,18 @@
         "speciesTaxonomyId": "170820",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "170820",
     "species": "Hemiscyllium ocellatum",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -2944,7 +2904,7 @@
         "speciesTaxonomyId": "171736",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2953,7 +2913,7 @@
     "ncbiTaxonomyId": "171736",
     "species": "Symphodus melops",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -2981,7 +2941,7 @@
         "speciesTaxonomyId": "173247",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -2990,7 +2950,7 @@
     "ncbiTaxonomyId": "173247",
     "species": "Echeneis naucrates",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -3055,7 +3015,6 @@
         "speciesTaxonomyId": "177147",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -3065,7 +3024,6 @@
     "ncbiTaxonomyId": "177147",
     "species": "Streptopelia decaocto",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -3094,7 +3052,6 @@
         "speciesTaxonomyId": "177155",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -3104,7 +3061,6 @@
     "ncbiTaxonomyId": "177155",
     "species": "Streptopelia turtur",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -3133,7 +3089,7 @@
         "speciesTaxonomyId": "1772091",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -3142,7 +3098,7 @@
     "ncbiTaxonomyId": "1772091",
     "species": "Lycodopsis pacificus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -3170,7 +3126,7 @@
         "speciesTaxonomyId": "179887",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -3179,7 +3135,7 @@
     "ncbiTaxonomyId": "179887",
     "species": "Bradypodion pumilum",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -3207,7 +3163,7 @@
         "speciesTaxonomyId": "179890",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -3216,7 +3172,7 @@
     "ncbiTaxonomyId": "179890",
     "species": "Bradypodion ventrale",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -3244,7 +3200,7 @@
         "speciesTaxonomyId": "181472",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -3253,7 +3209,7 @@
     "ncbiTaxonomyId": "181472",
     "species": "Salarias fasciatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -3281,7 +3237,7 @@
         "speciesTaxonomyId": "1825980",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -3290,7 +3246,7 @@
     "ncbiTaxonomyId": "1825980",
     "species": "Gopherus evgoodei",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -3318,7 +3274,7 @@
         "speciesTaxonomyId": "185739",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -3327,7 +3283,7 @@
     "ncbiTaxonomyId": "185739",
     "species": "Pollachius pollachius",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -3355,7 +3311,6 @@
         "speciesTaxonomyId": "187106",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -3365,7 +3320,6 @@
     "ncbiTaxonomyId": "187106",
     "species": "Caloenas nicobarica",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -3394,7 +3348,6 @@
         "speciesTaxonomyId": "187126",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -3404,7 +3357,6 @@
     "ncbiTaxonomyId": "187126",
     "species": "Nesoenas mayeri",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -3433,7 +3385,6 @@
         "speciesTaxonomyId": "187382",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -3443,7 +3394,6 @@
     "ncbiTaxonomyId": "187382",
     "species": "Chlamydotis macqueenii",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -3472,7 +3422,7 @@
         "speciesTaxonomyId": "187939",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -3481,7 +3431,7 @@
     "ncbiTaxonomyId": "187939",
     "species": "Furcifer pardalis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -3509,7 +3459,6 @@
         "speciesTaxonomyId": "188344",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -3519,7 +3468,6 @@
     "ncbiTaxonomyId": "188344",
     "species": "Leptosomus discolor",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -3645,7 +3593,7 @@
         "speciesTaxonomyId": "195075",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -3654,7 +3602,7 @@
     "ncbiTaxonomyId": "195075",
     "species": "Blennius ocellaris",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -3682,7 +3630,7 @@
         "speciesTaxonomyId": "195821",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -3691,7 +3639,7 @@
     "ncbiTaxonomyId": "195821",
     "species": "Anableps anableps",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -3719,7 +3667,7 @@
         "speciesTaxonomyId": "196075",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -3728,7 +3676,7 @@
     "ncbiTaxonomyId": "196075",
     "species": "Sprattus sprattus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -3756,7 +3704,6 @@
         "speciesTaxonomyId": "197941",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -3766,7 +3713,6 @@
     "ncbiTaxonomyId": "197941",
     "species": "Clangula hyemalis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -3795,18 +3741,18 @@
         "speciesTaxonomyId": "1983395",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "1983395",
     "species": "Mobula birostris",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -3831,15 +3777,19 @@
         "species": "Ascidiella aspersa",
         "speciesTaxonomyId": "201961",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Tunicata"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "201961",
     "species": "Ascidiella aspersa",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Tunicata"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -3865,7 +3815,6 @@
         "speciesTaxonomyId": "202280",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -3875,7 +3824,6 @@
     "ncbiTaxonomyId": "202280",
     "species": "Harpia harpyja",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -3904,7 +3852,7 @@
         "speciesTaxonomyId": "2025560",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -3913,7 +3861,7 @@
     "ncbiTaxonomyId": "2025560",
     "species": "Natrix helvetica",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -3941,7 +3889,7 @@
         "speciesTaxonomyId": "205130",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -3950,7 +3898,7 @@
     "ncbiTaxonomyId": "205130",
     "species": "Mastacembelus armatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -3978,7 +3926,7 @@
         "speciesTaxonomyId": "206093",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -3987,7 +3935,7 @@
     "ncbiTaxonomyId": "206093",
     "species": "Electrona antarctica",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -4015,7 +3963,7 @@
         "speciesTaxonomyId": "208333",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -4024,7 +3972,7 @@
     "ncbiTaxonomyId": "208333",
     "species": "Girardinichthys multiradiatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -4052,7 +4000,7 @@
         "speciesTaxonomyId": "210632",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -4061,7 +4009,7 @@
     "ncbiTaxonomyId": "210632",
     "species": "Parambassis ranga",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -4089,18 +4037,18 @@
         "speciesTaxonomyId": "212740",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "212740",
     "species": "Heptranchias perlo",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -4126,7 +4074,7 @@
         "speciesTaxonomyId": "217509",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -4135,7 +4083,7 @@
     "ncbiTaxonomyId": "217509",
     "species": "Carassius carassius",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -4163,7 +4111,6 @@
         "speciesTaxonomyId": "219593",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -4173,7 +4120,6 @@
     "ncbiTaxonomyId": "219593",
     "species": "Aythya ferina",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -4202,7 +4148,6 @@
         "speciesTaxonomyId": "219594",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -4212,7 +4157,6 @@
     "ncbiTaxonomyId": "219594",
     "species": "Aythya fuligula",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -4241,7 +4185,7 @@
         "speciesTaxonomyId": "219752",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -4264,7 +4208,7 @@
         "speciesTaxonomyId": "219752",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -4273,7 +4217,7 @@
     "ncbiTaxonomyId": "219752",
     "species": "Odontesthes bonariensis",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -4301,7 +4245,7 @@
         "speciesTaxonomyId": "2202111",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -4310,7 +4254,7 @@
     "ncbiTaxonomyId": "2202111",
     "species": "Anniella stebbinsi",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -4338,18 +4282,18 @@
         "speciesTaxonomyId": "223862",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "223862",
     "species": "Raja brachyura",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -4375,7 +4319,7 @@
         "speciesTaxonomyId": "2290929",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -4384,7 +4328,7 @@
     "ncbiTaxonomyId": "2290929",
     "species": "Trichomycterus rosablanca",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -4412,7 +4356,6 @@
         "speciesTaxonomyId": "232653",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -4422,7 +4365,6 @@
     "ncbiTaxonomyId": "232653",
     "species": "Psittacula echo",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -4562,7 +4504,6 @@
         "speciesTaxonomyId": "240206",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -4572,7 +4513,6 @@
     "ncbiTaxonomyId": "240206",
     "species": "Pterocles gutturalis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -4601,7 +4541,6 @@
         "speciesTaxonomyId": "243314",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -4611,7 +4550,6 @@
     "ncbiTaxonomyId": "243314",
     "species": "Hemiprocne comata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -4640,7 +4578,7 @@
         "speciesTaxonomyId": "246179",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -4649,7 +4587,7 @@
     "ncbiTaxonomyId": "246179",
     "species": "Vipera latastei",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -4714,7 +4652,6 @@
         "speciesTaxonomyId": "2489341",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -4724,7 +4661,6 @@
     "ncbiTaxonomyId": "2489341",
     "species": "Strigops habroptila",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -4827,7 +4763,7 @@
         "speciesTaxonomyId": "2546036",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -4836,7 +4772,7 @@
     "ncbiTaxonomyId": "2546036",
     "species": "Lampris incognitus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -4961,7 +4897,7 @@
         "speciesTaxonomyId": "261503",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -4970,7 +4906,7 @@
     "ncbiTaxonomyId": "261503",
     "species": "Rhineura floridana",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -5035,7 +4971,6 @@
         "speciesTaxonomyId": "2696672",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -5045,7 +4980,6 @@
     "ncbiTaxonomyId": "2696672",
     "species": "Apteryx mantelli",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -5073,15 +5007,19 @@
         "species": "Branchiostoma floridae x Branchiostoma japonicum",
         "speciesTaxonomyId": "2700039",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Leptocardii"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "2700039",
     "species": "Branchiostoma floridae x Branchiostoma japonicum",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Leptocardii"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -5106,15 +5044,19 @@
         "species": "Branchiostoma floridae x Branchiostoma belcheri",
         "speciesTaxonomyId": "2700040",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Leptocardii"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "2700040",
     "species": "Branchiostoma floridae x Branchiostoma belcheri",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Leptocardii"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -5140,7 +5082,6 @@
         "speciesTaxonomyId": "2707177",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -5150,7 +5091,6 @@
     "ncbiTaxonomyId": "2707177",
     "species": "Ammospiza maritima",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -5438,7 +5378,7 @@
         "speciesTaxonomyId": "27687",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -5447,7 +5387,7 @@
     "ncbiTaxonomyId": "27687",
     "species": "Erpetoichthys calabaricus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -5475,7 +5415,7 @@
         "speciesTaxonomyId": "27697",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -5484,7 +5424,7 @@
     "ncbiTaxonomyId": "27697",
     "species": "Sardina pilchardus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -5512,7 +5452,7 @@
         "speciesTaxonomyId": "27704",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -5521,7 +5461,7 @@
     "ncbiTaxonomyId": "27704",
     "species": "Gobio gobio",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -5549,7 +5489,7 @@
         "speciesTaxonomyId": "27706",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -5558,7 +5498,7 @@
     "ncbiTaxonomyId": "27706",
     "species": "Micropterus salmoides",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -5585,15 +5525,19 @@
         "species": "Aplidium turbinatum",
         "speciesTaxonomyId": "2771288",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Tunicata"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "2771288",
     "species": "Aplidium turbinatum",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Tunicata"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -5619,7 +5563,7 @@
         "speciesTaxonomyId": "27720",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -5628,7 +5572,7 @@
     "ncbiTaxonomyId": "27720",
     "species": "Hoplias malabaricus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -5656,7 +5600,7 @@
         "speciesTaxonomyId": "27771",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -5665,7 +5609,7 @@
     "ncbiTaxonomyId": "27771",
     "species": "Limanda limanda",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -5693,7 +5637,7 @@
         "speciesTaxonomyId": "27794",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -5702,7 +5646,7 @@
     "ncbiTaxonomyId": "27794",
     "species": "Dermochelys coriacea",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -5730,7 +5674,6 @@
         "speciesTaxonomyId": "279927",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -5740,7 +5683,6 @@
     "ncbiTaxonomyId": "279927",
     "species": "Acridotheres tristis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -5769,7 +5711,7 @@
         "speciesTaxonomyId": "283338",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -5778,7 +5720,7 @@
     "ncbiTaxonomyId": "283338",
     "species": "Liasis olivaceus",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -5806,7 +5748,6 @@
         "speciesTaxonomyId": "2857394",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -5816,7 +5757,6 @@
     "ncbiTaxonomyId": "2857394",
     "species": "Ammospiza nelsoni",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -5845,7 +5785,6 @@
         "speciesTaxonomyId": "2857398",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -5855,7 +5794,6 @@
     "ncbiTaxonomyId": "2857398",
     "species": "Ammospiza caudacuta",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -5884,7 +5822,7 @@
         "speciesTaxonomyId": "286002",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -5893,7 +5831,7 @@
     "ncbiTaxonomyId": "286002",
     "species": "Gopherus flavomarginatus",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -5921,7 +5859,6 @@
         "speciesTaxonomyId": "28680",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -5931,7 +5868,6 @@
     "ncbiTaxonomyId": "28680",
     "species": "Anas acuta",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -5960,7 +5896,6 @@
         "speciesTaxonomyId": "28689",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -5970,7 +5905,6 @@
     "ncbiTaxonomyId": "28689",
     "species": "Alca torda",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -5999,7 +5933,7 @@
         "speciesTaxonomyId": "28792",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -6008,7 +5942,7 @@
     "ncbiTaxonomyId": "28792",
     "species": "Cyprinella venusta",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -6184,7 +6118,7 @@
         "speciesTaxonomyId": "29144",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -6193,7 +6127,7 @@
     "ncbiTaxonomyId": "29144",
     "species": "Chanos chanos",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -6221,7 +6155,7 @@
         "speciesTaxonomyId": "29151",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -6230,7 +6164,7 @@
     "ncbiTaxonomyId": "29151",
     "species": "Osmerus eperlanus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -6258,7 +6192,6 @@
         "speciesTaxonomyId": "2939378",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -6268,7 +6201,6 @@
     "ncbiTaxonomyId": "2939378",
     "species": "Oenanthe melanoleuca",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -6297,7 +6229,6 @@
         "speciesTaxonomyId": "296741",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -6307,7 +6238,6 @@
     "ncbiTaxonomyId": "296741",
     "species": "Chiroxiphia lanceolata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -6336,7 +6266,6 @@
         "speciesTaxonomyId": "297711",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -6346,7 +6275,6 @@
     "ncbiTaxonomyId": "297711",
     "species": "Trogon surrucura",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -6375,7 +6303,7 @@
         "speciesTaxonomyId": "299321",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -6384,7 +6312,7 @@
     "ncbiTaxonomyId": "299321",
     "species": "Denticeps clupeoides",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -6509,7 +6437,7 @@
         "speciesTaxonomyId": "3026461",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -6518,7 +6446,7 @@
     "ncbiTaxonomyId": "3026461",
     "species": "Macrochelys suwanniensis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -6546,7 +6474,6 @@
         "speciesTaxonomyId": "30387",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -6556,7 +6483,6 @@
     "ncbiTaxonomyId": "30387",
     "species": "Netta rufina",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -6585,7 +6511,6 @@
         "speciesTaxonomyId": "30397",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -6595,7 +6520,6 @@
     "ncbiTaxonomyId": "30397",
     "species": "Buteo buteo",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -6624,7 +6548,6 @@
         "speciesTaxonomyId": "30419",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -6634,7 +6557,6 @@
     "ncbiTaxonomyId": "30419",
     "species": "Opisthocomus hoazin",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -6663,7 +6585,6 @@
         "speciesTaxonomyId": "30427",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -6673,7 +6594,6 @@
     "ncbiTaxonomyId": "30427",
     "species": "Haemorhous mexicanus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -6739,18 +6659,18 @@
         "speciesTaxonomyId": "3053191",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "3053191",
     "species": "Stegostoma tigrinum",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -6850,7 +6770,7 @@
         "speciesTaxonomyId": "31033",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -6859,7 +6779,7 @@
     "ncbiTaxonomyId": "31033",
     "species": "Takifugu rubripes",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -6887,7 +6807,7 @@
         "speciesTaxonomyId": "310915",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -6896,7 +6816,7 @@
     "ncbiTaxonomyId": "310915",
     "species": "Pangasianodon hypophthalmus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -6924,7 +6844,7 @@
         "speciesTaxonomyId": "31155",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -6933,7 +6853,7 @@
     "ncbiTaxonomyId": "31155",
     "species": "Vipera berus",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -6961,7 +6881,7 @@
         "speciesTaxonomyId": "3127111",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -6970,7 +6890,7 @@
     "ncbiTaxonomyId": "3127111",
     "species": "Pempheris klunzingeri",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -6997,15 +6917,19 @@
         "species": "Saccoglossus sp. HW-2024a",
         "speciesTaxonomyId": "3154068",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Hemichordata"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "3154068",
     "species": "Saccoglossus sp. HW-2024a",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Hemichordata"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -7031,7 +6955,6 @@
         "speciesTaxonomyId": "31919",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7041,7 +6964,6 @@
     "ncbiTaxonomyId": "31919",
     "species": "Numenius arquata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7181,7 +7103,6 @@
         "speciesTaxonomyId": "33610",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7191,7 +7112,6 @@
     "ncbiTaxonomyId": "33610",
     "species": "Gypaetus barbatus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7294,7 +7214,6 @@
         "speciesTaxonomyId": "345155",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7304,7 +7223,6 @@
     "ncbiTaxonomyId": "345155",
     "species": "Falco biarmicus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7333,7 +7251,6 @@
         "speciesTaxonomyId": "345164",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7343,7 +7260,6 @@
     "ncbiTaxonomyId": "345164",
     "species": "Falco cherrug",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7372,7 +7288,7 @@
         "speciesTaxonomyId": "34773",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -7381,7 +7297,7 @@
     "ncbiTaxonomyId": "34773",
     "species": "Alosa sapidissima",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -7409,7 +7325,7 @@
         "speciesTaxonomyId": "34787",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -7418,7 +7334,7 @@
     "ncbiTaxonomyId": "34787",
     "species": "Tautogolabrus adspersus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -7483,7 +7399,7 @@
         "speciesTaxonomyId": "35005",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -7492,7 +7408,7 @@
     "ncbiTaxonomyId": "35005",
     "species": "Thamnophis elegans",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -7520,7 +7436,7 @@
         "speciesTaxonomyId": "36212",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -7529,7 +7445,7 @@
     "ncbiTaxonomyId": "36212",
     "species": "Trachurus trachurus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -7557,7 +7473,6 @@
         "speciesTaxonomyId": "36300",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7567,7 +7482,6 @@
     "ncbiTaxonomyId": "36300",
     "species": "Pelecanus crispus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7633,7 +7547,6 @@
         "speciesTaxonomyId": "37040",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7643,7 +7556,6 @@
     "ncbiTaxonomyId": "37040",
     "species": "Gavia stellata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7672,7 +7584,6 @@
         "speciesTaxonomyId": "37045",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7682,7 +7593,6 @@
     "ncbiTaxonomyId": "37045",
     "species": "Phaethon aethereus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7711,7 +7621,6 @@
         "speciesTaxonomyId": "372321",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7721,7 +7630,6 @@
     "ncbiTaxonomyId": "372321",
     "species": "Patagioenas fasciata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7750,7 +7658,7 @@
         "speciesTaxonomyId": "375764",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -7759,7 +7667,7 @@
     "ncbiTaxonomyId": "375764",
     "species": "Sphaeramia orbicularis",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -7787,7 +7695,6 @@
         "speciesTaxonomyId": "37578",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7797,7 +7704,6 @@
     "ncbiTaxonomyId": "37578",
     "species": "Morus bassanus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7826,7 +7732,6 @@
         "speciesTaxonomyId": "37598",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7836,7 +7741,6 @@
     "ncbiTaxonomyId": "37598",
     "species": "Fringilla coelebs",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7865,7 +7769,6 @@
         "speciesTaxonomyId": "37610",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -7875,7 +7778,6 @@
     "ncbiTaxonomyId": "37610",
     "species": "Erithacus rubecula",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -7904,7 +7806,7 @@
         "speciesTaxonomyId": "38527",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -7913,7 +7815,7 @@
     "ncbiTaxonomyId": "38527",
     "species": "Abramis brama",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -7940,15 +7842,19 @@
         "species": "Ascidia mentula",
         "speciesTaxonomyId": "38561",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Tunicata"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "38561",
     "species": "Ascidia mentula",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Tunicata"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -8011,18 +7917,18 @@
         "speciesTaxonomyId": "386614",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "386614",
     "species": "Amblyraja radiata",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -8085,7 +7991,7 @@
         "speciesTaxonomyId": "38937",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -8094,7 +8000,7 @@
     "ncbiTaxonomyId": "38937",
     "species": "Anolis sagrei",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -8122,7 +8028,7 @@
         "speciesTaxonomyId": "390368",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8131,7 +8037,7 @@
     "ncbiTaxonomyId": "390368",
     "species": "Pholidichthys leucotaenia",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8159,7 +8065,7 @@
         "speciesTaxonomyId": "390379",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8168,7 +8074,7 @@
     "ncbiTaxonomyId": "390379",
     "species": "Thalassophryne amazonica",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8233,7 +8139,7 @@
         "speciesTaxonomyId": "394691",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8242,7 +8148,7 @@
     "ncbiTaxonomyId": "394691",
     "species": "Sebastes fasciatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8270,7 +8176,6 @@
         "speciesTaxonomyId": "39638",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -8280,7 +8185,6 @@
     "ncbiTaxonomyId": "39638",
     "species": "Agelaius phoeniceus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -8346,7 +8250,6 @@
         "speciesTaxonomyId": "40816",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -8356,7 +8259,6 @@
     "ncbiTaxonomyId": "40816",
     "species": "Grus grus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -8385,7 +8287,7 @@
         "speciesTaxonomyId": "40830",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8394,7 +8296,7 @@
     "ncbiTaxonomyId": "40830",
     "species": "Barbus barbus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8422,7 +8324,7 @@
         "speciesTaxonomyId": "409849",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8431,7 +8333,7 @@
     "ncbiTaxonomyId": "409849",
     "species": "Periophthalmus magnuspinnatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8459,7 +8361,6 @@
         "speciesTaxonomyId": "415032",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -8469,7 +8370,6 @@
     "ncbiTaxonomyId": "415032",
     "species": "Pseudopipra pipra",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -8572,7 +8472,7 @@
         "speciesTaxonomyId": "42514",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8581,7 +8481,7 @@
     "ncbiTaxonomyId": "42514",
     "species": "Pygocentrus nattereri",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8609,7 +8509,7 @@
         "speciesTaxonomyId": "426098",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8618,7 +8518,7 @@
     "ncbiTaxonomyId": "426098",
     "species": "Eutrigla gurnardus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8645,15 +8545,19 @@
         "species": "Corella eumyota",
         "speciesTaxonomyId": "431183",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Tunicata"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "431183",
     "species": "Corella eumyota",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Tunicata"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -8679,7 +8583,6 @@
         "speciesTaxonomyId": "43150",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -8689,7 +8592,6 @@
     "ncbiTaxonomyId": "43150",
     "species": "Hirundo rustica",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -8755,7 +8657,6 @@
         "speciesTaxonomyId": "43583",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -8765,7 +8666,6 @@
     "ncbiTaxonomyId": "43583",
     "species": "Sarcoramphus papa",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -8794,7 +8694,6 @@
         "speciesTaxonomyId": "439704",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -8804,7 +8703,6 @@
     "ncbiTaxonomyId": "439704",
     "species": "Porphyrio hochstetteri",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -8833,7 +8731,7 @@
         "speciesTaxonomyId": "441366",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8842,7 +8740,7 @@
     "ncbiTaxonomyId": "441366",
     "species": "Gouania willdenowi",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8870,7 +8768,7 @@
         "speciesTaxonomyId": "443677",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8879,7 +8777,7 @@
     "ncbiTaxonomyId": "443677",
     "species": "Neoarius graeffei",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8907,7 +8805,7 @@
         "speciesTaxonomyId": "443705",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8916,7 +8814,7 @@
     "ncbiTaxonomyId": "443705",
     "species": "Nansenia antarctica",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8944,7 +8842,7 @@
         "speciesTaxonomyId": "443714",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -8953,7 +8851,7 @@
     "ncbiTaxonomyId": "443714",
     "species": "Protomyctophum bolini",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -8981,7 +8879,6 @@
         "speciesTaxonomyId": "44397",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -8991,7 +8888,6 @@
     "ncbiTaxonomyId": "44397",
     "species": "Melospiza melodia",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9020,7 +8916,6 @@
         "speciesTaxonomyId": "44398",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9030,7 +8925,6 @@
     "ncbiTaxonomyId": "44398",
     "species": "Melospiza georgiana",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9059,7 +8953,7 @@
         "speciesTaxonomyId": "44489",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -9068,7 +8962,7 @@
     "ncbiTaxonomyId": "44489",
     "species": "Carettochelys insculpta",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -9096,7 +8990,7 @@
         "speciesTaxonomyId": "446415",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -9105,7 +8999,7 @@
     "ncbiTaxonomyId": "446415",
     "species": "Argentina silus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -9133,7 +9027,7 @@
         "speciesTaxonomyId": "446457",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -9142,7 +9036,7 @@
     "ncbiTaxonomyId": "446457",
     "species": "Telmatherina bonti",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -9207,7 +9101,7 @@
         "speciesTaxonomyId": "454631",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -9216,7 +9110,7 @@
     "ncbiTaxonomyId": "454631",
     "species": "Rhamphochromis sp. 'chilingali'",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -9244,7 +9138,7 @@
         "speciesTaxonomyId": "460621",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -9253,7 +9147,7 @@
     "ncbiTaxonomyId": "460621",
     "species": "Euleptes europaea",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -9281,7 +9175,6 @@
         "speciesTaxonomyId": "46218",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9291,7 +9184,6 @@
     "ncbiTaxonomyId": "46218",
     "species": "Excalfactoria chinensis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9320,7 +9212,6 @@
         "speciesTaxonomyId": "46513",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9330,7 +9221,6 @@
     "ncbiTaxonomyId": "46513",
     "species": "Phaethornis superciliosus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9359,7 +9249,6 @@
         "speciesTaxonomyId": "472823",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9369,7 +9258,6 @@
     "ncbiTaxonomyId": "472823",
     "species": "Heliangelus exortis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9398,7 +9286,7 @@
         "speciesTaxonomyId": "473322",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -9407,7 +9295,7 @@
     "ncbiTaxonomyId": "473322",
     "species": "Nannobrachium achirus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -9435,7 +9323,7 @@
         "speciesTaxonomyId": "473354",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -9444,7 +9332,7 @@
     "ncbiTaxonomyId": "473354",
     "species": "Borostomias antarcticus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -9472,7 +9360,6 @@
         "speciesTaxonomyId": "48155",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9482,7 +9369,6 @@
     "ncbiTaxonomyId": "48155",
     "species": "Sylvia atricapilla",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9511,7 +9397,7 @@
         "speciesTaxonomyId": "48171",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -9520,7 +9406,7 @@
     "ncbiTaxonomyId": "48171",
     "species": "Chelon labrosus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -9548,7 +9434,6 @@
         "speciesTaxonomyId": "48277",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9558,7 +9443,6 @@
     "ncbiTaxonomyId": "48277",
     "species": "Aegotheles albertisi",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9587,7 +9471,6 @@
         "speciesTaxonomyId": "48427",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9597,7 +9480,6 @@
     "ncbiTaxonomyId": "48427",
     "species": "Nyctibius grandis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9626,7 +9508,7 @@
         "speciesTaxonomyId": "48668",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -9635,7 +9517,7 @@
     "ncbiTaxonomyId": "48668",
     "species": "Rutilus rutilus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -9774,7 +9656,6 @@
         "speciesTaxonomyId": "488313",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9784,7 +9665,6 @@
     "ncbiTaxonomyId": "488313",
     "species": "Pogoniulus pusillus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9813,7 +9693,6 @@
         "speciesTaxonomyId": "48849",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9823,7 +9702,6 @@
     "ncbiTaxonomyId": "48849",
     "species": "Passer domesticus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9889,7 +9767,6 @@
         "speciesTaxonomyId": "48891",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -9899,7 +9776,6 @@
     "ncbiTaxonomyId": "48891",
     "species": "Poecile atricapillus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -9965,7 +9841,7 @@
         "speciesTaxonomyId": "508554",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -9974,7 +9850,7 @@
     "ncbiTaxonomyId": "508554",
     "species": "Labrus mixtus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10113,7 +9989,7 @@
         "speciesTaxonomyId": "51853",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -10122,7 +9998,7 @@
     "ncbiTaxonomyId": "51853",
     "species": "Candoia aspera",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -10150,7 +10026,7 @@
         "speciesTaxonomyId": "52180",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -10159,7 +10035,7 @@
     "ncbiTaxonomyId": "52180",
     "species": "Aspidoscelis tigris",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -10187,7 +10063,6 @@
         "speciesTaxonomyId": "52777",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -10197,7 +10072,6 @@
     "ncbiTaxonomyId": "52777",
     "species": "Ciconia maguari",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -10226,7 +10100,7 @@
         "speciesTaxonomyId": "52904",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10235,7 +10109,7 @@
     "ncbiTaxonomyId": "52904",
     "species": "Scophthalmus maximus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10263,7 +10137,7 @@
         "speciesTaxonomyId": "54267",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10272,7 +10146,7 @@
     "ncbiTaxonomyId": "54267",
     "species": "Fundulus diaphanus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10300,7 +10174,6 @@
         "speciesTaxonomyId": "54380",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -10310,7 +10183,6 @@
     "ncbiTaxonomyId": "54380",
     "species": "Cariama cristata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -10339,7 +10211,6 @@
         "speciesTaxonomyId": "54386",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -10349,7 +10220,6 @@
     "ncbiTaxonomyId": "54386",
     "species": "Rhynochetos jubatus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -10378,18 +10248,18 @@
         "speciesTaxonomyId": "55135",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "55135",
     "species": "Pristiophorus japonicus",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -10452,7 +10322,6 @@
         "speciesTaxonomyId": "55661",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -10462,7 +10331,6 @@
     "ncbiTaxonomyId": "55661",
     "species": "Cuculus canorus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -10491,7 +10359,7 @@
         "speciesTaxonomyId": "56716",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10500,7 +10368,7 @@
     "ncbiTaxonomyId": "56716",
     "species": "Cottoperca gobio",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10528,7 +10396,7 @@
         "speciesTaxonomyId": "56720",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10537,7 +10405,7 @@
     "ncbiTaxonomyId": "56720",
     "species": "Lipophrys pholis",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10565,7 +10433,7 @@
         "speciesTaxonomyId": "56723",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10574,7 +10442,7 @@
     "ncbiTaxonomyId": "56723",
     "species": "Labrus bergylta",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10602,7 +10470,7 @@
         "speciesTaxonomyId": "56726",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10611,7 +10479,7 @@
     "ncbiTaxonomyId": "56726",
     "species": "Pholis gunnellus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10676,7 +10544,6 @@
         "speciesTaxonomyId": "57068",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -10686,7 +10553,6 @@
     "ncbiTaxonomyId": "57068",
     "species": "Acanthisitta chloris",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -10715,7 +10581,6 @@
         "speciesTaxonomyId": "57412",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -10725,7 +10590,6 @@
     "ncbiTaxonomyId": "57412",
     "species": "Colius striatus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -10754,7 +10618,6 @@
         "speciesTaxonomyId": "57421",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -10764,7 +10627,6 @@
     "ncbiTaxonomyId": "57421",
     "species": "Merops nubicus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -10793,18 +10655,18 @@
         "speciesTaxonomyId": "57982",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "57982",
     "species": "Cetorhinus maximus",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -10830,7 +10692,7 @@
         "speciesTaxonomyId": "58319",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10839,7 +10701,7 @@
     "ncbiTaxonomyId": "58319",
     "species": "Scardinius erythrophthalmus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10867,7 +10729,7 @@
         "speciesTaxonomyId": "58324",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10876,7 +10738,7 @@
     "ncbiTaxonomyId": "58324",
     "species": "Phoxinus phoxinus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10904,7 +10766,7 @@
         "speciesTaxonomyId": "586833",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10913,7 +10775,7 @@
     "ncbiTaxonomyId": "586833",
     "species": "Myripristis murdjan",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -10941,7 +10803,7 @@
         "speciesTaxonomyId": "59291",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -10950,7 +10812,7 @@
     "ncbiTaxonomyId": "59291",
     "species": "Coregonus lavaretus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -11223,7 +11085,6 @@
         "speciesTaxonomyId": "59729",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -11233,7 +11094,6 @@
     "ncbiTaxonomyId": "59729",
     "species": "Taeniopygia guttata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -11373,7 +11233,7 @@
         "speciesTaxonomyId": "61643",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -11382,7 +11242,7 @@
     "ncbiTaxonomyId": "61643",
     "species": "Taurulus bubalis",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -11447,7 +11307,7 @@
         "speciesTaxonomyId": "63155",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -11456,7 +11316,7 @@
     "ncbiTaxonomyId": "63155",
     "species": "Archocentrus centrarchus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -11484,7 +11344,7 @@
         "speciesTaxonomyId": "64108",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -11493,7 +11353,7 @@
     "ncbiTaxonomyId": "64108",
     "species": "Zeus faber",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -11521,7 +11381,7 @@
         "speciesTaxonomyId": "64144",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -11530,7 +11390,7 @@
     "ncbiTaxonomyId": "64144",
     "species": "Anabas testudineus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -11558,7 +11418,7 @@
         "speciesTaxonomyId": "64176",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -11567,7 +11427,7 @@
     "ncbiTaxonomyId": "64176",
     "species": "Podarcis muralis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -11595,7 +11455,6 @@
         "speciesTaxonomyId": "64668",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -11605,7 +11464,6 @@
     "ncbiTaxonomyId": "64668",
     "species": "Lagopus muta",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -11634,7 +11492,7 @@
         "speciesTaxonomyId": "65481",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -11643,7 +11501,7 @@
     "ncbiTaxonomyId": "65481",
     "species": "Podarcis filfolensis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -11671,7 +11529,7 @@
         "speciesTaxonomyId": "65482",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -11680,7 +11538,7 @@
     "ncbiTaxonomyId": "65482",
     "species": "Podarcis melisellensis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -11708,7 +11566,7 @@
         "speciesTaxonomyId": "65483",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -11717,7 +11575,7 @@
     "ncbiTaxonomyId": "65483",
     "species": "Podarcis raffonei",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -11745,7 +11603,7 @@
         "speciesTaxonomyId": "65484",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -11754,7 +11612,7 @@
     "ncbiTaxonomyId": "65484",
     "species": "Podarcis siculus",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -11781,15 +11639,19 @@
         "species": "Pecten maximus",
         "speciesTaxonomyId": "6579",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Mollusca"
+        ],
+        "tolId": "x",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "6579",
     "species": "Pecten maximus",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Mollusca"
+    ],
+    "tolId": "x"
   },
   {
     "assemblyCount": 1,
@@ -11815,7 +11677,6 @@
         "speciesTaxonomyId": "670352",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -11825,7 +11686,6 @@
     "ncbiTaxonomyId": "670352",
     "species": "Pluvialis apricaria",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -11854,7 +11714,6 @@
         "speciesTaxonomyId": "678569",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -11864,7 +11723,6 @@
     "ncbiTaxonomyId": "678569",
     "species": "Lathamus discolor",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -11893,7 +11751,6 @@
         "speciesTaxonomyId": "681192",
         "strain": "lycPyr6",
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -11903,7 +11760,6 @@
     "ncbiTaxonomyId": "681192",
     "species": "Lycocorax pyrrhopterus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -11932,18 +11788,18 @@
         "speciesTaxonomyId": "685728",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "685728",
     "species": "Pristis pectinata",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -11969,7 +11825,7 @@
         "speciesTaxonomyId": "69293",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -11978,7 +11834,7 @@
     "ncbiTaxonomyId": "69293",
     "species": "Gasterosteus aculeatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -12043,7 +11899,7 @@
         "speciesTaxonomyId": "71008",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -12052,7 +11908,7 @@
     "ncbiTaxonomyId": "71008",
     "species": "Elgaria multicarinata",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -12080,7 +11936,7 @@
         "speciesTaxonomyId": "71010",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -12089,7 +11945,7 @@
     "ncbiTaxonomyId": "71010",
     "species": "Tiliqua scincoides",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -12117,7 +11973,7 @@
         "speciesTaxonomyId": "72105",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -12126,7 +11982,7 @@
     "ncbiTaxonomyId": "72105",
     "species": "Sebastes umbrosus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -12154,7 +12010,6 @@
         "speciesTaxonomyId": "73324",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -12164,7 +12019,6 @@
     "ncbiTaxonomyId": "73324",
     "species": "Sylvia borin",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -12193,7 +12047,7 @@
         "speciesTaxonomyId": "74359",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -12202,7 +12056,7 @@
     "ncbiTaxonomyId": "74359",
     "species": "Podarcis pityusensis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -12230,7 +12084,7 @@
         "speciesTaxonomyId": "75038",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -12239,7 +12093,7 @@
     "ncbiTaxonomyId": "75038",
     "species": "Scatophagus argus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -12304,7 +12158,6 @@
         "speciesTaxonomyId": "75485",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -12314,7 +12167,6 @@
     "ncbiTaxonomyId": "75485",
     "species": "Rissa tridactyla",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -12342,15 +12194,19 @@
         "species": "Asterias rubens",
         "speciesTaxonomyId": "7604",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Echinodermata"
+        ],
+        "tolId": "e",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7604",
     "species": "Asterias rubens",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Echinodermata"
+    ],
+    "tolId": "e"
   },
   {
     "assemblyCount": 1,
@@ -12449,15 +12305,19 @@
         "species": "Styela clava",
         "speciesTaxonomyId": "7725",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Tunicata"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7725",
     "species": "Styela clava",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Tunicata"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -12482,15 +12342,19 @@
         "species": "Branchiostoma lanceolatum",
         "speciesTaxonomyId": "7740",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Leptocardii"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7740",
     "species": "Branchiostoma lanceolatum",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Leptocardii"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -12516,18 +12380,18 @@
         "speciesTaxonomyId": "7748",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Cyclostomata"
         ],
-        "tolId": null,
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7748",
     "species": "Lampetra fluviatilis",
     "taxonomicGroup": [
-      "Fish"
+      "Cyclostomata"
     ],
-    "tolId": null
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -12553,18 +12417,18 @@
         "speciesTaxonomyId": "7757",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Cyclostomata"
         ],
-        "tolId": null,
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7757",
     "species": "Petromyzon marinus",
     "taxonomicGroup": [
-      "Fish"
+      "Cyclostomata"
     ],
-    "tolId": null
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -12627,18 +12491,18 @@
         "speciesTaxonomyId": "7769",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Cyclostomata"
         ],
-        "tolId": null,
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7769",
     "species": "Myxine glutinosa",
     "taxonomicGroup": [
-      "Fish"
+      "Cyclostomata"
     ],
-    "tolId": null
+    "tolId": "k"
   },
   {
     "assemblyCount": 2,
@@ -12664,9 +12528,9 @@
         "speciesTaxonomyId": "7792",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       },
       {
@@ -12687,18 +12551,18 @@
         "speciesTaxonomyId": "7792",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7792",
     "species": "Heterodontus francisci",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 2,
@@ -12724,9 +12588,9 @@
         "speciesTaxonomyId": "7830",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       },
       {
@@ -12747,18 +12611,18 @@
         "speciesTaxonomyId": "7830",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7830",
     "species": "Scyliorhinus canicula",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -12784,18 +12648,18 @@
         "speciesTaxonomyId": "7873",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7873",
     "species": "Hydrolagus colliei",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -12820,15 +12684,19 @@
         "species": "Protopterus annectens",
         "speciesTaxonomyId": "7888",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Dipnomorpha"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7888",
     "species": "Protopterus annectens",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Dipnomorpha"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -12853,15 +12721,19 @@
         "species": "Latimeria chalumnae",
         "speciesTaxonomyId": "7897",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Coelacanthiformes"
+        ],
+        "tolId": "k",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "7897",
     "species": "Latimeria chalumnae",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Coelacanthiformes"
+    ],
+    "tolId": "k"
   },
   {
     "assemblyCount": 1,
@@ -12887,7 +12759,7 @@
         "speciesTaxonomyId": "7906",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -12896,7 +12768,7 @@
     "ncbiTaxonomyId": "7906",
     "species": "Acipenser ruthenus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -12924,7 +12796,7 @@
         "speciesTaxonomyId": "7918",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -12933,7 +12805,7 @@
     "ncbiTaxonomyId": "7918",
     "species": "Lepisosteus oculatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -12961,7 +12833,7 @@
         "speciesTaxonomyId": "7924",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -12970,7 +12842,7 @@
     "ncbiTaxonomyId": "7924",
     "species": "Amia calva",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -12998,7 +12870,7 @@
         "speciesTaxonomyId": "7936",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13007,7 +12879,7 @@
     "ncbiTaxonomyId": "7936",
     "species": "Anguilla anguilla",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13035,7 +12907,7 @@
         "speciesTaxonomyId": "7955",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13044,7 +12916,7 @@
     "ncbiTaxonomyId": "7955",
     "species": "Danio rerio",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13072,18 +12944,18 @@
         "speciesTaxonomyId": "79690",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Chondrichthyes"
         ],
-        "tolId": null,
+        "tolId": "s",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "79690",
     "species": "Hypanus sabinus",
     "taxonomicGroup": [
-      "Fish"
+      "Chondrichthyes"
     ],
-    "tolId": null
+    "tolId": "s"
   },
   {
     "assemblyCount": 1,
@@ -13109,7 +12981,7 @@
         "speciesTaxonomyId": "8005",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13118,7 +12990,7 @@
     "ncbiTaxonomyId": "8005",
     "species": "Electrophorus electricus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13146,7 +13018,7 @@
         "speciesTaxonomyId": "8010",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13155,7 +13027,7 @@
     "ncbiTaxonomyId": "8010",
     "species": "Esox lucius",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13183,7 +13055,7 @@
         "speciesTaxonomyId": "8014",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13192,7 +13064,7 @@
     "ncbiTaxonomyId": "8014",
     "species": "Osmerus mordax",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13220,7 +13092,7 @@
         "speciesTaxonomyId": "8032",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13229,7 +13101,7 @@
     "ncbiTaxonomyId": "8032",
     "species": "Salmo trutta",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13257,7 +13129,7 @@
         "speciesTaxonomyId": "8036",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13266,7 +13138,7 @@
     "ncbiTaxonomyId": "8036",
     "species": "Salvelinus alpinus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13294,7 +13166,7 @@
         "speciesTaxonomyId": "80427",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -13303,7 +13175,7 @@
     "ncbiTaxonomyId": "80427",
     "species": "Lacerta agilis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -13331,7 +13203,7 @@
         "speciesTaxonomyId": "8049",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13340,7 +13212,7 @@
     "ncbiTaxonomyId": "8049",
     "species": "Gadus morhua",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13368,7 +13240,7 @@
         "speciesTaxonomyId": "8103",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13377,7 +13249,7 @@
     "ncbiTaxonomyId": "8103",
     "species": "Cyclopterus lumpus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13405,7 +13277,7 @@
         "speciesTaxonomyId": "8154",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13414,7 +13286,7 @@
     "ncbiTaxonomyId": "8154",
     "species": "Astatotilapia calliptera",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13442,7 +13314,7 @@
         "speciesTaxonomyId": "81636",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13451,7 +13323,7 @@
     "ncbiTaxonomyId": "81636",
     "species": "Micromesistius poutassou",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13479,7 +13351,7 @@
         "speciesTaxonomyId": "8175",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13488,7 +13360,7 @@
     "ncbiTaxonomyId": "8175",
     "species": "Sparus aurata",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13516,7 +13388,7 @@
         "speciesTaxonomyId": "8177",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13525,7 +13397,7 @@
     "ncbiTaxonomyId": "8177",
     "species": "Acanthopagrus latus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13553,7 +13425,6 @@
         "speciesTaxonomyId": "81927",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -13577,7 +13448,6 @@
         "speciesTaxonomyId": "81927",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -13587,7 +13457,6 @@
     "ncbiTaxonomyId": "81927",
     "species": "Vidua chalybeata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -13616,7 +13485,7 @@
         "speciesTaxonomyId": "82168",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -13625,7 +13494,7 @@
     "ncbiTaxonomyId": "82168",
     "species": "Emys orbicularis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -13690,7 +13559,7 @@
         "speciesTaxonomyId": "8236",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13699,7 +13568,7 @@
     "ncbiTaxonomyId": "8236",
     "species": "Thunnus albacares",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13727,7 +13596,7 @@
         "speciesTaxonomyId": "8237",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13736,7 +13605,7 @@
     "ncbiTaxonomyId": "8237",
     "species": "Thunnus thynnus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13764,7 +13633,7 @@
         "speciesTaxonomyId": "8240",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13773,7 +13642,7 @@
     "ncbiTaxonomyId": "8240",
     "species": "Thunnus maccoyii",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13801,7 +13670,7 @@
         "speciesTaxonomyId": "8260",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13810,7 +13679,7 @@
     "ncbiTaxonomyId": "8260",
     "species": "Platichthys flesus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13838,7 +13707,7 @@
         "speciesTaxonomyId": "8262",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13847,7 +13716,7 @@
     "ncbiTaxonomyId": "8262",
     "species": "Pleuronectes platessa",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13875,7 +13744,7 @@
         "speciesTaxonomyId": "82655",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13884,7 +13753,7 @@
     "ncbiTaxonomyId": "82655",
     "species": "Conger conger",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13912,7 +13781,7 @@
         "speciesTaxonomyId": "8267",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13921,7 +13790,7 @@
     "ncbiTaxonomyId": "8267",
     "species": "Hippoglossus hippoglossus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -13949,7 +13818,7 @@
         "speciesTaxonomyId": "8284",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -13958,7 +13827,7 @@
     "ncbiTaxonomyId": "8284",
     "species": "Squalius cephalus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -14356,7 +14225,7 @@
         "speciesTaxonomyId": "8469",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -14365,7 +14234,7 @@
     "ncbiTaxonomyId": "8469",
     "species": "Chelonia mydas",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -14393,7 +14262,7 @@
         "speciesTaxonomyId": "8485",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Testudines"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -14402,7 +14271,7 @@
     "ncbiTaxonomyId": "8485",
     "species": "Malaclemys terrapin",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Testudines"
     ],
     "tolId": "r"
   },
@@ -14430,7 +14299,7 @@
         "speciesTaxonomyId": "8496",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Crocodylia"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -14439,7 +14308,7 @@
     "ncbiTaxonomyId": "8496",
     "species": "Alligator mississippiensis",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Crocodylia"
     ],
     "tolId": "r"
   },
@@ -14467,7 +14336,7 @@
         "speciesTaxonomyId": "8524",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -14476,7 +14345,7 @@
     "ncbiTaxonomyId": "8524",
     "species": "Zootoca vivipara",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -14504,7 +14373,7 @@
         "speciesTaxonomyId": "85417",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -14513,7 +14382,7 @@
     "ncbiTaxonomyId": "85417",
     "species": "Gobius niger",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -14541,7 +14410,6 @@
         "speciesTaxonomyId": "8790",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14565,7 +14433,6 @@
         "speciesTaxonomyId": "8790",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14575,7 +14442,6 @@
     "ncbiTaxonomyId": "8790",
     "species": "Dromaius novaehollandiae",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14604,7 +14470,6 @@
         "speciesTaxonomyId": "8795",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14614,7 +14479,6 @@
     "ncbiTaxonomyId": "8795",
     "species": "Rhea pennata",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14643,7 +14507,6 @@
         "speciesTaxonomyId": "8801",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14653,7 +14516,6 @@
     "ncbiTaxonomyId": "8801",
     "species": "Struthio camelus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14682,7 +14544,7 @@
         "speciesTaxonomyId": "882753",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -14691,7 +14553,7 @@
     "ncbiTaxonomyId": "882753",
     "species": "Antennarius maculatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -14719,7 +14581,6 @@
         "speciesTaxonomyId": "8839",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14743,7 +14604,6 @@
         "speciesTaxonomyId": "8839",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14753,7 +14613,6 @@
     "ncbiTaxonomyId": "8839",
     "species": "Anas platyrhynchos",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14782,7 +14641,6 @@
         "speciesTaxonomyId": "8843",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14792,7 +14650,6 @@
     "ncbiTaxonomyId": "8843",
     "species": "Anser anser",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14821,7 +14678,6 @@
         "speciesTaxonomyId": "8869",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14831,7 +14687,6 @@
     "ncbiTaxonomyId": "8869",
     "species": "Cygnus olor",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14860,7 +14715,6 @@
         "speciesTaxonomyId": "8895",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14870,7 +14724,6 @@
     "ncbiTaxonomyId": "8895",
     "species": "Apus apus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14899,7 +14752,6 @@
         "speciesTaxonomyId": "8905",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14909,7 +14761,6 @@
     "ncbiTaxonomyId": "8905",
     "species": "Podargus strigoides",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14938,7 +14789,6 @@
         "speciesTaxonomyId": "8915",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14948,7 +14798,6 @@
     "ncbiTaxonomyId": "8915",
     "species": "Larus fuscus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -14977,7 +14826,6 @@
         "speciesTaxonomyId": "8932",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -14987,7 +14835,6 @@
     "ncbiTaxonomyId": "8932",
     "species": "Columba livia",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15016,7 +14863,6 @@
         "speciesTaxonomyId": "8954",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15026,7 +14872,6 @@
     "ncbiTaxonomyId": "8954",
     "species": "Falco peregrinus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15055,7 +14900,6 @@
         "speciesTaxonomyId": "8957",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15079,7 +14923,6 @@
         "speciesTaxonomyId": "8957",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15089,7 +14932,6 @@
     "ncbiTaxonomyId": "8957",
     "species": "Accipiter gentilis",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15118,7 +14960,6 @@
         "speciesTaxonomyId": "8962",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15128,7 +14969,6 @@
     "ncbiTaxonomyId": "8962",
     "species": "Aquila chrysaetos",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15194,7 +15034,6 @@
         "speciesTaxonomyId": "8969",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15204,7 +15043,6 @@
     "ncbiTaxonomyId": "8969",
     "species": "Haliaeetus albicilla",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15233,7 +15071,7 @@
         "speciesTaxonomyId": "90069",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -15242,7 +15080,7 @@
     "ncbiTaxonomyId": "90069",
     "species": "Solea solea",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -15270,7 +15108,7 @@
         "speciesTaxonomyId": "90074",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -15279,7 +15117,7 @@
     "ncbiTaxonomyId": "90074",
     "species": "Microchirus variegatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -15307,7 +15145,6 @@
         "speciesTaxonomyId": "9031",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15317,7 +15154,6 @@
     "ncbiTaxonomyId": "9031",
     "species": "Gallus gallus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15346,7 +15182,7 @@
         "speciesTaxonomyId": "90520",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -15355,7 +15191,7 @@
     "ncbiTaxonomyId": "90520",
     "species": "Podarcis bocagei",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -15383,7 +15219,7 @@
         "speciesTaxonomyId": "90521",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Lepidosauria"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -15392,7 +15228,7 @@
     "ncbiTaxonomyId": "90521",
     "species": "Podarcis gaigeae",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Lepidosauria"
     ],
     "tolId": "r"
   },
@@ -15420,7 +15256,6 @@
         "speciesTaxonomyId": "9117",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15430,7 +15265,6 @@
     "ncbiTaxonomyId": "9117",
     "species": "Grus americana",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15459,7 +15293,6 @@
         "speciesTaxonomyId": "9123",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15469,7 +15302,6 @@
     "ncbiTaxonomyId": "9123",
     "species": "Gallinula chloropus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15497,15 +15329,19 @@
         "species": "Aricia agestis",
         "speciesTaxonomyId": "91739",
         "strain": null,
-        "taxonomicGroup": [],
-        "tolId": null,
+        "taxonomicGroup": [
+          "Insecta"
+        ],
+        "tolId": "i",
         "ucscBrowserUrl": null
       }
     ],
     "ncbiTaxonomyId": "91739",
     "species": "Aricia agestis",
-    "taxonomicGroup": [],
-    "tolId": null
+    "taxonomicGroup": [
+      "Insecta"
+    ],
+    "tolId": "i"
   },
   {
     "assemblyCount": 1,
@@ -15531,7 +15367,6 @@
         "speciesTaxonomyId": "91951",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15541,7 +15376,6 @@
     "ncbiTaxonomyId": "91951",
     "species": "Catharus ustulatus",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15570,7 +15404,6 @@
         "speciesTaxonomyId": "9209",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15580,7 +15413,6 @@
     "ncbiTaxonomyId": "9209",
     "species": "Phalacrocorax carbo",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15609,7 +15441,6 @@
         "speciesTaxonomyId": "9217",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15619,7 +15450,6 @@
     "ncbiTaxonomyId": "9217",
     "species": "Phoenicopterus ruber",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15648,7 +15478,6 @@
         "speciesTaxonomyId": "9226",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15658,7 +15487,6 @@
     "ncbiTaxonomyId": "9226",
     "species": "Ara ararauna",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15687,7 +15515,6 @@
         "speciesTaxonomyId": "9240",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15697,7 +15524,6 @@
     "ncbiTaxonomyId": "9240",
     "species": "Spheniscus humboldti",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15726,7 +15552,6 @@
         "speciesTaxonomyId": "9244",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15736,7 +15561,6 @@
     "ncbiTaxonomyId": "9244",
     "species": "Calypte anna",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15765,7 +15589,6 @@
         "speciesTaxonomyId": "925459",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida",
           "Aves"
         ],
         "tolId": "b",
@@ -15775,7 +15598,6 @@
     "ncbiTaxonomyId": "925459",
     "species": "Balearica regulorum",
     "taxonomicGroup": [
-      "Sauropsida",
       "Aves"
     ],
     "tolId": "b"
@@ -15915,7 +15737,7 @@
         "speciesTaxonomyId": "930266",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -15924,7 +15746,7 @@
     "ncbiTaxonomyId": "930266",
     "species": "Salminus brasiliensis",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -16063,7 +15885,7 @@
         "speciesTaxonomyId": "933932",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -16072,7 +15894,7 @@
     "ncbiTaxonomyId": "933932",
     "species": "Silurus aristotelis",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -16248,7 +16070,7 @@
         "speciesTaxonomyId": "941984",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -16257,7 +16079,7 @@
     "ncbiTaxonomyId": "941984",
     "species": "Toxotes jaculatrix",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -16470,7 +16292,7 @@
         "speciesTaxonomyId": "946358",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -16479,7 +16301,7 @@
     "ncbiTaxonomyId": "946358",
     "species": "Aplochiton taeniatus",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -16544,7 +16366,7 @@
         "speciesTaxonomyId": "948025",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -16553,7 +16375,7 @@
     "ncbiTaxonomyId": "948025",
     "species": "Gymnoscopelus braueri",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -16581,7 +16403,7 @@
         "speciesTaxonomyId": "948063",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -16590,7 +16412,7 @@
     "ncbiTaxonomyId": "948063",
     "species": "Notolepis coatsorum",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
@@ -16655,7 +16477,7 @@
         "speciesTaxonomyId": "94835",
         "strain": null,
         "taxonomicGroup": [
-          "Sauropsida"
+          "Crocodylia"
         ],
         "tolId": "r",
         "ucscBrowserUrl": null
@@ -16664,7 +16486,7 @@
     "ncbiTaxonomyId": "94835",
     "species": "Gavialis gangeticus",
     "taxonomicGroup": [
-      "Sauropsida"
+      "Crocodylia"
     ],
     "tolId": "r"
   },
@@ -16692,7 +16514,7 @@
         "speciesTaxonomyId": "94984",
         "strain": null,
         "taxonomicGroup": [
-          "Fish"
+          "Actinopterygii"
         ],
         "tolId": "f",
         "ucscBrowserUrl": null
@@ -16701,7 +16523,7 @@
     "ncbiTaxonomyId": "94984",
     "species": "Echiichthys vipera",
     "taxonomicGroup": [
-      "Fish"
+      "Actinopterygii"
     ],
     "tolId": "f"
   },
