@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/galaxyproject/ga2/compare/v0.1.0...v0.1.0) (2025-02-06)
+
+
+### Features
+
+* use appropriate taxonomic groups and add tol id ([#10](https://github.com/galaxyproject/ga2/issues/10)) ([#23](https://github.com/galaxyproject/ga2/issues/23)) ([d4d0e1f](https://github.com/galaxyproject/ga2/commit/d4d0e1f9ae83083dad8a766a03b0fde3486ec71d))
+
 ## 0.1.0 (2025-02-05)
 
 
