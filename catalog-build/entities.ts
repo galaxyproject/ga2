@@ -14,6 +14,8 @@ export interface SourceGenome {
   species: string;
   speciesTaxonomyId: string;
   strain: string;
+  taxonomicGroup: string;
   taxonomyId: string;
+  tolId: string;
   ucscBrowser: string;
 }
