@@ -193,6 +193,19 @@ export const buildLevel = (
 };
 
 /**
+ * Build props for the N50 cell.
+ * @param organism - Organism entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildMaxScaffoldN50 = (
+  organism: BRCDataCatalogOrganism
+): ComponentProps<typeof C.BasicCell> => {
+  return {
+    value: organism.maxScaffoldN50,
+  };
+};
+
+/**
  * Build props for the assembly taxonomy IDs cell.
  * @param organism - Organism entity.
  * @returns Props to be used for the cell.
