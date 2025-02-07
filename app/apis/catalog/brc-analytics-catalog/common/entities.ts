@@ -35,6 +35,7 @@ export interface BRCDataCatalogOrganism {
   assemblyCount: number;
   assemblyTaxonomyIds: string[];
   genomes: BRCDataCatalogGenome[];
+  maxScaffoldN50: number | null;
   ncbiTaxonomyId: string;
   species: string;
   taxonomicGroup: string[];

@@ -66,7 +66,7 @@ export const organismEntityConfig: BRCEntityConfig<BRCDataCatalogOrganism> = {
         } as ComponentConfig<typeof C.Link, BRCDataCatalogOrganism>,
         header: BRC_DATA_CATALOG_CATEGORY_LABEL.SPECIES,
         id: BRC_DATA_CATALOG_CATEGORY_KEY.SPECIES,
-        width: { max: "1fr", min: "auto" },
+        width: { max: "1.5fr", min: "auto" },
       },
       {
         componentConfig: {
@@ -75,7 +75,7 @@ export const organismEntityConfig: BRCEntityConfig<BRCDataCatalogOrganism> = {
         } as ComponentConfig<typeof C.NTagCell, BRCDataCatalogOrganism>,
         header: BRC_DATA_CATALOG_CATEGORY_LABEL.ASSEMBLY_TAXONOMY_IDS,
         id: BRC_DATA_CATALOG_CATEGORY_KEY.ASSEMBLY_TAXONOMY_IDS,
-        width: { max: "0.5fr", min: "164px" },
+        width: { max: "1fr", min: "164px" },
       },
       {
         componentConfig: {
@@ -84,7 +84,7 @@ export const organismEntityConfig: BRCEntityConfig<BRCDataCatalogOrganism> = {
         } as ComponentConfig<typeof C.NTagCell, BRCDataCatalogOrganism>,
         header: BRC_DATA_CATALOG_CATEGORY_LABEL.TAXONOMIC_GROUP,
         id: BRC_DATA_CATALOG_CATEGORY_KEY.TAXONOMIC_GROUP,
-        width: { max: "0.5fr", min: "164px" },
+        width: { max: "1fr", min: "164px" },
       },
       {
         componentConfig: {
@@ -94,6 +94,15 @@ export const organismEntityConfig: BRCEntityConfig<BRCDataCatalogOrganism> = {
         header: BRC_DATA_CATALOG_CATEGORY_LABEL.ASSEMBLY_COUNT,
         id: BRC_DATA_CATALOG_CATEGORY_KEY.ASSEMBLY_COUNT,
         width: { max: "0.5fr", min: "164px" },
+      },
+      {
+        componentConfig: {
+          component: C.BasicCell,
+          viewBuilder: V.buildMaxScaffoldN50,
+        } as ComponentConfig<typeof C.BasicCell, BRCDataCatalogOrganism>,
+        header: BRC_DATA_CATALOG_CATEGORY_LABEL.MAX_SCAFFOLD_N50,
+        id: BRC_DATA_CATALOG_CATEGORY_KEY.MAX_SCAFFOLD_N50,
+        width: { max: "1fr", min: "164px" },
       },
     ],
     tableOptions: {

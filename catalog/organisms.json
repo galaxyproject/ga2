@@ -29,6 +29,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 64418693,
     "ncbiTaxonomyId": "10013",
     "species": "Thomomys bottae",
     "taxonomicGroup": [
@@ -66,6 +67,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 43824230,
     "ncbiTaxonomyId": "10042",
     "species": "Peromyscus maniculatus",
     "taxonomicGroup": [
@@ -103,6 +105,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 125308425,
     "ncbiTaxonomyId": "10058",
     "species": "Microtus pennsylvanicus",
     "taxonomicGroup": [
@@ -140,6 +143,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 71401156,
     "ncbiTaxonomyId": "100830",
     "species": "Tetrao urogallus",
     "taxonomicGroup": [
@@ -177,6 +181,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 132150484,
     "ncbiTaxonomyId": "10090",
     "species": "Mus musculus",
     "taxonomicGroup": [
@@ -214,6 +219,7 @@
         "ucscBrowserUrl": "https://genome.ucsc.edu/h/GCF_015227675.2"
       }
     ],
+    "maxScaffoldN50": 135012528,
     "ncbiTaxonomyId": "10116",
     "species": "Rattus norvegicus",
     "taxonomicGroup": [
@@ -251,6 +257,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 120938251,
     "ncbiTaxonomyId": "10129",
     "species": "Apodemus sylvaticus",
     "taxonomicGroup": [
@@ -288,6 +295,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 89684120,
     "ncbiTaxonomyId": "101497",
     "species": "Notothenia rossii",
     "taxonomicGroup": [
@@ -325,6 +333,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 212821320,
     "ncbiTaxonomyId": "103942",
     "species": "Vipera ursinii",
     "taxonomicGroup": [
@@ -362,6 +371,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 123447689,
     "ncbiTaxonomyId": "1041117",
     "species": "Myuchelys georgesi",
     "taxonomicGroup": [
@@ -399,6 +409,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 158924400,
     "ncbiTaxonomyId": "1047088",
     "species": "Arvicola amphibius",
     "taxonomicGroup": [
@@ -436,6 +447,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 25769083,
     "ncbiTaxonomyId": "106175",
     "species": "Microstomus kitt",
     "taxonomicGroup": [
@@ -473,6 +485,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 66356865,
     "ncbiTaxonomyId": "107022",
     "species": "Bucephala clangula",
     "taxonomicGroup": [
@@ -510,6 +523,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 85487239,
     "ncbiTaxonomyId": "108405",
     "species": "Sterna hirundo",
     "taxonomicGroup": [
@@ -547,6 +561,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 55298648,
     "ncbiTaxonomyId": "1090481",
     "species": "Gymnoscopelus microlampas",
     "taxonomicGroup": [
@@ -584,6 +599,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 27978033,
     "ncbiTaxonomyId": "1091424",
     "species": "Melanostigma gelatinosum",
     "taxonomicGroup": [
@@ -621,6 +637,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 53459825,
     "ncbiTaxonomyId": "1091426",
     "species": "Protomyctophum parallelum",
     "taxonomicGroup": [
@@ -658,6 +675,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 131952995,
     "ncbiTaxonomyId": "109475",
     "species": "Suncus etruscus",
     "taxonomicGroup": [
@@ -695,6 +713,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 99827109,
     "ncbiTaxonomyId": "109479",
     "species": "Myotis mystacinus",
     "taxonomicGroup": [
@@ -732,6 +751,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 101144875,
     "ncbiTaxonomyId": "109481",
     "species": "Myotis nattereri",
     "taxonomicGroup": [
@@ -769,6 +789,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 29139200,
     "ncbiTaxonomyId": "109706",
     "species": "Chaetodon trifascialis",
     "taxonomicGroup": [
@@ -806,6 +827,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 27778429,
     "ncbiTaxonomyId": "109905",
     "species": "Chelmon rostratus",
     "taxonomicGroup": [
@@ -843,6 +865,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 165781880,
     "ncbiTaxonomyId": "110931",
     "species": "Cynocephalus volans",
     "taxonomicGroup": [
@@ -880,6 +903,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 725832262,
     "ncbiTaxonomyId": "111125",
     "species": "Ranitomeya imitator",
     "taxonomicGroup": [
@@ -917,6 +941,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 82614289,
     "ncbiTaxonomyId": "111811",
     "species": "Caprimulgus europaeus",
     "taxonomicGroup": [
@@ -954,6 +979,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 89389700,
     "ncbiTaxonomyId": "111821",
     "species": "Strix aluco",
     "taxonomicGroup": [
@@ -991,6 +1017,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 101368359,
     "ncbiTaxonomyId": "1118847",
     "species": "Theristicus caerulescens",
     "taxonomicGroup": [
@@ -1028,6 +1055,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 109010392,
     "ncbiTaxonomyId": "112232",
     "species": "Mustelus asterias",
     "taxonomicGroup": [
@@ -1065,6 +1093,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 31084684,
     "ncbiTaxonomyId": "113540",
     "species": "Scleropages formosus",
     "taxonomicGroup": [
@@ -1102,6 +1131,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 19375358,
     "ncbiTaxonomyId": "116150",
     "species": "Pararge aegeria",
     "taxonomicGroup": [
@@ -1139,6 +1169,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 38251172,
     "ncbiTaxonomyId": "118141",
     "species": "Megalops cyprinoides",
     "taxonomicGroup": [
@@ -1176,6 +1207,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 38715865,
     "ncbiTaxonomyId": "118200",
     "species": "Dryobates pubescens",
     "taxonomicGroup": [
@@ -1213,6 +1245,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 291724653,
     "ncbiTaxonomyId": "118683",
     "species": "Cyclura pinguis",
     "taxonomicGroup": [
@@ -1250,6 +1283,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83755488,
     "ncbiTaxonomyId": "1192867",
     "species": "Chroicocephalus ridibundus",
     "taxonomicGroup": [
@@ -1287,6 +1321,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 87713602,
     "ncbiTaxonomyId": "119627",
     "species": "Larus michahellis",
     "taxonomicGroup": [
@@ -1324,6 +1359,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 74699841,
     "ncbiTaxonomyId": "1196302",
     "species": "Corvus moneduloides",
     "taxonomicGroup": [
@@ -1361,6 +1397,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 37090664,
     "ncbiTaxonomyId": "1203425",
     "species": "Notolabrus celidotus",
     "taxonomicGroup": [
@@ -1398,6 +1435,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91094845,
     "ncbiTaxonomyId": "120794",
     "species": "Falco rusticolus",
     "taxonomicGroup": [
@@ -1435,6 +1473,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 259117534,
     "ncbiTaxonomyId": "121349",
     "species": "Erythrolamprus reginae",
     "taxonomicGroup": [
@@ -1472,6 +1511,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 85562082,
     "ncbiTaxonomyId": "121530",
     "species": "Tauraco erythrolophus",
     "taxonomicGroup": [
@@ -1509,6 +1549,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 177756282,
     "ncbiTaxonomyId": "124745",
     "species": "Corynorhinus townsendii",
     "taxonomicGroup": [
@@ -1546,6 +1587,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 37878235,
     "ncbiTaxonomyId": "1250792",
     "species": "Melanotaenia boesemani",
     "taxonomicGroup": [
@@ -1583,6 +1625,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 78889319,
     "ncbiTaxonomyId": "126867",
     "species": "Phalacrocorax aristotelis",
     "taxonomicGroup": [
@@ -1620,6 +1663,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 74357285,
     "ncbiTaxonomyId": "127875",
     "species": "Cinclus cinclus",
     "taxonomicGroup": [
@@ -1657,6 +1701,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 28679447,
     "ncbiTaxonomyId": "129108",
     "species": "Xenentodon cancila",
     "taxonomicGroup": [
@@ -1694,6 +1739,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 104092594,
     "ncbiTaxonomyId": "13146",
     "species": "Melopsittacus undulatus",
     "taxonomicGroup": [
@@ -1731,6 +1777,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 59776753,
     "ncbiTaxonomyId": "13151",
     "species": "Micromys minutus",
     "taxonomicGroup": [
@@ -1768,6 +1815,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 79251119,
     "ncbiTaxonomyId": "132585",
     "species": "Anser brachyrhynchus",
     "taxonomicGroup": [
@@ -1805,6 +1853,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 94621998,
     "ncbiTaxonomyId": "1330250",
     "species": "Podarcis cretensis",
     "taxonomicGroup": [
@@ -1842,6 +1891,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 169918123,
     "ncbiTaxonomyId": "13397",
     "species": "Carcharodon carcharias",
     "taxonomicGroup": [
@@ -1902,6 +1952,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 258892457,
     "ncbiTaxonomyId": "1343680",
     "species": "Narcine bancroftii",
     "taxonomicGroup": [
@@ -1939,6 +1990,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 76278832,
     "ncbiTaxonomyId": "134902",
     "species": "Corvus hawaiiensis",
     "taxonomicGroup": [
@@ -1976,6 +2028,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 21005440,
     "ncbiTaxonomyId": "134920",
     "species": "Pungitius pungitius",
     "taxonomicGroup": [
@@ -2013,6 +2066,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 72541719,
     "ncbiTaxonomyId": "135433",
     "species": "Geothlypis trichas",
     "taxonomicGroup": [
@@ -2050,6 +2104,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 24423978,
     "ncbiTaxonomyId": "135647",
     "species": "Barbatula barbatula",
     "taxonomicGroup": [
@@ -2087,6 +2142,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 538302405,
     "ncbiTaxonomyId": "13616",
     "species": "Monodelphis domestica",
     "taxonomicGroup": [
@@ -2124,6 +2180,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34636535,
     "ncbiTaxonomyId": "13676",
     "species": "Scomber japonicus",
     "taxonomicGroup": [
@@ -2161,6 +2218,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 31095048,
     "ncbiTaxonomyId": "13677",
     "species": "Scomber scombrus",
     "taxonomicGroup": [
@@ -2198,6 +2256,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 93518625,
     "ncbiTaxonomyId": "140042",
     "species": "Podarcis erhardii",
     "taxonomicGroup": [
@@ -2258,6 +2317,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 376147139,
     "ncbiTaxonomyId": "1415580",
     "species": "Microcaecilia unicolor",
     "taxonomicGroup": [
@@ -2295,6 +2355,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 108345705,
     "ncbiTaxonomyId": "142480",
     "species": "Sternotherus odoratus",
     "taxonomicGroup": [
@@ -2332,6 +2393,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 149551276,
     "ncbiTaxonomyId": "143292",
     "species": "Manis pentadactyla",
     "taxonomicGroup": [
@@ -2369,6 +2431,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 31846471,
     "ncbiTaxonomyId": "146480",
     "species": "Ammodytes marinus",
     "taxonomicGroup": [
@@ -2406,6 +2469,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 31412174,
     "ncbiTaxonomyId": "1484357",
     "species": "Hyperoplus immaculatus",
     "taxonomicGroup": [
@@ -2443,6 +2507,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91761059,
     "ncbiTaxonomyId": "148594",
     "species": "Falco naumanni",
     "taxonomicGroup": [
@@ -2480,6 +2545,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 92385878,
     "ncbiTaxonomyId": "148596",
     "species": "Falco punctatus",
     "taxonomicGroup": [
@@ -2517,6 +2583,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 153439414,
     "ncbiTaxonomyId": "150705",
     "species": "Dendropsophus ebraccatus",
     "taxonomicGroup": [
@@ -2554,6 +2621,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 92674118,
     "ncbiTaxonomyId": "151761",
     "species": "Amazona ochrocephala",
     "taxonomicGroup": [
@@ -2591,6 +2659,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 40274051,
     "ncbiTaxonomyId": "153643",
     "species": "Bucorvus abyssinicus",
     "taxonomicGroup": [
@@ -2651,6 +2720,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 113916765,
     "ncbiTaxonomyId": "1552295",
     "species": "Molossus alvarezi",
     "taxonomicGroup": [
@@ -2688,6 +2758,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83836255,
     "ncbiTaxonomyId": "1570318",
     "species": "Mergus octosetaceus",
     "taxonomicGroup": [
@@ -2725,6 +2796,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 19821211,
     "ncbiTaxonomyId": "158456",
     "species": "Betta splendens",
     "taxonomicGroup": [
@@ -2762,6 +2834,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 25070715,
     "ncbiTaxonomyId": "159417",
     "species": "Clavelina lepadiformis",
     "taxonomicGroup": [
@@ -2799,6 +2872,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 14974571,
     "ncbiTaxonomyId": "161584",
     "species": "Syngnathus acus",
     "taxonomicGroup": [
@@ -2836,6 +2910,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 64395891,
     "ncbiTaxonomyId": "161624",
     "species": "Passerculus sandwichensis",
     "taxonomicGroup": [
@@ -2873,6 +2948,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83580160,
     "ncbiTaxonomyId": "170820",
     "species": "Hemiscyllium ocellatum",
     "taxonomicGroup": [
@@ -2910,6 +2986,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 27641414,
     "ncbiTaxonomyId": "171736",
     "species": "Symphodus melops",
     "taxonomicGroup": [
@@ -2947,6 +3024,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 23287306,
     "ncbiTaxonomyId": "173247",
     "species": "Echeneis naucrates",
     "taxonomicGroup": [
@@ -2984,6 +3062,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 185549907,
     "ncbiTaxonomyId": "175524",
     "species": "Hipposideros larvatus",
     "taxonomicGroup": [
@@ -3021,6 +3100,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 78754139,
     "ncbiTaxonomyId": "177147",
     "species": "Streptopelia decaocto",
     "taxonomicGroup": [
@@ -3058,6 +3138,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 81365208,
     "ncbiTaxonomyId": "177155",
     "species": "Streptopelia turtur",
     "taxonomicGroup": [
@@ -3095,6 +3176,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 27720618,
     "ncbiTaxonomyId": "1772091",
     "species": "Lycodopsis pacificus",
     "taxonomicGroup": [
@@ -3132,6 +3214,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 389612775,
     "ncbiTaxonomyId": "179887",
     "species": "Bradypodion pumilum",
     "taxonomicGroup": [
@@ -3169,6 +3252,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 374919295,
     "ncbiTaxonomyId": "179890",
     "species": "Bradypodion ventrale",
     "taxonomicGroup": [
@@ -3206,6 +3290,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 32729575,
     "ncbiTaxonomyId": "181472",
     "species": "Salarias fasciatus",
     "taxonomicGroup": [
@@ -3243,6 +3328,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 147425149,
     "ncbiTaxonomyId": "1825980",
     "species": "Gopherus evgoodei",
     "taxonomicGroup": [
@@ -3280,6 +3366,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 27399917,
     "ncbiTaxonomyId": "185739",
     "species": "Pollachius pollachius",
     "taxonomicGroup": [
@@ -3317,6 +3404,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 79699707,
     "ncbiTaxonomyId": "187106",
     "species": "Caloenas nicobarica",
     "taxonomicGroup": [
@@ -3354,6 +3442,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 78184682,
     "ncbiTaxonomyId": "187126",
     "species": "Nesoenas mayeri",
     "taxonomicGroup": [
@@ -3391,6 +3480,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 84623986,
     "ncbiTaxonomyId": "187382",
     "species": "Chlamydotis macqueenii",
     "taxonomicGroup": [
@@ -3428,6 +3518,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 184669281,
     "ncbiTaxonomyId": "187939",
     "species": "Furcifer pardalis",
     "taxonomicGroup": [
@@ -3465,6 +3556,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 82124922,
     "ncbiTaxonomyId": "188344",
     "species": "Leptosomus discolor",
     "taxonomicGroup": [
@@ -3502,6 +3594,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 387735018,
     "ncbiTaxonomyId": "191477",
     "species": "Pelobates fuscus",
     "taxonomicGroup": [
@@ -3562,6 +3655,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 486875112,
     "ncbiTaxonomyId": "194408",
     "species": "Rhinatrema bivittatum",
     "taxonomicGroup": [
@@ -3599,6 +3693,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 29635927,
     "ncbiTaxonomyId": "195075",
     "species": "Blennius ocellaris",
     "taxonomicGroup": [
@@ -3636,6 +3731,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 39321252,
     "ncbiTaxonomyId": "195821",
     "species": "Anableps anableps",
     "taxonomicGroup": [
@@ -3673,6 +3769,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 33839184,
     "ncbiTaxonomyId": "196075",
     "species": "Sprattus sprattus",
     "taxonomicGroup": [
@@ -3710,6 +3807,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 78069974,
     "ncbiTaxonomyId": "197941",
     "species": "Clangula hyemalis",
     "taxonomicGroup": [
@@ -3747,6 +3845,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 148671352,
     "ncbiTaxonomyId": "1983395",
     "species": "Mobula birostris",
     "taxonomicGroup": [
@@ -3784,6 +3883,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34997643,
     "ncbiTaxonomyId": "201961",
     "species": "Ascidiella aspersa",
     "taxonomicGroup": [
@@ -3821,6 +3921,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 58111031,
     "ncbiTaxonomyId": "202280",
     "species": "Harpia harpyja",
     "taxonomicGroup": [
@@ -3858,6 +3959,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 172830377,
     "ncbiTaxonomyId": "2025560",
     "species": "Natrix helvetica",
     "taxonomicGroup": [
@@ -3895,6 +3997,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 25090313,
     "ncbiTaxonomyId": "205130",
     "species": "Mastacembelus armatus",
     "taxonomicGroup": [
@@ -3932,6 +4035,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 53633514,
     "ncbiTaxonomyId": "206093",
     "species": "Electrona antarctica",
     "taxonomicGroup": [
@@ -3969,6 +4073,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 47419401,
     "ncbiTaxonomyId": "208333",
     "species": "Girardinichthys multiradiatus",
     "taxonomicGroup": [
@@ -4006,6 +4111,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 22993012,
     "ncbiTaxonomyId": "210632",
     "species": "Parambassis ranga",
     "taxonomicGroup": [
@@ -4043,6 +4149,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 66821466,
     "ncbiTaxonomyId": "212740",
     "species": "Heptranchias perlo",
     "taxonomicGroup": [
@@ -4080,6 +4187,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 32663704,
     "ncbiTaxonomyId": "217509",
     "species": "Carassius carassius",
     "taxonomicGroup": [
@@ -4117,6 +4225,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 79844515,
     "ncbiTaxonomyId": "219593",
     "species": "Aythya ferina",
     "taxonomicGroup": [
@@ -4154,6 +4263,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 85905639,
     "ncbiTaxonomyId": "219594",
     "species": "Aythya fuligula",
     "taxonomicGroup": [
@@ -4214,6 +4324,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 39252737,
     "ncbiTaxonomyId": "219752",
     "species": "Odontesthes bonariensis",
     "taxonomicGroup": [
@@ -4251,6 +4362,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 275917861,
     "ncbiTaxonomyId": "2202111",
     "species": "Anniella stebbinsi",
     "taxonomicGroup": [
@@ -4288,6 +4400,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 68366687,
     "ncbiTaxonomyId": "223862",
     "species": "Raja brachyura",
     "taxonomicGroup": [
@@ -4325,6 +4438,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 40419146,
     "ncbiTaxonomyId": "2290929",
     "species": "Trichomycterus rosablanca",
     "taxonomicGroup": [
@@ -4362,6 +4476,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 106987384,
     "ncbiTaxonomyId": "232653",
     "species": "Psittacula echo",
     "taxonomicGroup": [
@@ -4399,6 +4514,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 114150385,
     "ncbiTaxonomyId": "233779",
     "species": "Spea bombifrons",
     "taxonomicGroup": [
@@ -4436,6 +4552,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 222280400,
     "ncbiTaxonomyId": "233781",
     "species": "Pelodytes ibericus",
     "taxonomicGroup": [
@@ -4473,6 +4590,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 226021100,
     "ncbiTaxonomyId": "238119",
     "species": "Leptodactylus fuscus",
     "taxonomicGroup": [
@@ -4510,6 +4628,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 43262132,
     "ncbiTaxonomyId": "240206",
     "species": "Pterocles gutturalis",
     "taxonomicGroup": [
@@ -4547,6 +4666,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91346199,
     "ncbiTaxonomyId": "243314",
     "species": "Hemiprocne comata",
     "taxonomicGroup": [
@@ -4584,6 +4704,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 222489854,
     "ncbiTaxonomyId": "246179",
     "species": "Vipera latastei",
     "taxonomicGroup": [
@@ -4621,6 +4742,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 89507134,
     "ncbiTaxonomyId": "246814",
     "species": "Pipistrellus pygmaeus",
     "taxonomicGroup": [
@@ -4658,6 +4780,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83240647,
     "ncbiTaxonomyId": "2489341",
     "species": "Strigops habroptila",
     "taxonomicGroup": [
@@ -4695,6 +4818,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 286991050,
     "ncbiTaxonomyId": "249017",
     "species": "Rhynchonycteris naso",
     "taxonomicGroup": [
@@ -4732,6 +4856,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 224759591,
     "ncbiTaxonomyId": "249018",
     "species": "Saccopteryx leptura",
     "taxonomicGroup": [
@@ -4769,6 +4894,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 62607046,
     "ncbiTaxonomyId": "2546036",
     "species": "Lampris incognitus",
     "taxonomicGroup": [
@@ -4806,6 +4932,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 2132484007,
     "ncbiTaxonomyId": "256425",
     "species": "Lissotriton helveticus",
     "taxonomicGroup": [
@@ -4866,6 +4993,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 272612222,
     "ncbiTaxonomyId": "260995",
     "species": "Geotrypetes seraphini",
     "taxonomicGroup": [
@@ -4903,6 +5031,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 188683971,
     "ncbiTaxonomyId": "261503",
     "species": "Rhineura floridana",
     "taxonomicGroup": [
@@ -4940,6 +5069,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 88844950,
     "ncbiTaxonomyId": "269649",
     "species": "Chionomys nivalis",
     "taxonomicGroup": [
@@ -4977,6 +5107,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 88095958,
     "ncbiTaxonomyId": "2696672",
     "species": "Apteryx mantelli",
     "taxonomicGroup": [
@@ -5014,6 +5145,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 24617471,
     "ncbiTaxonomyId": "2700039",
     "species": "Branchiostoma floridae x Branchiostoma japonicum",
     "taxonomicGroup": [
@@ -5051,6 +5183,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 19726665,
     "ncbiTaxonomyId": "2700040",
     "species": "Branchiostoma floridae x Branchiostoma belcheri",
     "taxonomicGroup": [
@@ -5088,6 +5221,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 67791739,
     "ncbiTaxonomyId": "2707177",
     "species": "Ammospiza maritima",
     "taxonomicGroup": [
@@ -5125,6 +5259,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 122071569,
     "ncbiTaxonomyId": "2746895",
     "species": "Balaenoptera ricei",
     "taxonomicGroup": [
@@ -5162,6 +5297,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 129620717,
     "ncbiTaxonomyId": "27606",
     "species": "Eubalaena glacialis",
     "taxonomicGroup": [
@@ -5199,6 +5335,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 110721866,
     "ncbiTaxonomyId": "27610",
     "species": "Lagenorhynchus albirostris",
     "taxonomicGroup": [
@@ -5236,6 +5373,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 122394096,
     "ncbiTaxonomyId": "27615",
     "species": "Kogia breviceps",
     "taxonomicGroup": [
@@ -5273,6 +5411,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 110665204,
     "ncbiTaxonomyId": "27622",
     "species": "Molossus molossus",
     "taxonomicGroup": [
@@ -5310,6 +5449,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 160301290,
     "ncbiTaxonomyId": "27634",
     "species": "Artibeus lituratus",
     "taxonomicGroup": [
@@ -5347,6 +5487,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 146178362,
     "ncbiTaxonomyId": "27675",
     "species": "Choloepus didactylus",
     "taxonomicGroup": [
@@ -5384,6 +5525,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 217689105,
     "ncbiTaxonomyId": "27687",
     "species": "Erpetoichthys calabaricus",
     "taxonomicGroup": [
@@ -5421,6 +5563,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34617450,
     "ncbiTaxonomyId": "27697",
     "species": "Sardina pilchardus",
     "taxonomicGroup": [
@@ -5458,6 +5601,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 58069932,
     "ncbiTaxonomyId": "27704",
     "species": "Gobio gobio",
     "taxonomicGroup": [
@@ -5495,6 +5639,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 37181689,
     "ncbiTaxonomyId": "27706",
     "species": "Micropterus salmoides",
     "taxonomicGroup": [
@@ -5532,6 +5677,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34009763,
     "ncbiTaxonomyId": "2771288",
     "species": "Aplidium turbinatum",
     "taxonomicGroup": [
@@ -5569,6 +5715,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 53138383,
     "ncbiTaxonomyId": "27720",
     "species": "Hoplias malabaricus",
     "taxonomicGroup": [
@@ -5606,6 +5753,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 28632645,
     "ncbiTaxonomyId": "27771",
     "species": "Limanda limanda",
     "taxonomicGroup": [
@@ -5643,6 +5791,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 137568771,
     "ncbiTaxonomyId": "27794",
     "species": "Dermochelys coriacea",
     "taxonomicGroup": [
@@ -5680,6 +5829,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 75254055,
     "ncbiTaxonomyId": "279927",
     "species": "Acridotheres tristis",
     "taxonomicGroup": [
@@ -5717,6 +5867,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 203662644,
     "ncbiTaxonomyId": "283338",
     "species": "Liasis olivaceus",
     "taxonomicGroup": [
@@ -5754,6 +5905,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 74723840,
     "ncbiTaxonomyId": "2857394",
     "species": "Ammospiza nelsoni",
     "taxonomicGroup": [
@@ -5791,6 +5943,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 78443464,
     "ncbiTaxonomyId": "2857398",
     "species": "Ammospiza caudacuta",
     "taxonomicGroup": [
@@ -5828,6 +5981,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 162938067,
     "ncbiTaxonomyId": "286002",
     "species": "Gopherus flavomarginatus",
     "taxonomicGroup": [
@@ -5865,6 +6019,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 76435830,
     "ncbiTaxonomyId": "28680",
     "species": "Anas acuta",
     "taxonomicGroup": [
@@ -5902,6 +6057,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 84526827,
     "ncbiTaxonomyId": "28689",
     "species": "Alca torda",
     "taxonomicGroup": [
@@ -5939,6 +6095,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 35217774,
     "ncbiTaxonomyId": "28792",
     "species": "Cyprinella venusta",
     "taxonomicGroup": [
@@ -5976,6 +6133,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 160347489,
     "ncbiTaxonomyId": "288555",
     "species": "Xenopus petersii",
     "taxonomicGroup": [
@@ -6013,6 +6171,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 146289188,
     "ncbiTaxonomyId": "29065",
     "species": "Martes martes",
     "taxonomicGroup": [
@@ -6050,6 +6209,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 102817582,
     "ncbiTaxonomyId": "29078",
     "species": "Eptesicus fuscus",
     "taxonomicGroup": [
@@ -6087,6 +6247,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 140670990,
     "ncbiTaxonomyId": "29137",
     "species": "Dugong dugon",
     "taxonomicGroup": [
@@ -6124,6 +6285,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 50300218,
     "ncbiTaxonomyId": "29144",
     "species": "Chanos chanos",
     "taxonomicGroup": [
@@ -6161,6 +6323,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 18633437,
     "ncbiTaxonomyId": "29151",
     "species": "Osmerus eperlanus",
     "taxonomicGroup": [
@@ -6198,6 +6361,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 69618406,
     "ncbiTaxonomyId": "2939378",
     "species": "Oenanthe melanoleuca",
     "taxonomicGroup": [
@@ -6235,6 +6399,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 75608808,
     "ncbiTaxonomyId": "296741",
     "species": "Chiroxiphia lanceolata",
     "taxonomicGroup": [
@@ -6272,6 +6437,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 82617956,
     "ncbiTaxonomyId": "297711",
     "species": "Trogon surrucura",
     "taxonomicGroup": [
@@ -6309,6 +6475,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 22793177,
     "ncbiTaxonomyId": "299321",
     "species": "Denticeps clupeoides",
     "taxonomicGroup": [
@@ -6346,6 +6513,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 169732090,
     "ncbiTaxonomyId": "2994998",
     "species": "Glossophaga mutica",
     "taxonomicGroup": [
@@ -6406,6 +6574,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 114338547,
     "ncbiTaxonomyId": "2997257",
     "species": "Molossus nigricans",
     "taxonomicGroup": [
@@ -6443,6 +6612,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 133157836,
     "ncbiTaxonomyId": "3026461",
     "species": "Macrochelys suwanniensis",
     "taxonomicGroup": [
@@ -6480,6 +6650,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 77261329,
     "ncbiTaxonomyId": "30387",
     "species": "Netta rufina",
     "taxonomicGroup": [
@@ -6517,6 +6688,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 46961128,
     "ncbiTaxonomyId": "30397",
     "species": "Buteo buteo",
     "taxonomicGroup": [
@@ -6554,6 +6726,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 80946297,
     "ncbiTaxonomyId": "30419",
     "species": "Opisthocomus hoazin",
     "taxonomicGroup": [
@@ -6591,6 +6764,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 77212160,
     "ncbiTaxonomyId": "30427",
     "species": "Haemorhous mexicanus",
     "taxonomicGroup": [
@@ -6628,6 +6802,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 104466507,
     "ncbiTaxonomyId": "30522",
     "species": "Bos indicus x Bos taurus",
     "taxonomicGroup": [
@@ -6665,6 +6840,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 79021053,
     "ncbiTaxonomyId": "3053191",
     "species": "Stegostoma tigrinum",
     "taxonomicGroup": [
@@ -6702,6 +6878,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 346624570,
     "ncbiTaxonomyId": "3061075",
     "species": "Mixophyes fleayi",
     "taxonomicGroup": [
@@ -6739,6 +6916,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 148229995,
     "ncbiTaxonomyId": "30640",
     "species": "Sciurus carolinensis",
     "taxonomicGroup": [
@@ -6776,6 +6954,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 16705553,
     "ncbiTaxonomyId": "31033",
     "species": "Takifugu rubripes",
     "taxonomicGroup": [
@@ -6813,6 +6992,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 26128932,
     "ncbiTaxonomyId": "310915",
     "species": "Pangasianodon hypophthalmus",
     "taxonomicGroup": [
@@ -6850,6 +7030,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 218396773,
     "ncbiTaxonomyId": "31155",
     "species": "Vipera berus",
     "taxonomicGroup": [
@@ -6887,6 +7068,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 27715216,
     "ncbiTaxonomyId": "3127111",
     "species": "Pempheris klunzingeri",
     "taxonomicGroup": [
@@ -6924,6 +7106,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 12951069,
     "ncbiTaxonomyId": "3154068",
     "species": "Saccoglossus sp. HW-2024a",
     "taxonomicGroup": [
@@ -6961,6 +7144,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 63363742,
     "ncbiTaxonomyId": "31919",
     "species": "Numenius arquata",
     "taxonomicGroup": [
@@ -6998,6 +7182,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 521973465,
     "ncbiTaxonomyId": "320637",
     "species": "Rhynchocyon petersi",
     "taxonomicGroup": [
@@ -7035,6 +7220,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 384967061,
     "ncbiTaxonomyId": "327740",
     "species": "Hyla sarda",
     "taxonomicGroup": [
@@ -7072,6 +7258,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 670775900,
     "ncbiTaxonomyId": "33562",
     "species": "Dromiciops gliroides",
     "taxonomicGroup": [
@@ -7109,6 +7296,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 52189775,
     "ncbiTaxonomyId": "33610",
     "species": "Gypaetus barbatus",
     "taxonomicGroup": [
@@ -7146,6 +7334,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 98018206,
     "ncbiTaxonomyId": "3371016",
     "species": "Cnephaeus nilssonii",
     "taxonomicGroup": [
@@ -7183,6 +7372,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 109653882,
     "ncbiTaxonomyId": "3371109",
     "species": "Leucopleurus acutus",
     "taxonomicGroup": [
@@ -7220,6 +7410,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91472507,
     "ncbiTaxonomyId": "345155",
     "species": "Falco biarmicus",
     "taxonomicGroup": [
@@ -7257,6 +7448,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 92426045,
     "ncbiTaxonomyId": "345164",
     "species": "Falco cherrug",
     "taxonomicGroup": [
@@ -7294,6 +7486,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 38440066,
     "ncbiTaxonomyId": "34773",
     "species": "Alosa sapidissima",
     "taxonomicGroup": [
@@ -7331,6 +7524,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 31691308,
     "ncbiTaxonomyId": "34787",
     "species": "Tautogolabrus adspersus",
     "taxonomicGroup": [
@@ -7368,6 +7562,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 127995937,
     "ncbiTaxonomyId": "34844",
     "species": "Erethizon dorsatum",
     "taxonomicGroup": [
@@ -7405,6 +7600,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 100851885,
     "ncbiTaxonomyId": "35005",
     "species": "Thamnophis elegans",
     "taxonomicGroup": [
@@ -7442,6 +7638,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 35447499,
     "ncbiTaxonomyId": "36212",
     "species": "Trachurus trachurus",
     "taxonomicGroup": [
@@ -7479,6 +7676,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 86807213,
     "ncbiTaxonomyId": "36300",
     "species": "Pelecanus crispus",
     "taxonomicGroup": [
@@ -7516,6 +7714,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 130149454,
     "ncbiTaxonomyId": "36723",
     "species": "Mustela erminea",
     "taxonomicGroup": [
@@ -7553,6 +7752,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 50637386,
     "ncbiTaxonomyId": "37040",
     "species": "Gavia stellata",
     "taxonomicGroup": [
@@ -7590,6 +7790,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 85546101,
     "ncbiTaxonomyId": "37045",
     "species": "Phaethon aethereus",
     "taxonomicGroup": [
@@ -7627,6 +7828,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 71505812,
     "ncbiTaxonomyId": "372321",
     "species": "Patagioenas fasciata",
     "taxonomicGroup": [
@@ -7664,6 +7866,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 57165184,
     "ncbiTaxonomyId": "375764",
     "species": "Sphaeramia orbicularis",
     "taxonomicGroup": [
@@ -7701,6 +7904,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 85624757,
     "ncbiTaxonomyId": "37578",
     "species": "Morus bassanus",
     "taxonomicGroup": [
@@ -7738,6 +7942,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 73246393,
     "ncbiTaxonomyId": "37598",
     "species": "Fringilla coelebs",
     "taxonomicGroup": [
@@ -7775,6 +7980,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 60684490,
     "ncbiTaxonomyId": "37610",
     "species": "Erithacus rubecula",
     "taxonomicGroup": [
@@ -7812,6 +8018,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 42794514,
     "ncbiTaxonomyId": "38527",
     "species": "Abramis brama",
     "taxonomicGroup": [
@@ -7849,6 +8056,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 21171019,
     "ncbiTaxonomyId": "38561",
     "species": "Ascidia mentula",
     "taxonomicGroup": [
@@ -7886,6 +8094,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 428240489,
     "ncbiTaxonomyId": "38626",
     "species": "Phascolarctos cinereus",
     "taxonomicGroup": [
@@ -7923,6 +8132,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 62052929,
     "ncbiTaxonomyId": "386614",
     "species": "Amblyraja radiata",
     "taxonomicGroup": [
@@ -7960,6 +8170,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 112723509,
     "ncbiTaxonomyId": "38674",
     "species": "Onychomys torridus",
     "taxonomicGroup": [
@@ -7997,6 +8208,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 249210491,
     "ncbiTaxonomyId": "38937",
     "species": "Anolis sagrei",
     "taxonomicGroup": [
@@ -8034,6 +8246,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 435632707,
     "ncbiTaxonomyId": "390368",
     "species": "Pholidichthys leucotaenia",
     "taxonomicGroup": [
@@ -8071,6 +8284,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 118421481,
     "ncbiTaxonomyId": "390379",
     "species": "Thalassophryne amazonica",
     "taxonomicGroup": [
@@ -8108,6 +8322,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 119481734,
     "ncbiTaxonomyId": "39082",
     "species": "Muscardinus avellanarius",
     "taxonomicGroup": [
@@ -8145,6 +8360,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 36314571,
     "ncbiTaxonomyId": "394691",
     "species": "Sebastes fasciatus",
     "taxonomicGroup": [
@@ -8182,6 +8398,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 36435137,
     "ncbiTaxonomyId": "39638",
     "species": "Agelaius phoeniceus",
     "taxonomicGroup": [
@@ -8219,6 +8436,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 108465051,
     "ncbiTaxonomyId": "40151",
     "species": "Monodon monoceros",
     "taxonomicGroup": [
@@ -8256,6 +8474,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83713171,
     "ncbiTaxonomyId": "40816",
     "species": "Grus grus",
     "taxonomicGroup": [
@@ -8293,6 +8512,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 31505967,
     "ncbiTaxonomyId": "40830",
     "species": "Barbus barbus",
     "taxonomicGroup": [
@@ -8330,6 +8550,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 32865169,
     "ncbiTaxonomyId": "409849",
     "species": "Periophthalmus magnuspinnatus",
     "taxonomicGroup": [
@@ -8367,6 +8588,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 75011098,
     "ncbiTaxonomyId": "415032",
     "species": "Pseudopipra pipra",
     "taxonomicGroup": [
@@ -8404,6 +8626,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 115469292,
     "ncbiTaxonomyId": "42100",
     "species": "Phocoena sinus",
     "taxonomicGroup": [
@@ -8441,6 +8664,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 374364821,
     "ncbiTaxonomyId": "42254",
     "species": "Sorex araneus",
     "taxonomicGroup": [
@@ -8478,6 +8702,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 42283192,
     "ncbiTaxonomyId": "42514",
     "species": "Pygocentrus nattereri",
     "taxonomicGroup": [
@@ -8515,6 +8740,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 29198404,
     "ncbiTaxonomyId": "426098",
     "species": "Eutrigla gurnardus",
     "taxonomicGroup": [
@@ -8552,6 +8778,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 20551778,
     "ncbiTaxonomyId": "431183",
     "species": "Corella eumyota",
     "taxonomicGroup": [
@@ -8589,6 +8816,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 76187387,
     "ncbiTaxonomyId": "43150",
     "species": "Hirundo rustica",
     "taxonomicGroup": [
@@ -8626,6 +8854,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 565843407,
     "ncbiTaxonomyId": "43566",
     "species": "Rhinophrynus dorsalis",
     "taxonomicGroup": [
@@ -8663,6 +8892,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 96420541,
     "ncbiTaxonomyId": "43583",
     "species": "Sarcoramphus papa",
     "taxonomicGroup": [
@@ -8700,6 +8930,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 71566193,
     "ncbiTaxonomyId": "439704",
     "species": "Porphyrio hochstetteri",
     "taxonomicGroup": [
@@ -8737,6 +8968,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 38978045,
     "ncbiTaxonomyId": "441366",
     "species": "Gouania willdenowi",
     "taxonomicGroup": [
@@ -8774,6 +9006,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83992109,
     "ncbiTaxonomyId": "443677",
     "species": "Neoarius graeffei",
     "taxonomicGroup": [
@@ -8811,6 +9044,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 66745282,
     "ncbiTaxonomyId": "443705",
     "species": "Nansenia antarctica",
     "taxonomicGroup": [
@@ -8848,6 +9082,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 45973806,
     "ncbiTaxonomyId": "443714",
     "species": "Protomyctophum bolini",
     "taxonomicGroup": [
@@ -8885,6 +9120,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 77460261,
     "ncbiTaxonomyId": "44397",
     "species": "Melospiza melodia",
     "taxonomicGroup": [
@@ -8922,6 +9158,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 74254230,
     "ncbiTaxonomyId": "44398",
     "species": "Melospiza georgiana",
     "taxonomicGroup": [
@@ -8959,6 +9196,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 130115908,
     "ncbiTaxonomyId": "44489",
     "species": "Carettochelys insculpta",
     "taxonomicGroup": [
@@ -8996,6 +9234,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 24540466,
     "ncbiTaxonomyId": "446415",
     "species": "Argentina silus",
     "taxonomicGroup": [
@@ -9033,6 +9272,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 41523244,
     "ncbiTaxonomyId": "446457",
     "species": "Telmatherina bonti",
     "taxonomicGroup": [
@@ -9070,6 +9310,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 221119109,
     "ncbiTaxonomyId": "452646",
     "species": "Neogale vison",
     "taxonomicGroup": [
@@ -9107,6 +9348,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 39959964,
     "ncbiTaxonomyId": "454631",
     "species": "Rhamphochromis sp. 'chilingali'",
     "taxonomicGroup": [
@@ -9144,6 +9386,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 102317683,
     "ncbiTaxonomyId": "460621",
     "species": "Euleptes europaea",
     "taxonomicGroup": [
@@ -9181,6 +9424,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 86361526,
     "ncbiTaxonomyId": "46218",
     "species": "Excalfactoria chinensis",
     "taxonomicGroup": [
@@ -9218,6 +9462,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 72710393,
     "ncbiTaxonomyId": "46513",
     "species": "Phaethornis superciliosus",
     "taxonomicGroup": [
@@ -9255,6 +9500,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 73898144,
     "ncbiTaxonomyId": "472823",
     "species": "Heliangelus exortis",
     "taxonomicGroup": [
@@ -9292,6 +9538,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 66219085,
     "ncbiTaxonomyId": "473322",
     "species": "Nannobrachium achirus",
     "taxonomicGroup": [
@@ -9329,6 +9576,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 27266006,
     "ncbiTaxonomyId": "473354",
     "species": "Borostomias antarcticus",
     "taxonomicGroup": [
@@ -9366,6 +9614,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 72978054,
     "ncbiTaxonomyId": "48155",
     "species": "Sylvia atricapilla",
     "taxonomicGroup": [
@@ -9403,6 +9652,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 30303911,
     "ncbiTaxonomyId": "48171",
     "species": "Chelon labrosus",
     "taxonomicGroup": [
@@ -9440,6 +9690,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 46898397,
     "ncbiTaxonomyId": "48277",
     "species": "Aegotheles albertisi",
     "taxonomicGroup": [
@@ -9477,6 +9728,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 92359233,
     "ncbiTaxonomyId": "48427",
     "species": "Nyctibius grandis",
     "taxonomicGroup": [
@@ -9514,6 +9766,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 43935812,
     "ncbiTaxonomyId": "48668",
     "species": "Rutilus rutilus",
     "taxonomicGroup": [
@@ -9551,6 +9804,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 125805690,
     "ncbiTaxonomyId": "48708",
     "species": "Mesoplodon densirostris",
     "taxonomicGroup": [
@@ -9588,6 +9842,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 117448692,
     "ncbiTaxonomyId": "48744",
     "species": "Hyperoodon ampullatus",
     "taxonomicGroup": [
@@ -9625,6 +9880,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 107252728,
     "ncbiTaxonomyId": "48745",
     "species": "Mesoplodon bidens",
     "taxonomicGroup": [
@@ -9662,6 +9918,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 33994490,
     "ncbiTaxonomyId": "488313",
     "species": "Pogoniulus pusillus",
     "taxonomicGroup": [
@@ -9699,6 +9956,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83066519,
     "ncbiTaxonomyId": "48849",
     "species": "Passer domesticus",
     "taxonomicGroup": [
@@ -9736,6 +9994,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 174634624,
     "ncbiTaxonomyId": "48850",
     "species": "Tamandua tetradactyla",
     "taxonomicGroup": [
@@ -9773,6 +10032,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 107919339,
     "ncbiTaxonomyId": "48891",
     "species": "Poecile atricapillus",
     "taxonomicGroup": [
@@ -9810,6 +10070,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 846894890,
     "ncbiTaxonomyId": "495146",
     "species": "Pseudophryne corroboree",
     "taxonomicGroup": [
@@ -9847,6 +10108,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 30403003,
     "ncbiTaxonomyId": "508554",
     "species": "Labrus mixtus",
     "taxonomicGroup": [
@@ -9884,6 +10146,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 160430197,
     "ncbiTaxonomyId": "51014",
     "species": "Artibeus intermedius",
     "taxonomicGroup": [
@@ -9921,6 +10184,7 @@
         "ucscBrowserUrl": "https://genome.ucsc.edu/h/GCF_014108235.1"
       }
     ],
+    "maxScaffoldN50": 94448911,
     "ncbiTaxonomyId": "51298",
     "species": "Myotis myotis",
     "taxonomicGroup": [
@@ -9958,6 +10222,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 158244790,
     "ncbiTaxonomyId": "51337",
     "species": "Jaculus jaculus",
     "taxonomicGroup": [
@@ -9995,6 +10260,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 209480725,
     "ncbiTaxonomyId": "51853",
     "species": "Candoia aspera",
     "taxonomicGroup": [
@@ -10032,6 +10298,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 93690953,
     "ncbiTaxonomyId": "52180",
     "species": "Aspidoscelis tigris",
     "taxonomicGroup": [
@@ -10069,6 +10336,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 85554746,
     "ncbiTaxonomyId": "52777",
     "species": "Ciconia maguari",
     "taxonomicGroup": [
@@ -10106,6 +10374,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 26138615,
     "ncbiTaxonomyId": "52904",
     "species": "Scophthalmus maximus",
     "taxonomicGroup": [
@@ -10143,6 +10412,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 57717734,
     "ncbiTaxonomyId": "54267",
     "species": "Fundulus diaphanus",
     "taxonomicGroup": [
@@ -10180,6 +10450,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 30176635,
     "ncbiTaxonomyId": "54380",
     "species": "Cariama cristata",
     "taxonomicGroup": [
@@ -10217,6 +10488,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 63592491,
     "ncbiTaxonomyId": "54386",
     "species": "Rhynochetos jubatus",
     "taxonomicGroup": [
@@ -10254,6 +10526,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 225854410,
     "ncbiTaxonomyId": "55135",
     "species": "Pristiophorus japonicus",
     "taxonomicGroup": [
@@ -10291,6 +10564,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 153872958,
     "ncbiTaxonomyId": "55149",
     "species": "Sciurus vulgaris",
     "taxonomicGroup": [
@@ -10328,6 +10602,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 78325852,
     "ncbiTaxonomyId": "55661",
     "species": "Cuculus canorus",
     "taxonomicGroup": [
@@ -10365,6 +10640,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 25156145,
     "ncbiTaxonomyId": "56716",
     "species": "Cottoperca gobio",
     "taxonomicGroup": [
@@ -10402,6 +10678,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 31905247,
     "ncbiTaxonomyId": "56720",
     "species": "Lipophrys pholis",
     "taxonomicGroup": [
@@ -10439,6 +10716,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 31261685,
     "ncbiTaxonomyId": "56723",
     "species": "Labrus bergylta",
     "taxonomicGroup": [
@@ -10476,6 +10754,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 25364761,
     "ncbiTaxonomyId": "56726",
     "species": "Pholis gunnellus",
     "taxonomicGroup": [
@@ -10513,6 +10792,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 277440397,
     "ncbiTaxonomyId": "57060",
     "species": "Eleutherodactylus coqui",
     "taxonomicGroup": [
@@ -10550,6 +10830,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 40827287,
     "ncbiTaxonomyId": "57068",
     "species": "Acanthisitta chloris",
     "taxonomicGroup": [
@@ -10587,6 +10868,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 89023854,
     "ncbiTaxonomyId": "57412",
     "species": "Colius striatus",
     "taxonomicGroup": [
@@ -10624,6 +10906,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 49132790,
     "ncbiTaxonomyId": "57421",
     "species": "Merops nubicus",
     "taxonomicGroup": [
@@ -10661,6 +10944,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 126028485,
     "ncbiTaxonomyId": "57982",
     "species": "Cetorhinus maximus",
     "taxonomicGroup": [
@@ -10698,6 +10982,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 44954600,
     "ncbiTaxonomyId": "58319",
     "species": "Scardinius erythrophthalmus",
     "taxonomicGroup": [
@@ -10735,6 +11020,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 36753459,
     "ncbiTaxonomyId": "58324",
     "species": "Phoxinus phoxinus",
     "taxonomicGroup": [
@@ -10772,6 +11058,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34950760,
     "ncbiTaxonomyId": "586833",
     "species": "Myripristis murdjan",
     "taxonomicGroup": [
@@ -10809,6 +11096,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 47422375,
     "ncbiTaxonomyId": "59291",
     "species": "Coregonus lavaretus",
     "taxonomicGroup": [
@@ -10846,6 +11134,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 90881000,
     "ncbiTaxonomyId": "59465",
     "species": "Nyctalus leisleri",
     "taxonomicGroup": [
@@ -10883,6 +11172,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 80237350,
     "ncbiTaxonomyId": "59472",
     "species": "Pipistrellus kuhlii",
     "taxonomicGroup": [
@@ -10920,6 +11210,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 94929986,
     "ncbiTaxonomyId": "59474",
     "species": "Pipistrellus pipistrellus",
     "taxonomicGroup": [
@@ -10980,6 +11271,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91996154,
     "ncbiTaxonomyId": "59479",
     "species": "Rhinolophus ferrumequinum",
     "taxonomicGroup": [
@@ -11017,6 +11309,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 300074216,
     "ncbiTaxonomyId": "59482",
     "species": "Saccopteryx bilineata",
     "taxonomicGroup": [
@@ -11054,6 +11347,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 186292382,
     "ncbiTaxonomyId": "59485",
     "species": "Vespertilio murinus",
     "taxonomicGroup": [
@@ -11091,6 +11385,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 70982421,
     "ncbiTaxonomyId": "59729",
     "species": "Taeniopygia guttata",
     "taxonomicGroup": [
@@ -11128,6 +11423,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 66475698,
     "ncbiTaxonomyId": "60746",
     "species": "Acomys russatus",
     "taxonomicGroup": [
@@ -11165,6 +11461,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 147275701,
     "ncbiTaxonomyId": "61383",
     "species": "Lynx canadensis",
     "taxonomicGroup": [
@@ -11202,6 +11499,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 150204169,
     "ncbiTaxonomyId": "61452",
     "species": "Neofelis nebulosa",
     "taxonomicGroup": [
@@ -11239,6 +11537,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 29138660,
     "ncbiTaxonomyId": "61643",
     "species": "Taurulus bubalis",
     "taxonomicGroup": [
@@ -11276,6 +11575,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 186501726,
     "ncbiTaxonomyId": "61862",
     "species": "Plecotus auritus",
     "taxonomicGroup": [
@@ -11313,6 +11613,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 35590001,
     "ncbiTaxonomyId": "63155",
     "species": "Archocentrus centrarchus",
     "taxonomicGroup": [
@@ -11350,6 +11651,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34476449,
     "ncbiTaxonomyId": "64108",
     "species": "Zeus faber",
     "taxonomicGroup": [
@@ -11387,6 +11689,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 25063394,
     "ncbiTaxonomyId": "64144",
     "species": "Anabas testudineus",
     "taxonomicGroup": [
@@ -11424,6 +11727,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91987695,
     "ncbiTaxonomyId": "64176",
     "species": "Podarcis muralis",
     "taxonomicGroup": [
@@ -11461,6 +11765,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 71229700,
     "ncbiTaxonomyId": "64668",
     "species": "Lagopus muta",
     "taxonomicGroup": [
@@ -11498,6 +11803,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91563485,
     "ncbiTaxonomyId": "65481",
     "species": "Podarcis filfolensis",
     "taxonomicGroup": [
@@ -11535,6 +11841,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91073809,
     "ncbiTaxonomyId": "65482",
     "species": "Podarcis melisellensis",
     "taxonomicGroup": [
@@ -11572,6 +11879,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 93623253,
     "ncbiTaxonomyId": "65483",
     "species": "Podarcis raffonei",
     "taxonomicGroup": [
@@ -11609,6 +11917,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 94541350,
     "ncbiTaxonomyId": "65484",
     "species": "Podarcis siculus",
     "taxonomicGroup": [
@@ -11646,6 +11955,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 44824366,
     "ncbiTaxonomyId": "6579",
     "species": "Pecten maximus",
     "taxonomicGroup": [
@@ -11683,6 +11993,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 87527607,
     "ncbiTaxonomyId": "670352",
     "species": "Pluvialis apricaria",
     "taxonomicGroup": [
@@ -11720,6 +12031,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 126105786,
     "ncbiTaxonomyId": "678569",
     "species": "Lathamus discolor",
     "taxonomicGroup": [
@@ -11757,6 +12069,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 74168823,
     "ncbiTaxonomyId": "681192",
     "species": "Lycocorax pyrrhopterus",
     "taxonomicGroup": [
@@ -11794,6 +12107,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 101699621,
     "ncbiTaxonomyId": "685728",
     "species": "Pristis pectinata",
     "taxonomicGroup": [
@@ -11831,6 +12145,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 21933526,
     "ncbiTaxonomyId": "69293",
     "species": "Gasterosteus aculeatus",
     "taxonomicGroup": [
@@ -11868,6 +12183,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 112954644,
     "ncbiTaxonomyId": "70687",
     "species": "Tupaia tana",
     "taxonomicGroup": [
@@ -11905,6 +12221,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 121985326,
     "ncbiTaxonomyId": "71008",
     "species": "Elgaria multicarinata",
     "taxonomicGroup": [
@@ -11942,6 +12259,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 242160784,
     "ncbiTaxonomyId": "71010",
     "species": "Tiliqua scincoides",
     "taxonomicGroup": [
@@ -11979,6 +12297,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34912176,
     "ncbiTaxonomyId": "72105",
     "species": "Sebastes umbrosus",
     "taxonomicGroup": [
@@ -12016,6 +12335,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 72750092,
     "ncbiTaxonomyId": "73324",
     "species": "Sylvia borin",
     "taxonomicGroup": [
@@ -12053,6 +12373,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91584625,
     "ncbiTaxonomyId": "74359",
     "species": "Podarcis pityusensis",
     "taxonomicGroup": [
@@ -12090,6 +12411,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 24451451,
     "ncbiTaxonomyId": "75038",
     "species": "Scatophagus argus",
     "taxonomicGroup": [
@@ -12127,6 +12449,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 451034413,
     "ncbiTaxonomyId": "752182",
     "species": "Hyperolius riggenbachi",
     "taxonomicGroup": [
@@ -12164,6 +12487,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 88208671,
     "ncbiTaxonomyId": "75485",
     "species": "Rissa tridactyla",
     "taxonomicGroup": [
@@ -12201,6 +12525,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 20558067,
     "ncbiTaxonomyId": "7604",
     "species": "Asterias rubens",
     "taxonomicGroup": [
@@ -12238,6 +12563,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 214838416,
     "ncbiTaxonomyId": "76066",
     "species": "Engystomops pustulosus",
     "taxonomicGroup": [
@@ -12275,6 +12601,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 88364482,
     "ncbiTaxonomyId": "77218",
     "species": "Rhinolophus hipposideros",
     "taxonomicGroup": [
@@ -12312,6 +12639,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 23815600,
     "ncbiTaxonomyId": "7725",
     "species": "Styela clava",
     "taxonomicGroup": [
@@ -12349,6 +12677,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 22634557,
     "ncbiTaxonomyId": "7740",
     "species": "Branchiostoma lanceolatum",
     "taxonomicGroup": [
@@ -12386,6 +12715,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 13159252,
     "ncbiTaxonomyId": "7748",
     "species": "Lampetra fluviatilis",
     "taxonomicGroup": [
@@ -12423,6 +12753,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 12997950,
     "ncbiTaxonomyId": "7757",
     "species": "Petromyzon marinus",
     "taxonomicGroup": [
@@ -12460,6 +12791,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 139648372,
     "ncbiTaxonomyId": "77598",
     "species": "Heterohyrax brucei",
     "taxonomicGroup": [
@@ -12497,6 +12829,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 192170830,
     "ncbiTaxonomyId": "7769",
     "species": "Myxine glutinosa",
     "taxonomicGroup": [
@@ -12557,6 +12890,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 97904885,
     "ncbiTaxonomyId": "7792",
     "species": "Heterodontus francisci",
     "taxonomicGroup": [
@@ -12617,6 +12951,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 198790641,
     "ncbiTaxonomyId": "7830",
     "species": "Scyliorhinus canicula",
     "taxonomicGroup": [
@@ -12654,6 +12989,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 42627691,
     "ncbiTaxonomyId": "7873",
     "species": "Hydrolagus colliei",
     "taxonomicGroup": [
@@ -12691,6 +13027,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 1950821829,
     "ncbiTaxonomyId": "7888",
     "species": "Protopterus annectens",
     "taxonomicGroup": [
@@ -12728,6 +13065,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 188107785,
     "ncbiTaxonomyId": "7897",
     "species": "Latimeria chalumnae",
     "taxonomicGroup": [
@@ -12765,6 +13103,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 42723358,
     "ncbiTaxonomyId": "7906",
     "species": "Acipenser ruthenus",
     "taxonomicGroup": [
@@ -12802,6 +13141,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 47769348,
     "ncbiTaxonomyId": "7918",
     "species": "Lepisosteus oculatus",
     "taxonomicGroup": [
@@ -12839,6 +13179,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 44181238,
     "ncbiTaxonomyId": "7924",
     "species": "Amia calva",
     "taxonomicGroup": [
@@ -12876,6 +13217,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 57205429,
     "ncbiTaxonomyId": "7936",
     "species": "Anguilla anguilla",
     "taxonomicGroup": [
@@ -12913,6 +13255,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 58626443,
     "ncbiTaxonomyId": "7955",
     "species": "Danio rerio",
     "taxonomicGroup": [
@@ -12950,6 +13293,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 112262883,
     "ncbiTaxonomyId": "79690",
     "species": "Hypanus sabinus",
     "taxonomicGroup": [
@@ -12987,6 +13331,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 25664172,
     "ncbiTaxonomyId": "8005",
     "species": "Electrophorus electricus",
     "taxonomicGroup": [
@@ -13024,6 +13369,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 37473588,
     "ncbiTaxonomyId": "8010",
     "species": "Esox lucius",
     "taxonomicGroup": [
@@ -13061,6 +13407,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 18699972,
     "ncbiTaxonomyId": "8014",
     "species": "Osmerus mordax",
     "taxonomicGroup": [
@@ -13098,6 +13445,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 52209666,
     "ncbiTaxonomyId": "8032",
     "species": "Salmo trutta",
     "taxonomicGroup": [
@@ -13135,6 +13483,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 58852000,
     "ncbiTaxonomyId": "8036",
     "species": "Salvelinus alpinus",
     "taxonomicGroup": [
@@ -13172,6 +13521,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 86565987,
     "ncbiTaxonomyId": "80427",
     "species": "Lacerta agilis",
     "taxonomicGroup": [
@@ -13209,6 +13559,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 28732775,
     "ncbiTaxonomyId": "8049",
     "species": "Gadus morhua",
     "taxonomicGroup": [
@@ -13246,6 +13597,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 23863342,
     "ncbiTaxonomyId": "8103",
     "species": "Cyclopterus lumpus",
     "taxonomicGroup": [
@@ -13283,6 +13635,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 38669361,
     "ncbiTaxonomyId": "8154",
     "species": "Astatotilapia calliptera",
     "taxonomicGroup": [
@@ -13320,6 +13673,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 19932791,
     "ncbiTaxonomyId": "81636",
     "species": "Micromesistius poutassou",
     "taxonomicGroup": [
@@ -13357,6 +13711,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 35791275,
     "ncbiTaxonomyId": "8175",
     "species": "Sparus aurata",
     "taxonomicGroup": [
@@ -13394,6 +13749,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 30717905,
     "ncbiTaxonomyId": "8177",
     "species": "Acanthopagrus latus",
     "taxonomicGroup": [
@@ -13454,6 +13810,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 72553174,
     "ncbiTaxonomyId": "81927",
     "species": "Vidua chalybeata",
     "taxonomicGroup": [
@@ -13491,6 +13848,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 146456333,
     "ncbiTaxonomyId": "82168",
     "species": "Emys orbicularis",
     "taxonomicGroup": [
@@ -13528,6 +13886,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 110095734,
     "ncbiTaxonomyId": "82174",
     "species": "Pseudorca crassidens",
     "taxonomicGroup": [
@@ -13565,6 +13924,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34622995,
     "ncbiTaxonomyId": "8236",
     "species": "Thunnus albacares",
     "taxonomicGroup": [
@@ -13602,6 +13962,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 34318521,
     "ncbiTaxonomyId": "8237",
     "species": "Thunnus thynnus",
     "taxonomicGroup": [
@@ -13639,6 +14000,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 33761101,
     "ncbiTaxonomyId": "8240",
     "species": "Thunnus maccoyii",
     "taxonomicGroup": [
@@ -13676,6 +14038,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 26770804,
     "ncbiTaxonomyId": "8260",
     "species": "Platichthys flesus",
     "taxonomicGroup": [
@@ -13713,6 +14076,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 26648505,
     "ncbiTaxonomyId": "8262",
     "species": "Pleuronectes platessa",
     "taxonomicGroup": [
@@ -13750,6 +14114,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 64882367,
     "ncbiTaxonomyId": "82655",
     "species": "Conger conger",
     "taxonomicGroup": [
@@ -13787,6 +14152,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 26312018,
     "ncbiTaxonomyId": "8267",
     "species": "Hippoglossus hippoglossus",
     "taxonomicGroup": [
@@ -13824,6 +14190,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 41795634,
     "ncbiTaxonomyId": "8284",
     "species": "Squalius cephalus",
     "taxonomicGroup": [
@@ -13861,6 +14228,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 1489131749,
     "ncbiTaxonomyId": "8296",
     "species": "Ambystoma mexicanum",
     "taxonomicGroup": [
@@ -13898,6 +14266,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 1237754594,
     "ncbiTaxonomyId": "8319",
     "species": "Pleurodeles waltl",
     "taxonomicGroup": [
@@ -13935,6 +14304,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 1925992481,
     "ncbiTaxonomyId": "8324",
     "species": "Lissotriton vulgaris",
     "taxonomicGroup": [
@@ -13972,6 +14342,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 1241340601,
     "ncbiTaxonomyId": "8345",
     "species": "Bombina bombina",
     "taxonomicGroup": [
@@ -14009,6 +14380,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 1114117749,
     "ncbiTaxonomyId": "8348",
     "species": "Bombina variegata",
     "taxonomicGroup": [
@@ -14046,6 +14418,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 453717995,
     "ncbiTaxonomyId": "8351",
     "species": "Discoglossus pictus",
     "taxonomicGroup": [
@@ -14083,6 +14456,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 635713434,
     "ncbiTaxonomyId": "8384",
     "species": "Bufo bufo",
     "taxonomicGroup": [
@@ -14120,6 +14494,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 481763206,
     "ncbiTaxonomyId": "8407",
     "species": "Rana temporaria",
     "taxonomicGroup": [
@@ -14157,6 +14532,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 489283037,
     "ncbiTaxonomyId": "8429",
     "species": "Gastrophryne carolinensis",
     "taxonomicGroup": [
@@ -14194,6 +14570,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 424004025,
     "ncbiTaxonomyId": "8439",
     "species": "Ascaphus truei",
     "taxonomicGroup": [
@@ -14231,6 +14608,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 134428053,
     "ncbiTaxonomyId": "8469",
     "species": "Chelonia mydas",
     "taxonomicGroup": [
@@ -14268,6 +14646,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 144565223,
     "ncbiTaxonomyId": "8485",
     "species": "Malaclemys terrapin",
     "taxonomicGroup": [
@@ -14305,6 +14684,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 255078640,
     "ncbiTaxonomyId": "8496",
     "species": "Alligator mississippiensis",
     "taxonomicGroup": [
@@ -14342,6 +14722,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 96056580,
     "ncbiTaxonomyId": "8524",
     "species": "Zootoca vivipara",
     "taxonomicGroup": [
@@ -14379,6 +14760,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 36708673,
     "ncbiTaxonomyId": "85417",
     "species": "Gobius niger",
     "taxonomicGroup": [
@@ -14439,6 +14821,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 82725153,
     "ncbiTaxonomyId": "8790",
     "species": "Dromaius novaehollandiae",
     "taxonomicGroup": [
@@ -14476,6 +14859,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 82467789,
     "ncbiTaxonomyId": "8795",
     "species": "Rhea pennata",
     "taxonomicGroup": [
@@ -14513,6 +14897,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 84633522,
     "ncbiTaxonomyId": "8801",
     "species": "Struthio camelus",
     "taxonomicGroup": [
@@ -14550,6 +14935,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 22928215,
     "ncbiTaxonomyId": "882753",
     "species": "Antennarius maculatus",
     "taxonomicGroup": [
@@ -14610,6 +14996,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 76269206,
     "ncbiTaxonomyId": "8839",
     "species": "Anas platyrhynchos",
     "taxonomicGroup": [
@@ -14647,6 +15034,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 78965412,
     "ncbiTaxonomyId": "8843",
     "species": "Anser anser",
     "taxonomicGroup": [
@@ -14684,6 +15072,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 81481363,
     "ncbiTaxonomyId": "8869",
     "species": "Cygnus olor",
     "taxonomicGroup": [
@@ -14721,6 +15110,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 115508478,
     "ncbiTaxonomyId": "8895",
     "species": "Apus apus",
     "taxonomicGroup": [
@@ -14758,6 +15148,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 58393285,
     "ncbiTaxonomyId": "8905",
     "species": "Podargus strigoides",
     "taxonomicGroup": [
@@ -14795,6 +15186,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 86500895,
     "ncbiTaxonomyId": "8915",
     "species": "Larus fuscus",
     "taxonomicGroup": [
@@ -14832,6 +15224,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 68980706,
     "ncbiTaxonomyId": "8932",
     "species": "Columba livia",
     "taxonomicGroup": [
@@ -14869,6 +15262,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 93682670,
     "ncbiTaxonomyId": "8954",
     "species": "Falco peregrinus",
     "taxonomicGroup": [
@@ -14929,6 +15323,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 35025567,
     "ncbiTaxonomyId": "8957",
     "species": "Accipiter gentilis",
     "taxonomicGroup": [
@@ -14966,6 +15361,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 46934974,
     "ncbiTaxonomyId": "8962",
     "species": "Aquila chrysaetos",
     "taxonomicGroup": [
@@ -15003,6 +15399,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 171742863,
     "ncbiTaxonomyId": "89673",
     "species": "Phyllostomus discolor",
     "taxonomicGroup": [
@@ -15040,6 +15437,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 44398590,
     "ncbiTaxonomyId": "8969",
     "species": "Haliaeetus albicilla",
     "taxonomicGroup": [
@@ -15077,6 +15475,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 29068826,
     "ncbiTaxonomyId": "90069",
     "species": "Solea solea",
     "taxonomicGroup": [
@@ -15114,6 +15513,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 29835075,
     "ncbiTaxonomyId": "90074",
     "species": "Microchirus variegatus",
     "taxonomicGroup": [
@@ -15151,6 +15551,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 90563926,
     "ncbiTaxonomyId": "9031",
     "species": "Gallus gallus",
     "taxonomicGroup": [
@@ -15188,6 +15589,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 94948854,
     "ncbiTaxonomyId": "90520",
     "species": "Podarcis bocagei",
     "taxonomicGroup": [
@@ -15225,6 +15627,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 91932266,
     "ncbiTaxonomyId": "90521",
     "species": "Podarcis gaigeae",
     "taxonomicGroup": [
@@ -15262,6 +15665,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 82903739,
     "ncbiTaxonomyId": "9117",
     "species": "Grus americana",
     "taxonomicGroup": [
@@ -15299,6 +15703,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 90336355,
     "ncbiTaxonomyId": "9123",
     "species": "Gallinula chloropus",
     "taxonomicGroup": [
@@ -15336,6 +15741,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 19030843,
     "ncbiTaxonomyId": "91739",
     "species": "Aricia agestis",
     "taxonomicGroup": [
@@ -15373,6 +15779,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 68462074,
     "ncbiTaxonomyId": "91951",
     "species": "Catharus ustulatus",
     "taxonomicGroup": [
@@ -15410,6 +15817,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 84621172,
     "ncbiTaxonomyId": "9209",
     "species": "Phalacrocorax carbo",
     "taxonomicGroup": [
@@ -15447,6 +15855,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 85472901,
     "ncbiTaxonomyId": "9217",
     "species": "Phoenicopterus ruber",
     "taxonomicGroup": [
@@ -15484,6 +15893,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 110438430,
     "ncbiTaxonomyId": "9226",
     "species": "Ara ararauna",
     "taxonomicGroup": [
@@ -15521,6 +15931,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 89079306,
     "ncbiTaxonomyId": "9240",
     "species": "Spheniscus humboldti",
     "taxonomicGroup": [
@@ -15558,6 +15969,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 74081004,
     "ncbiTaxonomyId": "9244",
     "species": "Calypte anna",
     "taxonomicGroup": [
@@ -15595,6 +16007,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 82577926,
     "ncbiTaxonomyId": "925459",
     "species": "Balearica regulorum",
     "taxonomicGroup": [
@@ -15632,6 +16045,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83338043,
     "ncbiTaxonomyId": "9258",
     "species": "Ornithorhynchus anatinus",
     "taxonomicGroup": [
@@ -15669,6 +16083,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 63379719,
     "ncbiTaxonomyId": "9261",
     "species": "Tachyglossus aculeatus",
     "taxonomicGroup": [
@@ -15706,6 +16121,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 343853051,
     "ncbiTaxonomyId": "92651",
     "species": "Macrotis lagotis",
     "taxonomicGroup": [
@@ -15743,6 +16159,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 40765202,
     "ncbiTaxonomyId": "930266",
     "species": "Salminus brasiliensis",
     "taxonomicGroup": [
@@ -15780,6 +16197,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 611347268,
     "ncbiTaxonomyId": "9305",
     "species": "Sarcophilus harrisii",
     "taxonomicGroup": [
@@ -15817,6 +16235,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 489668034,
     "ncbiTaxonomyId": "9315",
     "species": "Notamacropus eugenii",
     "taxonomicGroup": [
@@ -15854,6 +16273,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 442560073,
     "ncbiTaxonomyId": "9337",
     "species": "Trichosurus vulpecula",
     "taxonomicGroup": [
@@ -15891,6 +16311,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 30578072,
     "ncbiTaxonomyId": "933932",
     "species": "Silurus aristotelis",
     "taxonomicGroup": [
@@ -15928,6 +16349,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 130056132,
     "ncbiTaxonomyId": "9361",
     "species": "Dasypus novemcinctus",
     "taxonomicGroup": [
@@ -15965,6 +16387,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 126757761,
     "ncbiTaxonomyId": "9365",
     "species": "Erinaceus europaeus",
     "taxonomicGroup": [
@@ -16002,6 +16425,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 136888642,
     "ncbiTaxonomyId": "9375",
     "species": "Talpa europaea",
     "taxonomicGroup": [
@@ -16039,6 +16463,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 113811795,
     "ncbiTaxonomyId": "9407",
     "species": "Rousettus aegyptiacus",
     "taxonomicGroup": [
@@ -16076,6 +16501,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 26859436,
     "ncbiTaxonomyId": "941984",
     "species": "Toxotes jaculatrix",
     "taxonomicGroup": [
@@ -16113,6 +16539,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 160127860,
     "ncbiTaxonomyId": "9430",
     "species": "Desmodus rotundus",
     "taxonomicGroup": [
@@ -16150,6 +16577,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 86279620,
     "ncbiTaxonomyId": "9433",
     "species": "Miniopterus schreibersii",
     "taxonomicGroup": [
@@ -16187,6 +16615,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 111098925,
     "ncbiTaxonomyId": "9438",
     "species": "Tadarida brasiliensis",
     "taxonomicGroup": [
@@ -16224,6 +16653,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 114648712,
     "ncbiTaxonomyId": "9440",
     "species": "Antrozous pallidus",
     "taxonomicGroup": [
@@ -16261,6 +16691,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 102162704,
     "ncbiTaxonomyId": "9447",
     "species": "Lemur catta",
     "taxonomicGroup": [
@@ -16298,6 +16729,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 20392628,
     "ncbiTaxonomyId": "946358",
     "species": "Aplochiton taeniatus",
     "taxonomicGroup": [
@@ -16335,6 +16767,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 135917784,
     "ncbiTaxonomyId": "9470",
     "species": "Nycticebus coucang",
     "taxonomicGroup": [
@@ -16372,6 +16805,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 55139090,
     "ncbiTaxonomyId": "948025",
     "species": "Gymnoscopelus braueri",
     "taxonomicGroup": [
@@ -16409,6 +16843,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 155911686,
     "ncbiTaxonomyId": "948063",
     "species": "Notolepis coatsorum",
     "taxonomicGroup": [
@@ -16446,6 +16881,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 136971485,
     "ncbiTaxonomyId": "9483",
     "species": "Callithrix jacchus",
     "taxonomicGroup": [
@@ -16483,6 +16919,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 257319116,
     "ncbiTaxonomyId": "94835",
     "species": "Gavialis gangeticus",
     "taxonomicGroup": [
@@ -16520,6 +16957,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 33039917,
     "ncbiTaxonomyId": "94984",
     "species": "Echiichthys vipera",
     "taxonomicGroup": [
@@ -16557,6 +16995,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 154799650,
     "ncbiTaxonomyId": "9545",
     "species": "Macaca nemestrina",
     "taxonomicGroup": [
@@ -16594,6 +17033,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 146713733,
     "ncbiTaxonomyId": "9590",
     "species": "Symphalangus syndactylus",
     "taxonomicGroup": [
@@ -16654,6 +17094,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 150804130,
     "ncbiTaxonomyId": "9593",
     "species": "Gorilla gorilla",
     "taxonomicGroup": [
@@ -16691,6 +17132,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 147028407,
     "ncbiTaxonomyId": "9597",
     "species": "Pan paniscus",
     "taxonomicGroup": [
@@ -16728,6 +17170,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 146288486,
     "ncbiTaxonomyId": "9598",
     "species": "Pan troglodytes",
     "taxonomicGroup": [
@@ -16765,6 +17208,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 143261986,
     "ncbiTaxonomyId": "9600",
     "species": "Pongo pygmaeus",
     "taxonomicGroup": [
@@ -16802,6 +17246,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 146197178,
     "ncbiTaxonomyId": "9601",
     "species": "Pongo abelii",
     "taxonomicGroup": [
@@ -16863,6 +17308,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 65778685,
     "ncbiTaxonomyId": "9612",
     "species": "Canis lupus",
     "taxonomicGroup": [
@@ -16900,6 +17346,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 64477381,
     "ncbiTaxonomyId": "9622",
     "species": "Lycaon pictus",
     "taxonomicGroup": [
@@ -16937,6 +17384,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 139235879,
     "ncbiTaxonomyId": "9627",
     "species": "Vulpes vulpes",
     "taxonomicGroup": [
@@ -16974,6 +17422,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 149004807,
     "ncbiTaxonomyId": "9657",
     "species": "Lutra lutra",
     "taxonomicGroup": [
@@ -17011,6 +17460,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 132955750,
     "ncbiTaxonomyId": "9662",
     "species": "Meles meles",
     "taxonomicGroup": [
@@ -17048,6 +17498,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 154078643,
     "ncbiTaxonomyId": "9666",
     "species": "Mustela lutreola",
     "taxonomicGroup": [
@@ -17085,6 +17536,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 147124152,
     "ncbiTaxonomyId": "9704",
     "species": "Zalophus californianus",
     "taxonomicGroup": [
@@ -17122,6 +17574,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 117431308,
     "ncbiTaxonomyId": "9725",
     "species": "Inia geoffrensis",
     "taxonomicGroup": [
@@ -17159,6 +17612,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 107080983,
     "ncbiTaxonomyId": "9728",
     "species": "Delphinus delphis",
     "taxonomicGroup": [
@@ -17196,6 +17650,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 105087932,
     "ncbiTaxonomyId": "9731",
     "species": "Globicephala melas",
     "taxonomicGroup": [
@@ -17233,6 +17688,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 114219206,
     "ncbiTaxonomyId": "9733",
     "species": "Orcinus orca",
     "taxonomicGroup": [
@@ -17270,6 +17726,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 105253534,
     "ncbiTaxonomyId": "9737",
     "species": "Stenella coeruleoalba",
     "taxonomicGroup": [
@@ -17307,6 +17764,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 108430135,
     "ncbiTaxonomyId": "9739",
     "species": "Tursiops truncatus",
     "taxonomicGroup": [
@@ -17344,6 +17802,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 110192646,
     "ncbiTaxonomyId": "9742",
     "species": "Phocoena phocoena",
     "taxonomicGroup": [
@@ -17381,6 +17840,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 126538682,
     "ncbiTaxonomyId": "9764",
     "species": "Eschrichtius robustus",
     "taxonomicGroup": [
@@ -17418,6 +17878,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 116513105,
     "ncbiTaxonomyId": "9767",
     "species": "Balaenoptera acutorostrata",
     "taxonomicGroup": [
@@ -17455,6 +17916,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 110314666,
     "ncbiTaxonomyId": "9771",
     "species": "Balaenoptera musculus",
     "taxonomicGroup": [
@@ -17492,6 +17954,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 107416641,
     "ncbiTaxonomyId": "9773",
     "species": "Megaptera novaeangliae",
     "taxonomicGroup": [
@@ -17529,6 +17992,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 127432672,
     "ncbiTaxonomyId": "9783",
     "species": "Elephas maximus",
     "taxonomicGroup": [
@@ -17566,6 +18030,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 119600562,
     "ncbiTaxonomyId": "9785",
     "species": "Loxodonta africana",
     "taxonomicGroup": [
@@ -17603,6 +18068,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 90406661,
     "ncbiTaxonomyId": "9796",
     "species": "Equus caballus",
     "taxonomicGroup": [
@@ -17640,6 +18106,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 129754520,
     "ncbiTaxonomyId": "9802",
     "species": "Tapirus indicus",
     "taxonomicGroup": [
@@ -17677,6 +18144,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 65026825,
     "ncbiTaxonomyId": "9805",
     "species": "Diceros bicornis",
     "taxonomicGroup": [
@@ -17714,6 +18182,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 141798237,
     "ncbiTaxonomyId": "9823",
     "species": "Sus scrofa",
     "taxonomicGroup": [
@@ -17751,6 +18220,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 149218186,
     "ncbiTaxonomyId": "9833",
     "species": "Hippopotamus amphibius",
     "taxonomicGroup": [
@@ -17788,6 +18258,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 72991593,
     "ncbiTaxonomyId": "9838",
     "species": "Camelus dromedarius",
     "taxonomicGroup": [
@@ -17825,6 +18296,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 83473711,
     "ncbiTaxonomyId": "9860",
     "species": "Cervus elaphus",
     "taxonomicGroup": [
@@ -17885,6 +18357,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 114544513,
     "ncbiTaxonomyId": "9886",
     "species": "Muntiacus reevesi",
     "taxonomicGroup": [
@@ -17922,6 +18395,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 102234773,
     "ncbiTaxonomyId": "98922",
     "species": "Myotis daubentonii",
     "taxonomicGroup": [
@@ -17959,6 +18433,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 73962893,
     "ncbiTaxonomyId": "9978",
     "species": "Ochotona princeps",
     "taxonomicGroup": [
@@ -17996,6 +18471,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 144279705,
     "ncbiTaxonomyId": "9986",
     "species": "Oryctolagus cuniculus",
     "taxonomicGroup": [
@@ -18033,6 +18509,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 129271642,
     "ncbiTaxonomyId": "9988",
     "species": "Sylvilagus floridanus",
     "taxonomicGroup": [
@@ -18070,6 +18547,7 @@
         "ucscBrowserUrl": null
       }
     ],
+    "maxScaffoldN50": 155990855,
     "ncbiTaxonomyId": "9997",
     "species": "Spermophilus citellus",
     "taxonomicGroup": [

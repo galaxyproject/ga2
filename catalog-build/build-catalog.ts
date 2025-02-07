@@ -81,11 +81,30 @@ function buildOrganism(
       new Set([...(organism?.assemblyTaxonomyIds ?? []), genome.ncbiTaxonomyId])
     ),
     genomes: [...(organism?.genomes ?? []), genome],
+    maxScaffoldN50: getMaxDefined(organism?.maxScaffoldN50, genome.scaffoldN50),
     ncbiTaxonomyId: genome.speciesTaxonomyId,
     species: genome.species,
     taxonomicGroup: genome.taxonomicGroup,
     tolId: genome.tolId,
   };
+}
+
+/**
+ * Get maximum number among two possibly-absent values, or null if both are null or undefined.
+ * @param a - First value.
+ * @param b - Second value.
+ * @returns maximum number, or null.
+ */
+function getMaxDefined(
+  a: number | null | undefined,
+  b: number | null | undefined
+): number | null {
+  if (typeof a === "number") {
+    if (typeof b === "number") return Math.max(a, b);
+    else return a;
+  } else {
+    return b ?? null;
+  }
 }
 
 async function readValuesFile<T>(
