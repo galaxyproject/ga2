@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.0](https://github.com/galaxyproject/ga2/compare/v0.1.0...v0.1.0) (2025-02-07)
+
+
+### Features
+
+* add n50 column to organism list ([#19](https://github.com/galaxyproject/ga2/issues/19)) ([#29](https://github.com/galaxyproject/ga2/issues/29)) ([bb121d0](https://github.com/galaxyproject/ga2/commit/bb121d08171738c335da077a6a8d1f10d253fb84))
+* upgrade catalog build package for additional logging ([#30](https://github.com/galaxyproject/ga2/issues/30)) ([#31](https://github.com/galaxyproject/ga2/issues/31)) ([5d43e42](https://github.com/galaxyproject/ga2/commit/5d43e42aa827bf15d1267eb5f9feb0fce6055ce8))
+* use appropriate taxonomic groups and add tol id ([#10](https://github.com/galaxyproject/ga2/issues/10)) ([#23](https://github.com/galaxyproject/ga2/issues/23)) ([d4d0e1f](https://github.com/galaxyproject/ga2/commit/d4d0e1f9ae83083dad8a766a03b0fde3486ec71d))
+
 ## 0.1.0 (2025-02-05)
 
 
