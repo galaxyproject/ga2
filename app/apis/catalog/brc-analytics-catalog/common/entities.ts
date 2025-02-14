@@ -25,6 +25,7 @@ export interface BRCDataCatalogGenome {
   scaffoldN50: number | null;
   species: string;
   speciesTaxonomyId: string;
+  sra_data: RawDataCatalog[];
   strain: string | null;
   taxonomicGroup: string[];
   tolId: string | null;
@@ -40,6 +41,21 @@ export interface BRCDataCatalogOrganism {
   species: string;
   taxonomicGroup: string[];
   tolId: string | null;
+}
+
+export interface RawDataCatalog {
+  accession: string;
+  biosample: string;
+  instrument: string;
+  library_layout: string;
+  library_source: string;
+  library_strategy: string;
+  platform: string;
+  run_total_bases: number;
+  sra_run_acc: string;
+  sra_sample_acc: string;
+  sra_study_acc: string;
+  total_bases: number;
 }
 
 export interface EntitiesResponse<R> {

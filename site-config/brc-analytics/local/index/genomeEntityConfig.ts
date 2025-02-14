@@ -108,9 +108,9 @@ export const genomeEntityConfig: BRCEntityConfig<BRCDataCatalogGenome> = {
       {
         columnPinned: true,
         componentConfig: {
-          component: C.BasicCell,
+          component: C.Link,
           viewBuilder: V.buildAccession,
-        } as ComponentConfig<typeof C.BasicCell, BRCDataCatalogGenome>,
+        } as ComponentConfig<typeof C.Link, BRCDataCatalogGenome>,
         header: BRC_DATA_CATALOG_CATEGORY_LABEL.ACCESSION,
         id: BRC_DATA_CATALOG_CATEGORY_KEY.ACCESSION,
         width: { max: "1fr", min: "164px" },
