@@ -3,10 +3,10 @@ import fsp from "fs/promises";
 import {
   BRCDataCatalogGenome,
   BRCDataCatalogOrganism,
-} from "../app/apis/catalog/brc-analytics-catalog/common/entities";
+} from "../../../app/apis/catalog/brc-analytics-catalog/common/entities";
 import { SourceGenome } from "./entities";
 
-const SOURCE_PATH_GENOMES = "catalog-build/source/genomes-from-ncbi.tsv";
+const SOURCE_PATH_GENOMES = "catalog/build/intermediate/genomes-from-ncbi.tsv";
 
 buildCatalog();
 
@@ -25,6 +25,8 @@ async function buildCatalog(): Promise<void> {
 
 async function buildGenomes(): Promise<BRCDataCatalogGenome[]> {
   const sourceRows = await readValuesFile<SourceGenome>(SOURCE_PATH_GENOMES);
+  // const rawddataRows = await readValuesFile<RawDataGenome>(SOURCE_PATH_RAWDATA);
+
   const mappedRows = sourceRows.map((row): BRCDataCatalogGenome => {
     const tolIds = parseList(row.tolId);
     if (tolIds.length > 1)

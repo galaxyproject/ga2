@@ -1,4 +1,4 @@
--e "git+https://github.com/galaxyproject/brc-analytics.git@0893f78c40e10d0f62478bdee920688bad76cba7#egg=catalog_build&subdirectory=catalog-build/package"
+-e "git+https://github.com/galaxyproject/brc-analytics.git@1004775a5c54c58f8ed78ccdfbfbb1b547fb926#egg=catalog_build&subdirectory=catalog/build/py/package"
 certifi==2024.8.30
 charset-normalizer==3.3.2
 idna==3.8
@@ -11,3 +11,5 @@ requests==2.32.3
 six==1.16.0
 tzdata==2024.1
 urllib3==2.2.2
+boto3==1.36.15
+BeautifulSoup4==4.13.3
