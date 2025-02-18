@@ -8,6 +8,7 @@ import { ROUTES } from "../../../../../routes/constants";
 import {
   BRCDataCatalogGenome,
   BRCDataCatalogOrganism,
+  RawDataCatalog,
 } from "../../../../apis/catalog/brc-analytics-catalog/common/entities";
 import * as C from "../../../../components";
 import {
@@ -35,10 +36,11 @@ import { LABEL } from "@databiosphere/findable-ui/lib/apis/azul/common/entities"
  * @returns Props to be used for the cell.
  */
 export const buildAccession = (
-  genome: BRCDataCatalogGenome
-): ComponentProps<typeof C.BasicCell> => {
+  genome: BRCDataCatalogGenome | RawDataCatalog
+): ComponentProps<typeof C.Link> => {
   return {
-    value: genome.accession,
+    label: genome.accession,
+    url: `https://www.ncbi.nlm.nih.gov/datasets/genome/${encodeURIComponent(genome.accession)}/`,
   };
 };
 
@@ -101,6 +103,20 @@ export const buildAssemblyCount = (
 };
 
 /**
+ * Build props for the biosample cell.
+ * @param rawData - RawDataCatalog entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildBiosample = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.Link> => {
+  return {
+    label: rawData.biosample,
+    url: `https://www.ncbi.nlm.nih.gov/Traces/study/?acc=${encodeURIComponent(rawData.biosample)}`,
+  };
+};
+
+/**
  * Build props for the chromosomes cell.
  * @param genome - Genome entity.
  * @returns Props to be used for the cell.
@@ -154,6 +170,19 @@ export const buildGenomeSpecies = (
 };
 
 /**
+ * Build props for the instrument cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildInstrument = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.BasicCell> => {
+  return {
+    value: rawData.instrument,
+  };
+};
+
+/**
  * Build props for the "is ref" cell.
  * @param genome - Genome entity.
  * @returns Props to be used for the cell.
@@ -193,6 +222,45 @@ export const buildLevel = (
 };
 
 /**
+ * Build props for the library latout cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildLibraryLayout = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.BasicCell> => {
+  return {
+    value: rawData.library_layout,
+  };
+};
+
+/**
+ * Build props for the library source cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildLibrarySource = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.BasicCell> => {
+  return {
+    value: rawData.library_source,
+  };
+};
+
+/**
+ * Build props for the library strategy cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildLibraryStrategy = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.BasicCell> => {
+  return {
+    value: rawData.library_strategy,
+  };
+};
+
+/**
  * Build props for the N50 cell.
  * @param organism - Organism entity.
  * @returns Props to be used for the cell.
@@ -202,6 +270,19 @@ export const buildMaxScaffoldN50 = (
 ): ComponentProps<typeof C.BasicCell> => {
   return {
     value: organism.maxScaffoldN50,
+  };
+};
+
+/**
+ * Build props for the platform cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildPlatform = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.BasicCell> => {
+  return {
+    value: rawData.platform,
   };
 };
 
@@ -274,6 +355,48 @@ export const buildScaffoldL50 = (
 };
 
 /**
+ * Build props for the srs cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildSRS = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.Link> => {
+  return {
+    label: rawData.sra_sample_acc,
+    url: `https://www.ncbi.nlm.nih.gov/Traces/study/?acc=${encodeURIComponent(rawData.sra_sample_acc)}`,
+  };
+};
+
+/**
+ * Build props for the srs cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildSRP = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.Link> => {
+  return {
+    label: rawData.sra_study_acc,
+    url: `https://www.ncbi.nlm.nih.gov/Traces/study/?acc=${encodeURIComponent(rawData.sra_study_acc)}`,
+  };
+};
+
+/**
+ * Build props for the srs cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildSRR = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.Link> => {
+  return {
+    label: rawData.sra_run_acc,
+    url: `https://www.ncbi.nlm.nih.gov/Traces/study/?acc=${encodeURIComponent(rawData.sra_run_acc)}`,
+  };
+};
+
+/**
  * Build props for the scaffold N50 cell.
  * @param genome - Genome entity.
  * @returns Props to be used for the cell.
@@ -309,6 +432,19 @@ export const buildTaxonomyId = (
 ): ComponentProps<typeof C.BasicCell> => {
   return {
     value: genome.ncbiTaxonomyId,
+  };
+};
+
+/**
+ * Build props for the total bases cell.
+ * @param rawData - Genome entity.
+ * @returns Props to be used for the cell.
+ */
+export const buildRunTotalBases = (
+  rawData: RawDataCatalog
+): ComponentProps<typeof C.FormattedNumber> => {
+  return {
+    value: rawData.run_total_bases,
   };
 };
 
@@ -515,7 +651,7 @@ function buildOrganismGenomesTableColumns(): ColumnDef<BRCDataCatalogGenome>[] {
     },
     {
       accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.ACCESSION,
-      cell: ({ row }) => C.BasicCell(buildAccession(row.original)),
+      cell: ({ row }) => C.Link(buildAccession(row.original)),
       header: BRC_DATA_CATALOG_CATEGORY_LABEL.ACCESSION,
     },
     {
@@ -577,6 +713,93 @@ function buildOrganismGenomesTableColumns(): ColumnDef<BRCDataCatalogGenome>[] {
       accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.ANNOTATION_STATUS,
       cell: ({ row }) => C.BasicCell(buildAnnotationStatus(row.original)),
       header: BRC_DATA_CATALOG_CATEGORY_LABEL.ANNOTATION_STATUS,
+    },
+  ];
+}
+
+/**
+ * Build props for the genomes table for the given organism.
+ * @param organism - Organism entity.
+ * @returns props to be used for the table.
+ */
+export function buildOrganismPrimaryDataTable(
+  organism: BRCDataCatalogOrganism
+): ComponentProps<typeof C.DetailViewTable<RawDataCatalog>> {
+  return {
+    columns: buildOrganismPrimaryDataTableColumns(),
+    gridTemplateColumns:
+      "auto auto auto auto auto auto auto auto auto auto auto auto auto",
+    items: organism.genomes.flatMap((g) => g.sra_data),
+    noResultsTitle: "No Primary Data",
+    tableOptions: {
+      enableRowPosition: false,
+      initialState: {
+        columnVisibility: { [COLUMN_IDENTIFIER.ROW_POSITION]: false },
+      },
+    },
+  };
+}
+
+/**
+ * Build the column definitions for the organism genomes table.
+ * @returns column definitions.
+ */
+function buildOrganismPrimaryDataTableColumns(): ColumnDef<RawDataCatalog>[] {
+  return [
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.ACCESSION,
+      cell: ({ row }) => C.Link(buildAccession(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.ACCESSION,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.BIOSAMPLE,
+      cell: ({ row }) => C.Link(buildBiosample(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.BIOSAMPLE,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.SRS_ACCESSION,
+      cell: ({ row }) => C.Link(buildSRS(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.SRS_ACCESSION,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.SRP_ACCESSION,
+      cell: ({ row }) => C.Link(buildSRP(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.SRP_ACCESSION,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.SRR_ACCESSION,
+      cell: ({ row }) => C.Link(buildSRR(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.SRR_ACCESSION,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.TOTAL_BASES,
+      cell: ({ row }) => C.FormattedNumber(buildRunTotalBases(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.TOTAL_BASES,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.PLATFORM,
+      cell: ({ row }) => C.BasicCell(buildPlatform(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.PLATFORM,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.INSTRUMENT,
+      cell: ({ row }) => C.BasicCell(buildInstrument(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.INSTRUMENT,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.LIBRARY_STRATEGY,
+      cell: ({ row }) => C.BasicCell(buildLibraryStrategy(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.LIBRARY_STRATEGY,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.LIBRARY_LAYOUT,
+      cell: ({ row }) => C.BasicCell(buildLibraryLayout(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.LIBRARY_LAYOUT,
+    },
+    {
+      accessorKey: BRC_DATA_CATALOG_CATEGORY_KEY.LIBRARY_SOURCE,
+      cell: ({ row }) => C.BasicCell(buildLibrarySource(row.original)),
+      header: BRC_DATA_CATALOG_CATEGORY_LABEL.LIBRARY_SOURCE,
     },
   ];
 }

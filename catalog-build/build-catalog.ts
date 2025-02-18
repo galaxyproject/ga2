@@ -4,9 +4,11 @@ import {
   BRCDataCatalogGenome,
   BRCDataCatalogOrganism,
 } from "../app/apis/catalog/brc-analytics-catalog/common/entities";
-import { SourceGenome } from "./entities";
+import { SourceGenome, RawDataGenome } from "./entities";
 
 const SOURCE_PATH_GENOMES = "catalog-build/source/genomes-from-ncbi.tsv";
+
+const SOURCE_PATH_RAWDATA = "catalog-build/source/primary-data-ncbi.tsv";
 
 buildCatalog();
 
@@ -25,6 +27,8 @@ async function buildCatalog(): Promise<void> {
 
 async function buildGenomes(): Promise<BRCDataCatalogGenome[]> {
   const sourceRows = await readValuesFile<SourceGenome>(SOURCE_PATH_GENOMES);
+  const rawddataRows = await readValuesFile<RawDataGenome>(SOURCE_PATH_RAWDATA);
+
   const mappedRows = sourceRows.map((row): BRCDataCatalogGenome => {
     const tolIds = parseList(row.tolId);
     if (tolIds.length > 1)
@@ -47,6 +51,9 @@ async function buildGenomes(): Promise<BRCDataCatalogGenome[]> {
       scaffoldN50: parseNumberOrNull(row.scaffoldN50),
       species: row.species,
       speciesTaxonomyId: row.speciesTaxonomyId,
+      sra_data: rawddataRows.filter(
+        (rawRow) => rawRow.accession === row.accession
+      ),
       strain: parseStringOrNull(row.strain),
       taxonomicGroup: parseList(row.taxonomicGroup),
       tolId: tolIds[0] ?? null,

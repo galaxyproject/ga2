@@ -9,6 +9,10 @@ export const assembliesMainColumn: ComponentsConfig = [
         component: C.DetailViewTable,
         viewBuilder: V.buildOrganismGenomesTable,
       },
+      {
+        component: C.DetailViewTable,
+        viewBuilder: V.buildOrganismPrimaryDataTable,
+      },
     ],
     component: C.BackPageContentSingleColumn,
   },
