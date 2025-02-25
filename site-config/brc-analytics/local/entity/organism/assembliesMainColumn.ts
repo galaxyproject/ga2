@@ -5,13 +5,17 @@ import * as V from "../../../../../app/viewModelBuilders/catalog/brc-analytics-c
 export const assembliesMainColumn: ComponentsConfig = [
   {
     children: [
-      {
+        {
         component: C.DetailViewTable,
         viewBuilder: V.buildOrganismGenomesTable,
       },
       {
         component: C.DetailViewTable,
         viewBuilder: V.buildOrganismPrimaryDataTable,
+      },
+      {
+        component: C.PretextData,
+        viewBuilder: V.buildOrganismGenomesTable,
       },
     ],
     component: C.BackPageContentSingleColumn,
