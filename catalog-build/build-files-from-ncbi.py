@@ -28,6 +28,18 @@ TAXONOMIC_GROUPS_BY_TAXONOMY_ID = {
   50557: "Insecta",
 }
 
+TAXANOMIC_LEVELS_FOR_TREE = [
+    "domain",
+    "realm",
+    "kingdom",
+    "phylum",
+    "class",
+    "order",
+    "family",
+    "genus",
+    "species",
+]
+
 TOLIDS_BY_TAXONOMY_ID = {
   40674: "m", # Mammalia
   8782: "b", # Aves
@@ -48,12 +60,20 @@ TOLIDS_BY_TAXONOMY_ID = {
   50557: "i", # Insecta
 }
 
+TREE_OUTPUT_PATH = "catalog-build/source/ncbi-taxa-tree.json"
+
 def build_ncbi_data():
-    build_files(ASSEMBLIES_PATH, GENOMES_OUTPUT_PATH, UCSC_ASSEMBLIES_URL, {
-    "taxonomicGroup": TAXONOMIC_GROUPS_BY_TAXONOMY_ID,
-    "tolId": TOLIDS_BY_TAXONOMY_ID,
-    },
-    primary_output_path=PRIMARYDATA_OUTPUT_PATH, extract_primary_data=True)
+    build_files(
+      ASSEMBLIES_PATH,
+      GENOMES_OUTPUT_PATH,
+      UCSC_ASSEMBLIES_URL,
+      TREE_OUTPUT_PATH,
+      TAXANOMIC_LEVELS_FOR_TREE,
+      {
+        "taxonomicGroup": TAXONOMIC_GROUPS_BY_TAXONOMY_ID,
+        "tolId": TOLIDS_BY_TAXONOMY_ID,
+      },
+      primary_output_path=PRIMARYDATA_OUTPUT_PATH, extract_primary_data=True)
 
 if __name__ == "__main__":
   build_ncbi_data()
