@@ -52,14 +52,21 @@ TOLIDS_BY_TAXONOMY_ID = {
 }
 
 def update_assemblies_file(url, output):
-    df = pd.read_csv(url, sep="\t")
-    with open(output, 'w') as writer:
-      writer.write("assemblies:")
-      for _, row in df.sort_values("sciName").iterrows():
-          accession = row['accession']
-          sci_name = row['sciName']
-          writer.write(f"\n # {sci_name}\n - accession: {accession}")
+    try:
+        df = pd.read_csv(url, sep="\t")
+    except Exception as e:
+        print(f"Error fetching data from URL {url}: {e}")
+        return
 
+    try:
+        with open(output, 'w') as writer:
+            writer.write("assemblies:")
+            for _, row in df.sort_values("sciName").iterrows():
+                accession = row['accession']
+                sci_name = row['sciName']
+                writer.write(f"\n # {sci_name}\n - accession: {accession}")
+    except Exception as e:
+        print(f"Error writing to file {output}: {e}")
 def build_ncbi_data():
     # Update assemblies list
     update_assemblies_file(UCSC_ASSEMBLIES_SET_URL, ASSEMBLIES_PATH)
