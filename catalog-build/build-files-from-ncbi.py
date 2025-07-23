@@ -1,4 +1,7 @@
 from catalog_build import build_files
+import pandas as pd
+
+UCSC_ASSEMBLIES_SET_URL = "https://hgdownload.soe.ucsc.edu/hubs/VGP/alignment/vgp.alignment.set.metaData.txt"
 
 ASSEMBLIES_PATH = "catalog-build/source/assemblies.yml"
 
@@ -48,7 +51,19 @@ TOLIDS_BY_TAXONOMY_ID = {
   50557: "i", # Insecta
 }
 
+def update_assemblies_file(url, output):
+    df = pd.read_csv(url, sep="\t")
+    with open(output, 'w') as writer:
+      writer.write("assemblies:")
+      for _, row in df.sort_values("sciName").iterrows():
+          accession = row['accession']
+          sci_name = row['sciName']
+          writer.write(f"\n # {sci_name}\n - accession: {accession}")
+
 def build_ncbi_data():
+    # Update assemblies list
+    update_assemblies_file(UCSC_ASSEMBLIES_SET_URL, ASSEMBLIES_PATH)
+
     build_files(ASSEMBLIES_PATH, GENOMES_OUTPUT_PATH, UCSC_ASSEMBLIES_URL, {
     "taxonomicGroup": TAXONOMIC_GROUPS_BY_TAXONOMY_ID,
     "tolId": TOLIDS_BY_TAXONOMY_ID,
