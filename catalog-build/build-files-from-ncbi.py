@@ -114,7 +114,7 @@ def update_assemblies_file(url, output):
         print(f"Error writing to file {output}: {e}")
 
 
-def fetch_ojbect_storage_file_list(
+def fetch_object_storage_file_list(
   output_file,
   output_file_skipped=None,
   output_file_excluded=None,
