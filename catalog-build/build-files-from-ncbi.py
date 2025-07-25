@@ -26,6 +26,15 @@ OBJECT_GENOMIC_DATA_EXCLUDED_PATH = None
 OBJECT_GENOMIC_DATA_SKIPPED_PATH = None
 #OBJECT_GENOMIC_DATA_SKIPPED_PATH = "catalog-build/source/skipped/jetstream_genomic_data_skipped.tsv"
 
+OBJECT_ASSEMBLY_DATA_PATH = "catalog-build/source/jetstream_assembly_data.tsv"
+# File with a list of files that are in the expected folder but which we don't want to look at
+#OBJECT_ASSEMBLY_DATA_EXCLUDED_PATH = None
+OBJECT_ASSEMBLY_DATA_EXCLUDED_PATH = "catalog-build/source/skipped/jetstream_assembly_data_excluded.tsv"
+# Files in the expected folder, not remove by the exclude format, that doesn't match the expected storage structure 
+#OBJECT_ASSEMBLY_DATA_SKIPPED_PATH = None
+OBJECT_ASSEMBLY_DATA_SKIPPED_PATH = "catalog-build/source/skipped/jetstream_assembly_data_skipped.tsv"
+
+
 UCSC_ASSEMBLIES_URL = "https://hgdownload.soe.ucsc.edu/hubs/BRC/assemblyList.json" # TODO ??
 
 GENOMES_OUTPUT_PATH = "catalog-build/source/genomes-from-ncbi.tsv"
@@ -105,45 +114,44 @@ def update_assemblies_file(url, output):
         print(f"Error writing to file {output}: {e}")
 
 
-def fetch_genomic_file_list(
-    output_file,
-    output_file_skipped=None,
-    output_file_excluded=None,
-    regex_exclude=None,
-    endpoint="https://js2.jetstream-cloud.org:8001",
-    bucket_name="genomeark",
-    prefix="species"
+def fetch_ojbect_storage_file_list(
+  output_file,
+  output_file_skipped=None,
+  output_file_excluded=None,
+  parts_header=None,
+  parts_extract=None,
+  regex_include=None,
+  regex_exclude=None,
+  endpoint="https://js2.jetstream-cloud.org:8001",
+  bucket_name="genomeark",
+  prefix="species"
 ):
     """
-    Extracts a list of genomic data files of interest from an S3-compatible bucket, 
-    filtering and categorizing files based on their storage structure and optional exclusion criteria.
-
-    This function scans all objects under the specified prefix in the bucket, 
-    identifies files matching expected genomic data patterns, and writes details to an output file.
-    Files excluded by a provided regex pattern are saved to a separate file, and files that do not 
-    match the expected structure (but are not excluded) are saved to another file for review.
+    Fetches a list of files from an S3-compatible object storage bucket, applies optional inclusion and exclusion regex filters,
+    and writes the results to output files. Files can be categorized as saved, skipped, or excluded based on the provided filters.
 
     Args:
-      output_file (str): Path to the file where matched genomic data file details will be written.
-      output_file_skipped (str, optional): Path to the file where files not matching expected patterns 
-        (and not excluded) will be listed. If None, skipped files are discarded.
-      output_file_excluded (str, optional): Path to the file where files excluded by regex will be listed.
-        If None, excluded files are discarded.
-      regex_exclude (str, optional): Regular expression pattern to exclude files from the main output.
-        Matching files are written to the excluded file.
-      endpoint (str, optional): S3 endpoint URL for bucket access. Defaults to Jetstream Cloud.
-      bucket_name (str, optional): Name of the S3 bucket to scan. Defaults to "genomeark".
-      prefix (str, optional): Prefix under which to search for genomic data files. Defaults to "species".
+      output_file (str): Path to the output file where the list of selected files will be written.
+      output_file_skipped (str, optional): Path to the file where skipped files (not matching include regex) will be written.
+      output_file_excluded (str, optional): Path to the file where excluded files (matching exclude regex) will be written.
+      parts_header (list of str, optional): Header fields to write at the top of the output file.
+      parts_extract (str, optional): Regular expression pattern to extract parts from the file key for output columns.
+      regex_include (str, optional): Regular expression pattern; only files matching this pattern are included.
+      regex_exclude (str, optional): Regular expression pattern; files matching this pattern are excluded.
+      endpoint (str, optional): S3 endpoint URL. Defaults to Jetstream Cloud public endpoint.
+      bucket_name (str, optional): Name of the S3 bucket to query. Defaults to "genomeark".
+      prefix (str, optional): Prefix within the bucket to filter objects. Defaults to "species".
 
-    Notes:
-      - The output file contains tab-separated columns: sciName, ToLID, platform, file, path, extension.
-      - Excluded and skipped files are saved with minimal information (just the path).
-      - The function uses unsigned S3 access for public buckets.
-      - Only files under the "/genomic_data" subdirectory are considered.
-      - The function is intended for extracting raw data files of interest for downstream analysis.
+    Writes:
+      - output_file: Tab-delimited file with selected files and extracted parts (if applicable).
+      - output_file_skipped: Tab-delimited file with skipped files (if specified).
+      - output_file_excluded: Tab-delimited file with excluded files (if specified).
 
-    Raises:
-      Any exceptions raised by boto3 or file I/O operations are propagated.
+    Logs:
+      Summary of total, saved, excluded, and skipped files.
+
+    Note:
+      Requires `boto3`, `botocore`, and `re` modules.
     """
     class NullWriter:
       def write(self, *_):
@@ -152,7 +160,6 @@ def fetch_genomic_file_list(
           pass
     # Initialize counters at the start of the function
     counter_total, counter_save, counter_skipped, counter_excluded = 0, 0, 0, 0
-
     # Helper function to extract file extension, handling compressed files
     def extract_extension(file):
       parts = file.split(".")
@@ -162,7 +169,6 @@ def fetch_genomic_file_list(
         else:
           return ".".join(parts[-2:])
       return parts[-1]
-    
     # Create an S3 client with unsigned access for public bucket
     session = boto3.Session()
     client = session.client(
@@ -178,44 +184,47 @@ def fetch_genomic_file_list(
       open(output_file_skipped, 'w') if output_file_skipped else nullcontext(NullWriter()) as skipped_writer, \
       open(output_file_excluded, 'w') if output_file_excluded else nullcontext(NullWriter()) as excluded_writer:
       # Write headers to output files
-      writer.write(f"#Exclude regex: {regex_exclude}\n")
-      writer.write("#sciName\tToLID\tplatform\tfile\tpath\textension")
+      writer.write(f"##Exclude regex: {regex_exclude}")
+      writer.write(f"\n##Include regex: {regex_include}")
+      if parts_header is not None:
+        writer.write("\n#" + "\t".join(parts_header + ["path", "extension"]))
+      else:
+        writer.write("\n#File\textension")
       skipped_writer.write(f"#Exclude regex: {regex_exclude}")
+      skipped_writer.write("\n#File\textension")
       excluded_writer.write(f"#Exclude regex: {regex_exclude}")
+      excluded_writer.write("\n#File\textension")
       # Iterate through each page of results
+      # Filter file in the following order
+      #  1 - files not matching include regex
+      #  2 - files matching exclude regex
+      #  3 - files where we can't extract the different parts of interest
       for page in pages:
         for obj in page.get('Contents', []):
-          key = obj['Key']
+          object_file = obj['Key']
           counter_total += 1
-          # Filter files by required substring
-          if "/genomic_data/" not in key:
+          # 1 - Filter file not matching to include regex
+          if regex_include is not None and not re.search(regex_include, object_file):
+            skipped_writer.write(f"\n" + object_file + "\t" + extract_extension(object_file.split("/")[-1]))
+            counter_skipped += 1
             continue
-          # Exclude files matching the regex pattern
-          if regex_exclude is not None and re.search(regex_exclude, key):
-            excluded_writer.write(f"\n{key}")
+          # 2 - Filter file matchin exclude regex pattern
+          if regex_exclude is not None and re.search(regex_exclude, object_file):
+            excluded_writer.write(f"\n" + object_file + "\t" + extract_extension(object_file.split("/")[-1]))
             counter_excluded += 1
             continue
-          # Try to match the key to the expected genomic data file pattern (strict)
-          match1 = re.match(
-            r"species/([A-Za-z]+_[a-z]+)/([a-z]+[A-Z][a-z]+[A-Za-z]+\d+)/genomic_data/([A-Za-z0-9_-]+)/([^/]+)$",
-            key
-          )
-          if match1:
-            sciName, tolid, platform, filename = match1.groups()
-            writer.write(f"\n{sciName}\t{tolid}\t{platform}\t{filename}\t{key}\t{extract_extension(filename)}")
-            counter_save += 1
+          # 3 - Try to match the object_file to the expected parts (strict)
+          if parts_extract is None:
+            writer.write(f"\n{object_file}")
             continue
-          # Try to match a more permissive pattern for genomic data files
-          match2 = re.match(
-            r"species/([A-Za-z]+_[a-z]+)/([a-z]+[A-Z][a-z]+[A-Za-z]+\d+)/genomic_data/(.+)/([^/]+)$",
-            key
-          )
-          if match2:
-            sciName, tolid, platform, filename = match2.groups()
-            writer.write(f"\n{sciName}\t{tolid}\t{platform}\t{filename}\t{key}\t{extract_extension(filename)}")
-            counter_save += 1
-            continue
-          # If no pattern matches, write the key to the skipped file.
+          else:
+            parts = re.match(parts_extract, object_file) 
+            if parts:
+              writer.write("\n" + "\t".join(map(lambda x: x or "", parts.groups())) +"\t" +  object_file + "\t" + extract_extension(object_file))
+              counter_save += 1
+              continue
+          # Files not matching any of our regex
+          skipped_writer.write(f"\n" + object_file + "\t" + extract_extension(object_file.split("/")[-1]))
           counter_skipped += 1
     logging.info(f"Total files: {counter_total}, Saved: {counter_save}, excluded: {counter_excluded}, skipped: {counter_skipped}")
     
@@ -223,13 +232,27 @@ def fetch_genomic_file_list(
 def build_ncbi_data():
     # Update assemblies list
     update_assemblies_file(UCSC_ASSEMBLIES_SET_URL, ASSEMBLIES_PATH)
-    
-    # Get a start list of files from Jetstream2 object storage
-    fetch_genomic_file_list(
+    # Get a start list of raw data files from Jetstream2 object storage
+    logging.info("Parsing genomic raw data files from ojbect storage")
+    fetch_ojbect_storage_file_list(
       OBJECT_GENOMIC_DATA_PATH,
       OBJECT_GENOMIC_DATA_SKIPPED_PATH,
       OBJECT_GENOMIC_DATA_EXCLUDED_PATH,
-      regex_exclude=r"intermediates|scripts|transferdone|run-info|.*\.txt$|.*\.txt\.gz$|.*\.log$|.*\.log\.gz$|.*\.TXT$|.*\.tsv$|.*\.csv$|.*\.tsv\.gz$|.*\.tsv\.gz$|.*\.json\.gz$|.*\.json$|.*\.json$|.*\.md5?$|.*\.xml\.gz$|.*\.pkl$|.*\.xml$|.*\.yaml$|.*\.html$|.*\.out$|.*\.stats$|.*\.rd$|.*\.sh$|.*\.hist$|.*\.errbin$|/gc/|README|readme")
+      ["sciName", "ToLID", "platform", "sub_path" "file"],
+      r"species\/([A-Za-z]+_[A-Za-z_]+)\/([a-zA-Z0-9]+)\/genomic_data\/(?:(.+?)\/)?(.+\/)?([^\/]+)$",
+      regex_include=r"^species/[A-Za-z_]+/[A-Za-z0-9]+/genomic_data/.+(cram$|cram\.crai$|fastq$|bam$|bam\.pbi$|fastq\.gz$|\.fq\.gz$|\.fq\.gz\.fai$|fastqsanger\.gz$|pod5$|pod5\.tar$|xmap$|fast5$|sam$|cmap$|cmap\.gz$)",
+      regex_exclude=None)
+
+    # Get a start list of assemblies from Jetstream2 object storage
+    logging.info("Parsing assembly files from ojbect storage")
+    fetch_ojbect_storage_file_list(
+      OBJECT_ASSEMBLY_DATA_PATH,
+      OBJECT_ASSEMBLY_DATA_SKIPPED_PATH,
+      OBJECT_ASSEMBLY_DATA_EXCLUDED_PATH,
+      ["sciName", "ToLID", "assembly", "sub_path" "file"],
+      r"species\/([A-Za-z]+_[A-Za-z_]+)\/([a-zA-Z0-9]+)\/(assembly_[A-Za-z_]*)\/(?:(.+?)\/)?(.+\/)?([^\/]+)$",
+      regex_include=r"^species/[A-Za-z_]+/[A-Za-z0-9]+/assembly_[A-Za-z_]*/.+(fasta$|fa$|fasta\.gz$|fa\.gz$)",
+      regex_exclude="intermediates")
 
     build_files(
       ASSEMBLIES_PATH,
