@@ -233,7 +233,7 @@ def build_ncbi_data():
     # Update assemblies list
     update_assemblies_file(UCSC_ASSEMBLIES_SET_URL, ASSEMBLIES_PATH)
     # Get a start list of raw data files from Jetstream2 object storage
-    logging.info("Parsing genomic raw data files from ojbect storage")
+    logging.info("Parsing genomic raw data files from object storage")
     fetch_ojbect_storage_file_list(
       OBJECT_GENOMIC_DATA_PATH,
       OBJECT_GENOMIC_DATA_SKIPPED_PATH,
