@@ -238,7 +238,7 @@ def build_ncbi_data():
       OBJECT_GENOMIC_DATA_PATH,
       OBJECT_GENOMIC_DATA_SKIPPED_PATH,
       OBJECT_GENOMIC_DATA_EXCLUDED_PATH,
-      ["sciName", "ToLID", "platform", "sub_path" "file"],
+      ["sciName", "ToLID", "platform", "sub_path", "file"],
       r"species\/([A-Za-z]+_[A-Za-z_]+)\/([a-zA-Z0-9]+)\/genomic_data\/(?:(.+?)\/)?(.+\/)?([^\/]+)$",
       regex_include=r"^species/[A-Za-z_]+/[A-Za-z0-9]+/genomic_data/.+(cram$|cram\.crai$|fastq$|bam$|bam\.pbi$|fastq\.gz$|\.fq\.gz$|\.fq\.gz\.fai$|fastqsanger\.gz$|pod5$|pod5\.tar$|xmap$|fast5$|sam$|cmap$|cmap\.gz$)",
       regex_exclude=None)
