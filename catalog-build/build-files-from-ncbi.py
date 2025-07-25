@@ -244,8 +244,8 @@ def build_ncbi_data():
       regex_exclude=None)
 
     # Get a start list of assemblies from Jetstream2 object storage
-    logging.info("Parsing assembly files from ojbect storage")
-    fetch_ojbect_storage_file_list(
+    logging.info("Parsing assembly files from object storage")
+    fetch_object_storage_file_list(
       OBJECT_ASSEMBLY_DATA_PATH,
       OBJECT_ASSEMBLY_DATA_SKIPPED_PATH,
       OBJECT_ASSEMBLY_DATA_EXCLUDED_PATH,
