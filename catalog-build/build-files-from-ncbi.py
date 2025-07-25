@@ -249,7 +249,7 @@ def build_ncbi_data():
       OBJECT_ASSEMBLY_DATA_PATH,
       OBJECT_ASSEMBLY_DATA_SKIPPED_PATH,
       OBJECT_ASSEMBLY_DATA_EXCLUDED_PATH,
-      ["sciName", "ToLID", "assembly", "sub_path" "file"],
+      ["sciName", "ToLID", "assembly", "sub_path", "file"],
       r"species\/([A-Za-z]+_[A-Za-z_]+)\/([a-zA-Z0-9]+)\/(assembly_[A-Za-z_]*)\/(?:(.+?)\/)?(.+\/)?([^\/]+)$",
       regex_include=r"^species/[A-Za-z_]+/[A-Za-z0-9]+/assembly_[A-Za-z_]*/.+(fasta$|fa$|fasta\.gz$|fa\.gz$)",
       regex_exclude="intermediates")
