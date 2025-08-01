@@ -12,7 +12,7 @@ import { organismEntityConfig } from "./index/organismEntityConfig";
 import { socialMedia } from "./socialMedia";
 
 const LOCALHOST = "http://localhost:3000";
-const APP_TITLE = "Genome Ark 2";
+const APP_TITLE = "Genome Ark Analytics";
 const BROWSER_URL = LOCALHOST;
 const GIT_HUB_REPO_URL = "https://github.com/galaxyproject/ga2";
 
