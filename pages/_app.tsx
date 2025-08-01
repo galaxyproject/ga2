@@ -9,7 +9,7 @@ import { Header as DXHeader } from "@databiosphere/findable-ui/lib/components/La
 import { Main as DXMain } from "@databiosphere/findable-ui/lib/components/Layout/components/Main/main";
 import { ConfigProvider as DXConfigProvider } from "@databiosphere/findable-ui/lib/providers/config";
 import { ExploreStateProvider } from "@databiosphere/findable-ui/lib/providers/exploreState";
-import { LayoutStateProvider } from "@databiosphere/findable-ui/lib/providers/layoutState";
+import { LayoutDimensionsProvider } from "@databiosphere/findable-ui/lib/providers/layoutDimensions/provider";
 import { SystemStatusProvider } from "@databiosphere/findable-ui/lib/providers/systemStatus";
 import { DataExplorerError } from "@databiosphere/findable-ui/lib/types/error";
 import { ThemeProvider as EmotionThemeProvider } from "@emotion/react";
@@ -20,7 +20,7 @@ import { StyledFooter } from "../app/components/Layout/components/Footer/footer.
 import { config } from "../app/config/config";
 import { mergeAppTheme } from "../app/theme/theme";
 import { GoogleSignInAuthenticationProvider } from "@databiosphere/findable-ui/lib/providers/googleSignInAuthentication/provider";
-
+import { ServicesProvider } from "@databiosphere/findable-ui/lib/providers/services/provider";
 const DEFAULT_ENTITY_LIST_TYPE = "organisms";
 
 export interface PageProps extends AzulEntitiesStaticResponse {
@@ -60,39 +60,41 @@ function MyApp({ Component, pageProps }: AppPropsWithComponent): JSX.Element {
         <DXConfigProvider config={appConfig} entityListType={entityListType}>
           <Head pageTitle={pageTitle} />
           <CssBaseline />
-          <SystemStatusProvider>
-            <GoogleSignInAuthenticationProvider>
-              <LayoutStateProvider>
-                <AppLayout>
-                  <DXHeader {...header} />
-                  <ExploreStateProvider entityListType={entityListType}>
-                    <Main>
-                      <ErrorBoundary
-                        fallbackRender={({
-                          error,
-                          reset,
-                        }: {
-                          error: DataExplorerError;
-                          reset: () => void;
-                        }): JSX.Element => (
-                          <Error
-                            errorMessage={error.message}
-                            requestUrlMessage={error.requestUrlMessage}
-                            rootPath={redirectRootToPath}
-                            onReset={reset}
-                          />
-                        )}
-                      >
-                        <Component {...pageProps} />
-                        <Floating {...floating} />
-                      </ErrorBoundary>
-                    </Main>
-                  </ExploreStateProvider>
-                  <StyledFooter {...footer} />
-                </AppLayout>
-              </LayoutStateProvider>
-            </GoogleSignInAuthenticationProvider>
-          </SystemStatusProvider>
+          <ServicesProvider>
+            <SystemStatusProvider>
+              <GoogleSignInAuthenticationProvider>
+                <LayoutDimensionsProvider>
+                  <AppLayout>
+                    <DXHeader {...header} />
+                    <ExploreStateProvider entityListType={entityListType}>
+                      <Main>
+                        <ErrorBoundary
+                          fallbackRender={({
+                            error,
+                            reset,
+                          }: {
+                            error: DataExplorerError;
+                            reset: () => void;
+                          }): JSX.Element => (
+                            <Error
+                              errorMessage={error.message}
+                              requestUrlMessage={error.requestUrlMessage}
+                              rootPath={redirectRootToPath}
+                              onReset={reset}
+                            />
+                          )}
+                        >
+                          <Component {...pageProps} />
+                          <Floating {...floating} />
+                        </ErrorBoundary>
+                      </Main>
+                    </ExploreStateProvider>
+                    <StyledFooter {...footer} />
+                  </AppLayout>
+                </LayoutDimensionsProvider>
+              </GoogleSignInAuthenticationProvider>
+            </SystemStatusProvider>
+          </ServicesProvider>
         </DXConfigProvider>
       </ThemeProvider>
     </EmotionThemeProvider>

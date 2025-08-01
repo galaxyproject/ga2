@@ -14,13 +14,13 @@
     "build-ga2-db": "esrun catalog-build/build-catalog.ts"
   },
   "dependencies": {
-    "@databiosphere/findable-ui": "^21.0.0",
+    "@databiosphere/findable-ui": "^38.2.0",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@mdx-js/loader": "^3.0.1",
     "@mdx-js/react": "^3.0.1",
-    "@mui/icons-material": "^6.1.5",
-    "@mui/material": "^6.1.5",
+    "@mui/icons-material": "^7.0.1",
+    "@mui/material": "^7.0.1",
     "@next/mdx": "^14.1.0",
     "@tanstack/react-table": "^8.19.2",
     "copy-to-clipboard": "^3.3.1",
